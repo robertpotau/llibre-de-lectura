@@ -1,0 +1,18 @@
+﻿# Claus i secrets: mai al repositori
+.azure-speech/
+*.key
+*.pem
+.env
+.env.*
+*secret*
+*clau*
+azure-speech*.json
+llibre-lectura.json
+local.settings.json
+
+# Accessos directes de Windows (porten rutes absolutes)
+*.lnk
+
+node_modules/
+Thumbs.db
+.DS_Store
