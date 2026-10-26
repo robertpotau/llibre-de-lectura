@@ -31,12 +31,15 @@
     pila: "🔋", pilota: "⚽", pinzell: "🖌️", ploma: "✒️", porta: "🚪", pot: "🥫", pou: "🕳️", ratpenat: "🦇",
     raïm: "🍇", regle: "📏", rellotge: "⏰", salt: "🤸", sol: "☀️", somriure: "😊", telescopi: "🔭", teules: "🏠",
     trompeta: "🎺", ull: "👁️", urpa: "🐾", vent: "💨", conill: "🐇",
+    // capítol 2
+    peu: "🦶", carta: "✉️", carro: "🛒", regal: "🎁", guant: "🧤", cocodril: "🐊", mar: "🌊", morsa: "🦭", hipopotam: "🦛", gat: "🐈", gos: "🐕",
   };
-  const ESPECIAL = {
-    tipus: "especial", categoria: "especial", dificultat: 4, lema: C.titol.ca, en: C.titol.en,
+  const especialDe = (cap) => ({
+    tipus: "especial", categoria: "especial", dificultat: 4, lema: cap.titol.ca, en: cap.titol.en,
     definicio: "Carta especial del capítol: has aconseguit totes les paraules marcades d'un dels nivells.",
-    sinonim: "—", exemple: "És el primer capítol de la història de l'Alícia.", carta: { motiu: "conill" },
-  };
+    sinonim: "—", exemple: "Una carta especial de la història de l'Alícia: capítol " + (parseInt(String(cap.capitol).replace(/\D/g, ""), 10) || 1) + ".", carta: { motiu: "conill" },
+  });
+  const TOTS = window.CAPITOLS || { [C.capitol]: C };
 
   const $ = (s, r = document) => r.querySelector(s);
   const esc = (t) => String(t).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
@@ -50,8 +53,14 @@
   const te = (id) => !!col[clau(id)];
 
   // --- catàleg ---
-  const CATALEG = Object.keys(C.glossari).map((id) => ({ id, key: clau(id), g: C.glossari[id] }));
-  CATALEG.push({ id: "especial", key: clau("especial"), g: ESPECIAL });
+  // l'àlbum recull les cartes de tots els capítols; els premis del repte, només els del capítol que es llegeix
+  const CATALEG = [];
+  Object.keys(TOTS).sort().forEach((cid) => {
+    const cap = TOTS[cid], pre = cap.llibre + "." + cap.capitol + ".";
+    Object.keys(cap.glossari).forEach((id) => CATALEG.push({ id, key: pre + id, g: cap.glossari[id], cap: cid }));
+    CATALEG.push({ id: "especial", key: pre + "especial", g: especialDe(cap), cap: cid });
+  });
+  const ESPECIAL = especialDe(C);
   const TOTAL = CATALEG.length;
 
   function idsNivell(n) {
@@ -64,13 +73,13 @@
   }
   const IDS_NIVELL = Object.fromEntries(NIVELLS.map(([n]) => [n, idsNivell(n)]));
 
-  function estatCarta(id) {
-    const c = col[clau(id)];
+  function estatCarta(key) {
+    const c = col[key];
     if (!c) return "bloquejada";
     if (c.nou) return "nova";
     return (c.encerts || 0) >= 2 ? "dominada" : "vista";
   }
-  const quantes = () => CATALEG.filter((x) => te(x.id)).length;
+  const quantes = () => CATALEG.filter((x) => col[x.key]).length;
   const hiHaNoves = () => CATALEG.some((x) => col[x.key] && col[x.key].nou);
 
   // --- premis en acabar el repte ---
@@ -184,7 +193,7 @@
     el.setAttribute("role", "button");
     const motiu = MOTIUS[g.carta && g.carta.motiu] || "✨";
     const nova = mode === "album" && col[item.key] && col[item.key].nou;
-    const dominada = mode === "album" && estatCarta(item.id) === "dominada";
+    const dominada = mode === "album" && estatCarta(item.key) === "dominada";
 
     let davant, darrere;
     if (mode === "bloquejada") {
@@ -303,7 +312,7 @@
   function obreAlbum(opts) {
     const alTancar = opts && typeof opts.alTancar === "function" ? opts.alTancar : null;
     if (obert) obert.tanca();
-    const f = { raresa: new Set(), categoria: "", estat: "", text: "", ordre: "raresa" };
+    const f = { raresa: new Set(), categoria: "", estat: "", text: "", ordre: "raresa", capitol: "" };
     const fons = obre("cc-album", `
       <div class="cc-panell">
         <header class="cc-capcalera">
@@ -315,6 +324,8 @@
           <div class="cc-raresa" role="group" aria-label="Filtra per raresa">
             ${RARESA.map((r, i) => `<button type="button" class="cc-xip r${i + 1}" data-r="${i + 1}" aria-pressed="false">${"◆".repeat(i + 1)} ${r}</button>`).join("")}
           </div>
+          ${Object.keys(TOTS).length > 1 ? `<label>Capítol
+            <select id="cc-f-cap"><option value="">Tots</option>${Object.keys(TOTS).sort().map((k) => `<option value="${k}">${parseInt(k.replace(/\D/g, ""), 10)}. ${esc(TOTS[k].titol.ca)}</option>`).join("")}</select></label>` : ""}
           <label>Categoria
             <select id="cc-f-cat"><option value="">Totes</option>${Object.entries(CATEGORIES).map(([k, v]) => `<option value="${k}">${v.nom}</option>`).join("")}</select></label>
           <label>Estat
@@ -339,7 +350,8 @@
     const graella = $("#cc-graella", fons);
 
     function passa(item) {
-      const st = estatCarta(item.id);
+      const st = estatCarta(item.key);
+      if (f.capitol && item.cap !== f.capitol) return false;
       if (f.raresa.size && !f.raresa.has(item.g.dificultat)) return false;
       if (f.categoria && item.g.categoria !== f.categoria) return false;
       if (f.estat && st !== f.estat) return false;
@@ -361,7 +373,7 @@
       if (!llista.length) {
         graella.innerHTML = `<p class="cc-buit">No hi ha cap carta amb aquests filtres.</p>`;
       }
-      llista.forEach((it) => graella.appendChild(creaCarta(it, te(it.id) ? "album" : "bloquejada")));
+      llista.forEach((it) => graella.appendChild(creaCarta(it, col[it.key] ? "album" : "bloquejada")));
       $("#cc-comptador-album", fons).textContent = `Tens ${quantes()} de ${TOTAL} cartes`;
       $("#cc-nivells", fons).innerHTML = NIVELLS.map(([n, nom]) => {
         const tot = IDS_NIVELL[n].length, tinc = IDS_NIVELL[n].filter(te).length;
@@ -380,6 +392,8 @@
         pintaGraella();
       }
     });
+    const selCap = $("#cc-f-cap", fons);
+    if (selCap) selCap.addEventListener("change", (e) => { f.capitol = e.target.value; pintaGraella(); });
     $("#cc-f-cat", fons).addEventListener("change", (e) => { f.categoria = e.target.value; pintaGraella(); });
     $("#cc-f-estat", fons).addEventListener("change", (e) => { f.estat = e.target.value; pintaGraella(); });
     $("#cc-f-ordre", fons).addEventListener("change", (e) => { f.ordre = e.target.value; pintaGraella(); });

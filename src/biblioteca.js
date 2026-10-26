@@ -464,8 +464,10 @@
     const cabinet = new THREE.Group();
     const matCaixo = new THREE.MeshStandardMaterial({ color: 0xb88950, map: texFusta, roughness: 0.6 });
     const matManeta = new THREE.MeshStandardMaterial({ color: 0xd9a441, metalness: 0.7, roughness: 0.3 });
-    const cuerpo = box(0.95, 1.1, 0.5, matFustaFosca, 0, 0.61, 0);
+    // la caixa arriba fins a 1,50 m: el calaix de dalt (fins a 1,28) i la placa (1,35–1,49) hi queden dins; abans la caixa s'acabava a 1,16 i ambdós sobresortien
+    const cuerpo = box(0.95, 1.44, 0.5, matFustaFosca, 0, 0.78, 0);
     cabinet.add(cuerpo);
+    cabinet.add(box(1.01, 0.05, 0.56, matFustaFosca, 0, 1.525, 0)); // tapa superior, una mica més ampla
     const calaixos = [];
     for (let r = 0; r < 4; r++) for (let c = 0; c < 3; c++) {
       const cal = box(0.28, 0.23, 0.03, matCaixo.clone(), -0.3 + c * 0.3, 0.2 + r * 0.26 + 0.18, 0.26);
@@ -483,7 +485,7 @@
         g.fillText("Àlbum de paraules", w / 2, h / 2 + 2);
       }),
     }));
-    placa.position.set(0, 1.26, 0.27);
+    placa.position.set(0, 1.42, 0.27);
     placa.castShadow = true;
     cabinet.add(placa);
     cabinet.position.set(1.1, 0, 0.95);
@@ -825,7 +827,7 @@
       tip.innerHTML = `<strong>Àlbum de paraules</strong><span>Les teves cartes ${n}</span>`;
     } else {
       const d = info.def;
-      tip.innerHTML = `<strong>${d.titol}</strong><span>${d.autor}</span><em class="${d.disponible ? "ok" : ""}">${d.disponible ? "Clica per llegir el capítol 1" : "Aviat"}</em>`;
+      tip.innerHTML = `<strong>${d.titol}</strong><span>${d.autor}</span><em class="${d.disponible ? "ok" : ""}">${d.disponible ? "Clica per llegir (capítols 1 i 2)" : "Aviat"}</em>`;
     }
     tip.hidden = false;
     posicionaTip(x, y);

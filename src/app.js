@@ -14,6 +14,9 @@
   const RARESA = ["Comuna", "Rara", "Èpica", "Llegendària"];
   const MARCA = /\{([^|}]+)\|([^}]+)\}/g;
   const LLISTA = C.paragrafs.filter((p) => p.tipus !== "separador");
+  // àudio pregenerat d'aquest capítol: audio-cNN.js -> window.AUDIO_CAP.cNN = { audio: {nivell:{veu:{pNNN:{d,f}}}}, cartes: {fem:[ids], masc:[ids]} }
+  const AUDIO_CAP = (window.AUDIO_CAP || {})[C.capitol] || {};
+  const AUDIO = AUDIO_CAP.audio || {};
 
   const $ = (id) => document.getElementById(id);
   const estat = { nivell: "normal", mostraEN: false };
@@ -63,7 +66,7 @@
 
   // --- pintat ---
   function pinta() {
-    $("llibre-titol").textContent = "Alice's Adventures in Wonderland · Capítol 1";
+    $("llibre-titol").textContent = "Alice's Adventures in Wonderland · Capítol " + (parseInt(String(C.capitol).replace(/\D/g, ""), 10) || 1);
     $("capitol-titol").textContent = C.titol.ca;
     $("peu").textContent = "Text original de Lewis Carroll (1865), domini públic. Traducció i adaptació en català: © 2026 Robert Potau Nuñez, tots els drets reservats (feta amb ajuda d'IA; esborrany en revisió). Veus sintètiques generades amb Azure AI Speech (Microsoft)." + (window.JOC ? " " + window.JOC.text : "");
 
@@ -79,11 +82,11 @@
         continue;
       }
       const sec = document.createElement("section");
-      sec.className = "par";
+      sec.className = "par" + (p.tipus === "poema" ? " poema" : "");
       sec.dataset.id = p.id;
       // si hi ha àudio, el paràgraf es reparteix en frases (les mateixes que el generador d'àudio) per poder ressaltar la que sona
       let cos = html(p.ca[estat.nivell]);
-      const dadesAudio = window.AUDIO_C01 && window.AUDIO_C01[estat.nivell] && window.AUDIO_C01[estat.nivell].fem && window.AUDIO_C01[estat.nivell].fem[p.id];
+      const dadesAudio = AUDIO[estat.nivell] && AUDIO[estat.nivell].fem && AUDIO[estat.nivell].fem[p.id];
       if (dadesAudio) {
         const fr = frasesCrues(p.ca[estat.nivell]);
         if (fr.length === dadesAudio.f.length) cos = fr.map((x, k) => `<span class="fr" data-f="${k}">${html(x)}</span>`).join(" ");
@@ -178,10 +181,9 @@
   // estat: "inicial" (res començat) | "sona" | "pausa" | "aturat" (aturat, amb el paràgraf marcat)
   const rep = { i: -1, token: 0, estat: "inicial", mode: "tts" }; // mode: "mp3" (àudio real) | "tts" (veu del navegador, de reserva)
 
-  // --- àudio real: mp3 d'Azure (Joana = "fem", Enric = "masc") pregenerats; src/audio-c01.js diu quins paràgrafs en tenen ---
+  // --- àudio real: mp3 d'Azure (Joana = "fem", Enric = "masc") pregenerats; src/audio-cNN.js diu quins paràgrafs en tenen ---
   const so = new Audio();
   so.preload = "auto";
-  const AUDIO = window.AUDIO_C01 || {};
   const teAudio = (i) => !!(AUDIO[estat.nivell] && AUDIO[estat.nivell][estat.veuGen] && AUDIO[estat.nivell][estat.veuGen][LLISTA[i].id]);
   const volumVeu = () => (window.MUSICA ? window.MUSICA.volVeu : 1);
   // la música i els controls de volum fan servir això: el volum de la veu s'aplica a l'instant
@@ -191,7 +193,7 @@
   // retorna true si ha pogut reproduir l'mp3 de la carta (si no, qui crida fa servir la veu del navegador)
   window.VEU_CARTA = {
     parla(id) {
-      const A = window.AUDIO_CARTES;
+      const A = AUDIO_CAP.cartes;
       if (!id || !A || !A[estat.veuGen] || !A[estat.veuGen].includes(id)) return false;
       soCarta.pause();
       atura();
@@ -496,6 +498,22 @@
     pintaNarrador();
     if (rep.estat === "sona" && teAudio(rep.i)) llegeix(rep.i); // si sona, continua amb la veu nova des del principi del paràgraf
   }));
+
+  // selector de capítol: desa la tria i recarrega (cada capítol té les seves dades, àudio, repte i marcador)
+  const selCap = $("sel-capitol");
+  const totsCap = window.CAPITOLS || {};
+  Object.keys(totsCap).sort().forEach((k) => {
+    const o = document.createElement("option");
+    o.value = k;
+    o.textContent = (parseInt(k.replace(/\D/g, ""), 10) || 1) + ". " + totsCap[k].titol.ca;
+    o.selected = k === C.capitol;
+    selCap.appendChild(o);
+  });
+  selCap.closest(".sel-capitol").hidden = Object.keys(totsCap).length < 2;
+  selCap.addEventListener("change", () => {
+    desar("capitol", selCap.value);
+    window.location.href = window.location.pathname + "?cap=" + selCap.value;
+  });
 
   // --- inici ---
   estat.veuGen = llegir("veuGen", "fem") === "masc" ? "masc" : "fem";

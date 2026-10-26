@@ -95,6 +95,7 @@ body.lletra-facil .pg, body.lletra-facil .mesura {
 .pg-flux h1 { font-size: 2rem; margin-top: 4px; }
 .pg-flux .par { margin: 0 0 .9em; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
 .pg-flux .par .ca { margin: 0; }
+.pg-flux .par.poema .ca, .pg-flux .par.poema .en { white-space: pre-line; text-align: left; padding-left: 1.2em; font-style: italic; hyphens: none; }
 .pg-flux .peu { margin: 1.4em 0 0; }
 /* text justificat, amb partició de paraules en català */
 .pg-flux .par .ca, .pg-flux .par .en, .pg-flux .peu, .repte-vista p, .llibre .par .ca, .llibre .par .en {

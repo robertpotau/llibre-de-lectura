@@ -1,6 +1,6 @@
 // © 2026 Robert Potau Nuñez. Tots els drets reservats / All rights reserved. Vegeu LICENSE.
 // Generat per tools/build_data.py. No s'edita a mà.
-window.CAPITOL = {
+(window.CAPITOLS = window.CAPITOLS || {})["c01"] = {
  "versio": 1,
  "llibre": "alice",
  "capitol": "c01",

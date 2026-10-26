@@ -90,6 +90,8 @@ button:focus-visible, input:focus-visible { outline: 3px solid var(--daurat); ou
 
 .interruptor { display: flex; align-items: center; gap: 8px; font-size: .9rem; cursor: pointer; }
 .interruptor input { width: 18px; height: 18px; accent-color: var(--daurat); }
+.sel-capitol select { max-width: 15em; background: transparent; color: #f3e6c8; border: 1px solid rgba(217, 164, 65, .45); border-radius: 999px; padding: 5px 10px; font: inherit; cursor: pointer; }
+.sel-capitol select option { color: #2b1c08; background: #f3e6c8; }
 
 .llibre {
   max-width: 1000px;
@@ -139,6 +141,7 @@ h1 { font-family: var(--titol); text-align: center; margin: 6px 0 0; font-size: 
 
 .par { position: relative; margin: 0 0 1.1em; border-radius: 6px; transition: background .25s; }
 .par .ca { margin: 0; cursor: pointer; }
+.par.poema .ca, .par.poema .en { white-space: pre-line; text-align: left; padding-left: 1.4em; font-style: italic; }
 .par:hover { background: rgba(217, 164, 65, .08); }
 .par.sona { background: rgba(217, 164, 65, .22); box-shadow: -4px 0 0 var(--daurat); }
 .par.marcat { background: rgba(217, 164, 65, .12); box-shadow: -4px 0 0 #b98d36; }
