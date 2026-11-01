@@ -2,6 +2,12 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.2 — 2026-11-01
+
+- **Capítol 3** (*Una cursa sense guanyador*, la cursa Caucus i la història del Ratolí): traducció en tres nivells (48 paràgrafs, un poema), glossari de 87 paraules (inclosos tres jocs de paraules adaptats: «sec», «tenir cua» i «no / nus»), repte (5 preguntes + aparellar 6/8/8) i cartes. **Àudio generat** amb Joana i Enric (F0).
+- Pronunciacions noves per a Edwin, Morcar, Stigand, Canterbury i Atheling.
+- La biblioteca indica «capítols 1, 2 i 3».
+
 ## v1.1 — 2026-10-26
 
 - **Capítol 2** (*Un bassal de llàgrimes*): traducció en tres nivells, glossari de 96 paraules, repte (5 preguntes + aparellar) i 97 cartes. **Àudio generat** (Joana i Enric, F0): 156 mp3 de text + 192 de cartes. La frase en francès es diu en català («On és la meva gata?»).

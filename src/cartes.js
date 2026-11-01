@@ -33,6 +33,8 @@
     trompeta: "🎺", ull: "👁️", urpa: "🐾", vent: "💨", conill: "🐇",
     // capítol 2
     peu: "🦶", carta: "✉️", carro: "🛒", regal: "🎁", guant: "🧤", cocodril: "🐊", mar: "🌊", morsa: "🦭", hipopotam: "🦛", gat: "🐈", gos: "🐕",
+    // capítol 3
+    cursa: "🏃", confit: "🍬", didal: "🧵", ostra: "🦪", granota: "🐸", cercle: "⭕",
   };
   const especialDe = (cap) => ({
     tipus: "especial", categoria: "especial", dificultat: 4, lema: cap.titol.ca, en: cap.titol.en,

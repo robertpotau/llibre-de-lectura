@@ -827,7 +827,7 @@
       tip.innerHTML = `<strong>Àlbum de paraules</strong><span>Les teves cartes ${n}</span>`;
     } else {
       const d = info.def;
-      tip.innerHTML = `<strong>${d.titol}</strong><span>${d.autor}</span><em class="${d.disponible ? "ok" : ""}">${d.disponible ? "Clica per llegir (capítols 1 i 2)" : "Aviat"}</em>`;
+      tip.innerHTML = `<strong>${d.titol}</strong><span>${d.autor}</span><em class="${d.disponible ? "ok" : ""}">${d.disponible ? "Clica per llegir (capítols 1, 2 i 3)" : "Aviat"}</em>`;
     }
     tip.hidden = false;
     posicionaTip(x, y);
