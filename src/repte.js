@@ -348,6 +348,8 @@
          ` : ""}
        ${resumCartes()}`,
       `${s.premis && s.premis.noves.length ? ctaCartes(s.premis.noves.length) : ""}
+       ${window.REPTE_LLIBRE && C.capitol === "c12" ? `<div class="repte-cta-bloc"><p class="repte-cta-text">Has arribat al final del llibre! Et queda <strong>el repte final</strong>.</p>
+         <button type="button" class="repte-cta" id="r-llibre">🏆 Repte final del llibre</button></div>` : ""}
        <div class="repte-accions">
          ${window.CARTES ? "<button type=\"button\" class=\"repte-boto\" id=\"r-album\">🃏 Obre l'àlbum</button>" : ""}
          <button type="button" class="repte-boto${s.premis && s.premis.noves.length ? "" : " principal"}" id="r-repeteix">Torna-ho a fer</button>
@@ -364,6 +366,8 @@
     });
     const ba = document.getElementById("r-album");
     if (ba) ba.addEventListener("click", () => window.CARTES.obreAlbum());
+    const bl = document.getElementById("r-llibre");
+    if (bl) bl.addEventListener("click", () => window.REPTE_LLIBRE.obre());
     document.getElementById("r-repeteix").addEventListener("click", () => { s.vista = "inici"; s.premis = null; s.girar = true; pinta(); });
     document.getElementById("r-dalt").addEventListener("click", () => {
       if (window.LECTOR && window.LECTOR.actiu()) window.LECTOR.vesAlPrincipi();

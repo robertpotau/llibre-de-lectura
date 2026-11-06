@@ -35,6 +35,18 @@
     peu: "🦶", carta: "✉️", carro: "🛒", regal: "🎁", guant: "🧤", cocodril: "🐊", mar: "🌊", morsa: "🦭", hipopotam: "🦛", gat: "🐈", gos: "🐕",
     // capítol 3
     cursa: "🏃", confit: "🍬", didal: "🧵", ostra: "🦪", granota: "🐸", cercle: "⭕",
+    // capítol 4
+    llangardaix: "🦎", eruga: "🐛", bolet: "🍄", coet: "🚀", cogombre: "🥒", pedra: "🪨", botodor: "🌼",
+    // capítol 5
+    serp: "🐍",
+    // capítol 6
+    porc: "🐖", barret: "🎩",
+    // capítol 8
+    erico: "🦔", fletxa: "🏹",
+    // capítol 9
+    tortuga: "🐢", grifo: "🦅",
+    // capítol 10
+    llamantol: "🦞", peix: "🐟",
   };
   const especialDe = (cap) => ({
     tipus: "especial", categoria: "especial", dificultat: 4, lema: cap.titol.ca, en: cap.titol.en,
@@ -62,6 +74,14 @@
     Object.keys(cap.glossari).forEach((id) => CATALEG.push({ id, key: pre + id, g: cap.glossari[id], cap: cid }));
     CATALEG.push({ id: "especial", key: pre + "especial", g: especialDe(cap), cap: cid });
   });
+  // carta del llibre complet: es guanya en superar el repte final (src/repte-llibre.js); surt a l'àlbum quan hi ha l'últim capítol
+  const LLIBRE_KEY = "alice.llibre.especial";
+  const LLIBRE_ESPECIAL = {
+    tipus: "especial", categoria: "especial", dificultat: 4, lema: "Alícia al País de les Meravelles", en: "Alice's Adventures in Wonderland",
+    definicio: "Carta del llibre complet: has llegit totes les aventures de l'Alícia i has superat el repte final.",
+    sinonim: "—", exemple: "Enhorabona! Has arribat al final del llibre.", carta: { motiu: "llibres" },
+  };
+  if (TOTS.c12) CATALEG.push({ id: "llibre", key: LLIBRE_KEY, g: LLIBRE_ESPECIAL, cap: "c12" });
   const ESPECIAL = especialDe(C);
   const TOTAL = CATALEG.length;
 
@@ -510,5 +530,15 @@
   document.querySelectorAll("[data-album]").forEach((b) => b.addEventListener("click", obreAlbum));
   actualitzaComptador();
 
-  window.CARTES = { premis, obreSobre, obreAlbum, te, quantes, total: TOTAL };
+  // premi del repte final del llibre: la carta especial, només la primera vegada
+  function premiLlibre() {
+    if (col[LLIBRE_KEY]) return [];
+    col[LLIBRE_KEY] = { t: Date.now(), nou: true, encerts: 0 };
+    desa();
+    actualitzaComptador();
+    return [{ id: "llibre", key: LLIBRE_KEY, g: LLIBRE_ESPECIAL, motiu: "especial" }];
+  }
+  const teLlibre = () => !!col[LLIBRE_KEY];
+
+  window.CARTES = { premis, premiLlibre, teLlibre, obreSobre, obreAlbum, te, quantes, total: TOTAL };
 })();

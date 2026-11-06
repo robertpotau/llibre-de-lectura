@@ -68,7 +68,13 @@
   function pinta() {
     $("llibre-titol").textContent = "Alice's Adventures in Wonderland · Capítol " + (parseInt(String(C.capitol).replace(/\D/g, ""), 10) || 1);
     $("capitol-titol").textContent = C.titol.ca;
-    $("peu").textContent = "Text original de Lewis Carroll (1865), domini públic. Traducció i adaptació en català: © 2026 Robert Potau Nuñez, tots els drets reservats (feta amb ajuda d'IA; esborrany en revisió). Veus sintètiques generades amb Azure AI Speech (Microsoft)." + (window.JOC ? " " + window.JOC.text : "");
+    const gv = (window.GRAVATS || {})[C.capitol], fig = $("gravat");
+    if (gv && fig) {
+      const im = $("gravat-img");
+      im.src = gv.f; im.alt = gv.alt; im.width = Math.round(gv.w / 2); im.height = Math.round(gv.h / 2);
+      fig.hidden = false;
+    }
+    $("peu").textContent = "Text original de Lewis Carroll (1865), domini públic." + (gv ? " Gravat de John Tenniel (1865), domini públic." : "") + " Traducció i adaptació en català: © 2026 Robert Potau Nuñez, tots els drets reservats (feta amb ajuda d'IA; esborrany en revisió). Veus sintètiques generades amb Azure AI Speech (Microsoft)." + (window.JOC ? " " + window.JOC.text : "");
 
     const cont = $("text");
     cont.innerHTML = "";

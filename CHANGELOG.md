@@ -2,6 +2,15 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.3 — 2026-11-06
+
+- **Tot el llibre en text: capítols 4 a 12** d'*Alice's Adventures in Wonderland* en tres nivells, amb glossari (≈80–95 paraules per capítol), repte (5 preguntes + aparellar 6/8/8) i cartes. Poemes en versions rimades pròpies i jocs de paraules adaptats al català (llista a `docs/PLA-ACABAR-ALICIA.md` i als `CANVIS_*`). Esborrany pendent de revisió.
+- **Àudio** del capítol 4 generat (Joana i Enric, F0, ara a 48 kbps). Els capítols 5–12 es generen per tandes (quota F0 mensual); mentrestant es llegeixen amb la veu del navegador.
+- **Gravats de John Tenniel** (1865, domini públic) a l'obertura de cada capítol.
+- **Repte final del llibre** (12 preguntes, una per capítol) i pantalla «Has acabat el llibre!» amb una carta especial nova a l'àlbum.
+- Capítol 2: «Duquesa» corregit a «Duquessa» (text i àudio d'aquell paràgraf).
+- La biblioteca indica «tots els capítols».
+
 ## v1.2 — 2026-11-01
 
 - **Capítol 3** (*Una cursa sense guanyador*, la cursa Caucus i la història del Ratolí): traducció en tres nivells (48 paràgrafs, un poema), glossari de 87 paraules (inclosos tres jocs de paraules adaptats: «sec», «tenir cua» i «no / nus»), repte (5 preguntes + aparellar 6/8/8) i cartes. **Àudio generat** amb Joana i Enric (F0).

@@ -33,7 +33,7 @@
   // Text d'origen: el que ja ha pintat app.js (en un contenidor amagat). Es torna a llegir cada vegada
   // perquè porta l'estat actual del paràgraf que sona.
   function htmlFlux() {
-    return `<header class="pg-cap"><p class="llibre-titol">${esc($("llibre-titol").textContent)}</p><h1>${esc($("capitol-titol").textContent)}</h1><p class="ornament" aria-hidden="true">❦</p></header>` +
+    return `<header class="pg-cap"><p class="llibre-titol">${esc($("llibre-titol").textContent)}</p><h1>${esc($("capitol-titol").textContent)}</h1><p class="ornament" aria-hidden="true">❦</p>${$("gravat") && !$("gravat").hidden ? $("gravat").outerHTML.replace(' id="gravat"', "").replace(' id="gravat-img"', "") : ""}</header>` +
       $("text").innerHTML +
       `<p class="peu">${esc($("peu").textContent)}</p>`;
   }
