@@ -2,6 +2,10 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.4 — 2026-11-06
+
+- **Àudio dels capítols 5, 6 i 7** (Joana i Enric, F0, 48 kbps): 1.560 mp3 de text i 538 de cartes. Ara tenen àudio real els capítols 1 a 7; els 8 a 12, a partir del desembre (quota F0).
+
 ## v1.3 — 2026-11-06
 
 - **Tot el llibre en text: capítols 4 a 12** d'*Alice's Adventures in Wonderland* en tres nivells, amb glossari (≈80–95 paraules per capítol), repte (5 preguntes + aparellar 6/8/8) i cartes. Poemes en versions rimades pròpies i jocs de paraules adaptats al català (llista a `docs/PLA-ACABAR-ALICIA.md` i als `CANVIS_*`). Esborrany pendent de revisió.
