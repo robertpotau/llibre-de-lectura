@@ -417,9 +417,9 @@
    "to": "tensio",
    "en": "“If you want to give pleasure to others,” cried the Roman Candle, “you had better keep yourself dry.”",
    "ca": {
-    "facil": "«Si voleu fer plaer als altres», va cridar l'Espelma Romana, «val més que us mantingueu eixut.»",
-    "normal": "«Si voleu fer plaer als altres», va cridar l'Espelma Romana, «val més que us mantingueu eixut.»",
-    "ric": "«Si voleu fer plaer als altres», va cridar l'Espelma Romana, «val més que us mantingueu eixut.»"
+    "facil": "«Si voleu fer plaer als altres», va cridar l'Espelma Romana, «{val més que|val_mes_que} us mantingueu eixut.»",
+    "normal": "«Si voleu fer plaer als altres», va cridar l'Espelma Romana, «{val més que|val_mes_que} us mantingueu eixut.»",
+    "ric": "«Si voleu fer plaer als altres», va cridar l'Espelma Romana, «{val més que|val_mes_que} us mantingueu eixut.»"
    }
   },
   {
@@ -952,6 +952,19 @@
    "exemple": "No serveix de res plorar sobre la llet vessada.",
    "carta": {
     "motiu": "llàgrima"
+   }
+  },
+  "val_mes_que": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 2,
+   "lema": "val més que",
+   "en": "you had better",
+   "definicio": "és preferible que; fóra millor que",
+   "sinonim": "més val que",
+   "exemple": "Val més que et vesteixis abans de sortir.",
+   "carta": {
+    "motiu": "pesa"
    }
   }
  },

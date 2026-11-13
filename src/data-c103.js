@@ -65,9 +65,9 @@
    "to": "trist",
    "en": "“The Prince gives a ball to-morrow night,” murmured the young Student, “and my love will be of the company. If I bring her a red rose she will dance with me till dawn. If I bring her a red rose, I shall hold her in my arms, and she will lean her head upon my shoulder, and her hand will be clasped in mine. But there is no red rose in my garden, so I shall sit lonely, and she will pass me by. She will have no heed of me, and my heart will break.”",
    "ca": {
-    "facil": "«El Príncep dóna un ball demà a la nit», va murmurar el jove Estudiant, «i la meva estimada hi serà. Si li porto una rosa vermella, ballarà amb mi fins a l'alba. Si li porto una rosa vermella, la tindré als braços, i ella recolzarà el cap a la meva espatlla, i la seva mà serà dins la meva. Però al meu jardí no hi ha cap rosa vermella; així que em quedaré sol, i ella passarà de llarg. No em farà ni cas, i se'm trencarà el cor.»",
-    "normal": "«El Príncep dóna un ball demà a la nit», va {murmurar|murmurar} el jove Estudiant, «i la meva estimada hi serà. Si li porto una rosa vermella, ballarà amb mi fins a l'alba. Si li porto una rosa vermella, la tindré als braços, i ella recolzarà el cap a la meva espatlla, i la seva mà estarà agafada a la meva. Però al meu jardí no hi ha cap rosa vermella; així que em quedaré sol, i ella passarà de llarg. No em farà cas, i se'm trencarà el cor.»",
-    "ric": "«Demà a la nit el Príncep dóna un ball», va {murmurar|murmurar} el jove Estudiant, «i la meva estimada hi serà. Si li duc una rosa vermella, ballarà amb mi fins a la matinada. Si li duc una rosa vermella, la sostindré als braços, ella reclinarà el cap damunt la meva espatlla i la seva mà restarà closa dins la meva. Però al meu jardí no hi ha cap rosa vermella; em quedaré, doncs, ben sol, i ella passarà de llarg, sense ni mirar-me, i se'm trencarà el cor.»"
+    "facil": "«El Príncep dóna un ball demà a la nit», va murmurar el jove Estudiant, «i la meva estimada hi serà. Si li porto una rosa vermella, ballarà amb mi fins a l'alba. Si li porto una rosa vermella, la tindré als braços, i ella recolzarà el cap a la meva espatlla, i la seva mà serà dins la meva. Però al meu jardí no hi ha cap rosa vermella; així que em quedaré sol, i ella passarà de llarg. No em farà ni cas, i {se'm trencarà el cor|trencar_el_cor}.»",
+    "normal": "«El Príncep dóna un ball demà a la nit», va {murmurar|murmurar} el jove Estudiant, «i la meva estimada hi serà. Si li porto una rosa vermella, ballarà amb mi fins a l'alba. Si li porto una rosa vermella, la tindré als braços, i ella recolzarà el cap a la meva espatlla, i la seva mà estarà agafada a la meva. Però al meu jardí no hi ha cap rosa vermella; així que em quedaré sol, i ella passarà de llarg. No em farà cas, i {se'm trencarà el cor|trencar_el_cor}.»",
+    "ric": "«Demà a la nit el Príncep dóna un ball», va {murmurar|murmurar} el jove Estudiant, «i la meva estimada hi serà. Si li duc una rosa vermella, ballarà amb mi fins a la matinada. Si li duc una rosa vermella, la sostindré als braços, ella reclinarà el cap damunt la meva espatlla i la seva mà restarà closa dins la meva. Però al meu jardí no hi ha cap rosa vermella; em quedaré, doncs, ben sol, i ella passarà de llarg, sense ni mirar-me, i {se'm trencarà el cor|trencar_el_cor}.»"
    }
   },
   {
@@ -77,8 +77,8 @@
    "en": "“Here indeed is the true lover,” said the Nightingale. “What I sing of, he suffers—what is joy to me, to him is pain. Surely Love is a wonderful thing. It is more precious than emeralds, and dearer than fine opals. Pearls and pomegranates cannot buy it, nor is it set forth in the marketplace. It may not be purchased of the merchants, nor can it be weighed out in the balance for gold.”",
    "ca": {
     "facil": "«Aquest sí que és l'enamorat de debò», va dir el Rossinyol. «El que jo canto, ell ho pateix; el que per a mi és alegria, per a ell és dolor. L'Amor és una cosa meravellosa. Val més que les {maragdes|maragda} i és més car que els {òpals|opal} fins. No es compra amb {perles|perla} ni amb magranes, ni s'exposa al mercat. No el venen els mercaders, ni es pot pesar en una balança per or.»",
-    "normal": "«Aquest sí que és l'enamorat de debò», va dir el Rossinyol. «El que jo canto, ell ho pateix; el que per a mi és alegria, per a ell és dolor. Certament, l'Amor és una cosa meravellosa. És més preciós que les {maragdes|maragda} i més car que els {òpals|opal} fins. No es pot comprar amb {perles|perla} ni amb magranes, ni s'exposa al mercat. No el venen els mercaders, ni es pot pesar en una balança a canvi d'or.»",
-    "ric": "«Aquest sí que és l'enamorat veritable», va dir el Rossinyol. «Allò que jo canto, ell ho pateix; allò que per a mi és goig, per a ell és turment. Ben cert, l'Amor és una cosa admirable. Val més que les {maragdes|maragda} i és més car que els {òpals|opal} més fins. No es paga amb {perles|perla} ni amb magranes, ni s'exhibeix al mercat. Els mercaders no el venen, ni es pot posar a la balança a canvi d'or.»"
+    "normal": "«Aquest sí que és l'enamorat de debò», va dir el Rossinyol. «El que jo canto, ell ho pateix; el que per a mi és alegria, per a ell és dolor. Certament, l'Amor és una cosa meravellosa. És més preciós que les {maragdes|maragda} i més car que els {òpals|opal} fins. No es pot comprar amb {perles|perla} ni amb magranes, ni s'exposa al mercat. No el venen els mercaders, ni es pot pesar en una balança {a canvi d'or|a_canvi_dor}.»",
+    "ric": "«Aquest sí que és l'enamorat veritable», va dir el Rossinyol. «Allò que jo canto, ell ho pateix; allò que per a mi és goig, per a ell és turment. Ben cert, l'Amor és una cosa admirable. Val més que les {maragdes|maragda} i és més car que els {òpals|opal} més fins. No es paga amb {perles|perla} ni amb magranes, ni s'exhibeix al mercat. Els mercaders no el venen, ni es pot posar a la balança {a canvi d'or|a_canvi_dor}.»"
    }
   },
   {
@@ -670,8 +670,8 @@
    "to": "tensio",
    "en": "“Ungrateful!” said the girl. “I tell you what, you are very rude; and, after all, who are you? Only a Student. Why, I don’t believe you have even got silver buckles to your shoes as the Chamberlain’s nephew has”; and she got up from her chair and went into the house.",
    "ca": {
-    "facil": "«Ingrata!», va dir la noia. «Doncs jo et dic que ets molt {groller|groller}; i, al capdavall, qui ets tu? Només un Estudiant. Fins i tot dubto que tinguis sivelles de plata a les sabates, com el nebot del camarlenc.» I es va aixecar de la cadira i va entrar a casa.",
-    "normal": "«Ingrata!», va dir la noia. «Doncs jo et dic que ets molt {groller|groller}; i, al capdavall, qui ets tu? Només un Estudiant. Fins i tot dubto que tinguis {sivelles|sivella} de plata a les sabates, com el nebot del camarlenc.» I es va aixecar de la cadira i va entrar a casa.",
+    "facil": "«Ingrata!», va dir la noia. «Doncs jo et dic que ets molt {groller|groller}; i, {al capdavall|al_capdavall}, qui ets tu? Només un Estudiant. Fins i tot dubto que tinguis sivelles de plata a les sabates, com el nebot del camarlenc.» I es va aixecar de la cadira i va entrar a casa.",
+    "normal": "«Ingrata!», va dir la noia. «Doncs jo et dic que ets molt {groller|groller}; i, {al capdavall|al_capdavall}, qui ets tu? Només un Estudiant. Fins i tot dubto que tinguis {sivelles|sivella} de plata a les sabates, com el nebot del camarlenc.» I es va aixecar de la cadira i va entrar a casa.",
     "ric": "«Ingrata!», va replicar la noia. «Doncs jo et dic que ets un {groller|groller}; i, al cap i a la fi, qui ets tu? Només un Estudiant. Fins i tot dubto que tinguis {sivelles|sivella} de plata a les sabates, com el nebot del camarlenc.» I es va alçar de la cadira i va entrar a casa."
    }
   },
@@ -1256,6 +1256,45 @@
    "exemple": "Va llegir un llibre de metafísica.",
    "carta": {
     "motiu": "llibres"
+   }
+  },
+  "al_capdavall": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 2,
+   "lema": "al capdavall",
+   "en": "after all",
+   "definicio": "al final de tot, en definitiva",
+   "sinonim": "al cap i a la fi",
+   "exemple": "Al capdavall, tothom comet errors.",
+   "carta": {
+    "motiu": "camí"
+   }
+  },
+  "a_canvi_dor": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 3,
+   "lema": "a canvi d'or",
+   "en": "for gold",
+   "definicio": "donant or com a pagament; per aquest preu",
+   "sinonim": "per or",
+   "exemple": "No es ven a canvi d'or.",
+   "carta": {
+    "motiu": "corona"
+   }
+  },
+  "trencar_el_cor": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 2,
+   "lema": "trencar-se el cor",
+   "en": "my heart will break",
+   "definicio": "sentir una gran pena, sobretot per amor",
+   "sinonim": "tenir el cor partit",
+   "exemple": "Se li va trencar el cor quan se'n va anar.",
+   "carta": {
+    "motiu": "llàgrima"
    }
   }
  },

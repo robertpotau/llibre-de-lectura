@@ -406,9 +406,9 @@
    "to": "calm",
    "en": "He passed over the river, and saw the lanterns hanging to the masts of the ships. He passed over the Ghetto, and saw the old Jews bargaining with each other, and weighing out money in copper scales. At last he came to the poor house and looked in. The boy was tossing feverishly on his bed, and the mother had fallen asleep, she was so tired. In he hopped, and laid the great ruby on the table beside the woman’s thimble. Then he flew gently round the bed, fanning the boy’s forehead with his wings. “How cool I feel,” said the boy, “I must be getting better”; and he sank into a delicious slumber.",
    "ca": {
-    "facil": "Va passar per sobre del riu i va veure els fanals que penjaven dels pals dels vaixells. Va passar pel barri dels jueus i va veure els vells que regatejaven entre ells i pesaven els diners en balances de coure. Al final va arribar a la casa pobra i va mirar a dins. El nen es regirava malalt de febre al llit, i la mare s'havia adormit, de cansada que estava. Ell hi va entrar de bot i va deixar el gran robí damunt la taula, al costat del {didal|didal} de la dona. Després va volar suaument al voltant del llit, {ventant|ventar} el front del nen amb les ales. «Que fresc que estic», va dir el nen. «Deu ser que em poso bo.» I es va enfonsar en un son deliciós.",
-    "normal": "Va passar per sobre del riu i va veure els fanals que penjaven dels pals dels vaixells. Va passar pel barri dels jueus i va veure els vells que {regatejaven|regatejar} entre ells i pesaven els diners en balances de coure. Al final va arribar a la casa pobra i va mirar a dins. El nen es regirava malalt de febre al llit, i la mare s'havia adormit, de cansada que estava. Ell hi va entrar de bot i va deixar el gran robí damunt la taula, al costat del {didal|didal} de la dona. Després va volar suaument al voltant del llit, {ventant|ventar} el front del nen amb les ales. «Que fresc que estic», va dir el nen. «Deu ser que em poso bo.» I es va enfonsar en un son deliciós.",
-    "ric": "Va passar per sobre del riu i va veure els fanals que penjaven dels pals dels vaixells. Va passar pel barri dels jueus i va veure els vells que {regatejaven|regatejar} entre ells i pesaven els diners en balances de coure. Al final va arribar a la casa pobra i va mirar a dins. El nen es regirava malalt de febre al llit, i la mare s'havia adormit, de tan cansada que estava. Ell hi va entrar de bot i va deixar el gran robí damunt la taula, al costat del {didal|didal} de la dona. Després va volar suaument al voltant del llit, {ventant|ventar} el front del nen amb les ales. «Que fresc que estic», va dir el nen. «Deu ser que em poso bo.» I es va enfonsar en un son deliciós."
+    "facil": "Va passar per sobre del riu i va veure els fanals que penjaven dels pals dels vaixells. Va passar pel barri dels jueus i va veure els vells que regatejaven entre ells i pesaven els diners en balances de coure. Al final va arribar a la casa pobra i va mirar a dins. El nen es regirava malalt de febre al llit, i la mare s'havia adormit, de cansada que estava. Ell hi va entrar de bot i va deixar el gran robí damunt la taula, al costat del {didal|didal} de la dona. Després va volar suaument al voltant del llit, {ventant|ventar} el front del nen amb les ales. «Que fresc que estic», va dir el nen. «Deu ser que {em poso bo|posar_se_bo}.» I es va enfonsar en un son deliciós.",
+    "normal": "Va passar per sobre del riu i va veure els fanals que penjaven dels pals dels vaixells. Va passar pel barri dels jueus i va veure els vells que {regatejaven|regatejar} entre ells i pesaven els diners en balances de coure. Al final va arribar a la casa pobra i va mirar a dins. El nen es regirava malalt de febre al llit, i la mare s'havia adormit, de cansada que estava. Ell hi va entrar de bot i va deixar el gran robí damunt la taula, al costat del {didal|didal} de la dona. Després va volar suaument al voltant del llit, {ventant|ventar} el front del nen amb les ales. «Que fresc que estic», va dir el nen. «Deu ser que {em poso bo|posar_se_bo}.» I es va enfonsar en un son deliciós.",
+    "ric": "Va passar per sobre del riu i va veure els fanals que penjaven dels pals dels vaixells. Va passar pel barri dels jueus i va veure els vells que {regatejaven|regatejar} entre ells i pesaven els diners en balances de coure. Al final va arribar a la casa pobra i va mirar a dins. El nen es regirava malalt de febre al llit, i la mare s'havia adormit, de tan cansada que estava. Ell hi va entrar de bot i va deixar el gran robí damunt la taula, al costat del {didal|didal} de la dona. Després va volar suaument al voltant del llit, {ventant|ventar} el front del nen amb les ales. «Que fresc que estic», va dir el nen. «Deu ser que {em poso bo|posar_se_bo}.» I es va enfonsar en un son deliciós."
    }
   },
   {
@@ -1213,6 +1213,19 @@
    "exemple": "No té ni cèntim per comprar el pa.",
    "carta": {
     "motiu": "pot"
+   }
+  },
+  "posar_se_bo": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 2,
+   "lema": "posar-se bo",
+   "en": "to get better",
+   "definicio": "recuperar-se d'una malaltia i tornar a estar sa",
+   "sinonim": "refer-se",
+   "exemple": "Després de dormir, el nen es va posar bo.",
+   "carta": {
+    "motiu": "llum"
    }
   }
  },

@@ -2,6 +2,10 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.5.3 — 2026-11-13
+
+- **7 cartes de frase feta més** al Príncep: posar-se bo (c101); al capdavall, a canvi d'or, trencar-se el cor (c103); a l'instant (c104); anar a parar (c106); val més que (c107). Total: 276 cartes, 26 de frase feta; ja no en queda cap de coneguda sense carta.
+
 ## v1.5.2 — 2026-11-13
 
 - **9 cartes noves de frase feta** al Príncep: ben mirat, no tenir ni cèntim (c101); de cop, per fi (c104); tenir barra, a bots i barrals, fer un cop de cua, de debò (c106); plorar sobre la llet vessada (c107). Total: 269 cartes, 19 de frase feta.

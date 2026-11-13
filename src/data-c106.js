@@ -384,9 +384,9 @@
    "to": "trist",
    "en": "“But the storm grew worse and worse, and the rain fell in torrents, and little Hans could not see where he was going, or keep up with the horse. At last he lost his way, and wandered off on the moor, which was a very dangerous place, as it was full of deep holes, and there poor little Hans was drowned. His body was found the next day by some goatherds, floating in a great pool of water, and was brought back by them to the cottage.",
    "ca": {
-    "facil": "Però la tempesta va anar empitjorant, i la pluja queia {a bots i barrals|a_bots_i_barrals}, i el petit Hans no veia on anava ni podia seguir el cavall. Al final va perdre el camí, i va anar a parar a la {landa|landa}, que era un lloc molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos flotant en una gran bassa d'aigua i el van portar de tornada a la caseta.",
-    "normal": "Però la tempesta va anar empitjorant, i la pluja queia {a bots i barrals|a_bots_i_barrals}, i el petit Hans no veia on anava ni podia seguir el cavall. Al final va perdre el camí, i va anar a parar a la {landa|landa}, que era un lloc molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos flotant en una gran bassa d'aigua i el van portar de tornada a la caseta.",
-    "ric": "Però la tempesta va anar a pitjor, i la pluja queia {a bots i barrals|a_bots_i_barrals}, i el petit Hans no distingia on anava ni podia seguir el cavall. Al final va perdre el camí, i va anar a parar a la {landa|landa}, que era un indret molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos surant en una gran bassa d'aigua i el van portar de tornada a la caseta."
+    "facil": "Però la tempesta va anar empitjorant, i la pluja queia {a bots i barrals|a_bots_i_barrals}, i el petit Hans no veia on anava ni podia seguir el cavall. Al final va perdre el camí, i va {anar a parar|anar_a_parar} a la {landa|landa}, que era un lloc molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos flotant en una gran bassa d'aigua i el van portar de tornada a la caseta.",
+    "normal": "Però la tempesta va anar empitjorant, i la pluja queia {a bots i barrals|a_bots_i_barrals}, i el petit Hans no veia on anava ni podia seguir el cavall. Al final va perdre el camí, i va {anar a parar|anar_a_parar} a la {landa|landa}, que era un lloc molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos flotant en una gran bassa d'aigua i el van portar de tornada a la caseta.",
+    "ric": "Però la tempesta va anar a pitjor, i la pluja queia {a bots i barrals|a_bots_i_barrals}, i el petit Hans no distingia on anava ni podia seguir el cavall. Al final va perdre el camí, i va {anar a parar|anar_a_parar} a la {landa|landa}, que era un indret molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos surant en una gran bassa d'aigua i el van portar de tornada a la caseta."
    }
   },
   {
@@ -923,6 +923,19 @@
    "exemple": "És un amic de debò.",
    "carta": {
     "motiu": "mà"
+   }
+  },
+  "anar_a_parar": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 2,
+   "lema": "anar a parar",
+   "en": "to end up",
+   "definicio": "arribar a un lloc sense haver-ho previst",
+   "sinonim": "acabar",
+   "exemple": "La pilota va anar a parar al jardí del veí.",
+   "carta": {
+    "motiu": "camí"
    }
   }
  },
