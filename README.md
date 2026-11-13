@@ -2,9 +2,9 @@
 
 Joc de lectura per a alumnat de **1r i 2n d'ESO**: capítols de llibres clàssics en **domini públic**, traduïts al català i adaptats a tres nivells, amb veu, vocabulari marcat i cartes col·leccionables. La portada és una biblioteca en 3D plena de llibres.
 
-**Versió actual: v1.0 (2026-10-24)** · de moment només hi ha el **capítol 1 d'*Alice's Adventures in Wonderland***, «Pel cau del conill».
+**Versió actual: v1.6.3 (2026-11-13)** · tres llibres: ***Alícia al País de les Meravelles*** (Lewis Carroll, 12 capítols, amb àudio als capítols 1–7), ***El Príncep Feliç i altres contes*** (Oscar Wilde, 8 capítols) i ***Contes perquè sí*** (*Just So Stories*, Rudyard Kipling, 13 capítols). Els capítols sense àudio es poden escoltar amb la veu de l'ordinador.
 
-> *English summary:* a Catalan-language reading game for lower-secondary students. Public-domain classics (starting with chapter 1 of *Alice's Adventures in Wonderland*), translated into Catalan in three levels, with narration (synthetic voices), highlighted vocabulary, mini-challenges and collectible word cards. Runs entirely in the browser, no server and no data collection. All rights reserved (see [LICENSE](LICENSE)).
+> *English summary:* a Catalan-language reading game for lower-secondary students. Public-domain classics (now *Alice's Adventures in Wonderland*, *The Happy Prince and Other Tales* and the *Just So Stories*), translated into Catalan in three levels, with narration (synthetic voices), highlighted vocabulary, mini-challenges and collectible word cards. Runs entirely in the browser, no server and no data collection. All rights reserved (see [LICENSE](LICENSE)).
 
 ## Què inclou
 
@@ -37,7 +37,8 @@ LICENSE             drets i material de tercers
 
 ## Crèdits i material de tercers
 
-- **Text original:** *Alice's Adventures in Wonderland*, de Lewis Carroll (1865), de domini públic; edició en anglès de [Project Gutenberg](https://www.gutenberg.org/) (ebook #11). La **traducció al català, les adaptacions per nivells, el glossari, els reptes i les cartes** són obra original de Robert Potau Nuñez (amb Claude Code, Anthropic), i estan sota la reserva de drets. El text està encara **en revisió (esborrany)**.
+- **Textos originals (domini públic, edicions en anglès de [Project Gutenberg](https://www.gutenberg.org/)):** *Alice's Adventures in Wonderland*, de Lewis Carroll (1865, ebook #11); *The Happy Prince and Other Tales*, d'Oscar Wilde (1888, ebook #902); *Just So Stories*, de Rudyard Kipling (1902, ebook #2781).
+- **Il·lustracions (domini públic):** John Tenniel (1865), Walter Crane i George Percy Jacomb-Hood (1888), Joseph M. Gleeson (1912) i dibuixos del mateix Rudyard Kipling (1902). La **traducció al català, les adaptacions per nivells, el glossari, els reptes i les cartes** són obra original de Robert Potau Nuñez (amb Claude Code, Anthropic), i estan sota la reserva de drets. El text està encara **en revisió (esborrany)**.
 - **Veus:** les narracions són **veus sintètiques**, generades amb **Azure AI Speech** (Microsoft): `ca-ES-JoanaNeural` i `ca-ES-EnricNeural`. No són enregistraments de persones.
 - **Tipografies** (llicència SIL Open Font 1.1, fitxers de llicència a `src/fonts/`): Merriweather, Alice i Andika.
 - **three.js** (llicència MIT, `src/vendor/`).
