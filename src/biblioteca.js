@@ -12,7 +12,8 @@
 
   // Llibres de la biblioteca. Només Alícia és jugable; la resta són «Aviat».
   const LLIBRES = [
-    { id: "alice",    titol: "Alice's Adventures in Wonderland", curt: "Alice",         autor: "Lewis Carroll",   color: "#274d7a", emoji: "🐇", disponible: true },
+    { id: "alice",    titol: "Alice's Adventures in Wonderland", curt: "Alice",         autor: "Lewis Carroll",   color: "#274d7a", emoji: "🐇", disponible: true, cap1: { titol: "Pel cau del conill", ini: "L" } },
+    { id: "princep",  titol: "The Happy Prince and Other Tales",  curt: "Happy Prince",  autor: "Oscar Wilde",     color: "#8a6a1f", emoji: "🐦", disponible: true, cap1: { titol: "L'estàtua que plorava", ini: "M" } },
     { id: "peterpan", titol: "Peter Pan",                         curt: "Peter Pan",     autor: "J. M. Barrie",    color: "#1c5a5a", emoji: "⭐" },
     { id: "oz",       titol: "The Wonderful Wizard of Oz",        curt: "Wizard of Oz",  autor: "L. Frank Baum",   color: "#1f6a45", emoji: "🌪️" },
     { id: "jungle",   titol: "The Jungle Book",                   curt: "Jungle Book",   autor: "Rudyard Kipling", color: "#7a4a1d", emoji: "🐯" },
@@ -20,7 +21,7 @@
     { id: "willows",  titol: "The Wind in the Willows",           curt: "Willows",       autor: "Kenneth Grahame", color: "#4a6a2a", emoji: "🐸" },
     { id: "nesbit",   titol: "Five Children and It",              curt: "Five Children", autor: "E. Nesbit",       color: "#5e3a78", emoji: "✨" },
   ];
-  const ORDRE_3D = ["oz", "jungle", "peterpan", "alice", "treasure", "willows", "nesbit"]; // Alícia al mig
+  const ORDRE_3D = ["oz", "jungle", "peterpan", "alice", "princep", "treasure", "willows", "nesbit"]; // Alícia al mig
   const PER_ID = Object.fromEntries(LLIBRES.map((l) => [l.id, l]));
 
   // --- preferències ---
@@ -387,9 +388,10 @@
           g.font = "italic 16px 'Merriweather', Georgia, serif"; g.fillText("Un capítol per llegir,", w / 2, 150); g.fillText("escoltar i col·leccionar", w / 2, 176);
         } else if (tipus === "dTitol" || tipus.startsWith("e")) { // primera pàgina del capítol (el revers de cada fulla: queda a l'esquerra en obrir-se)
           g.font = "11px 'Merriweather', Georgia, serif"; g.fillText("CAPÍTOL 1", w / 2, 52);
-          g.font = "27px 'Alice', Georgia, serif"; g.fillText("Pel cau del conill", w / 2, 92, w - 40);
+          const c1 = def.cap1 || { titol: "", ini: "" };
+          g.font = "27px 'Alice', Georgia, serif"; g.fillText(c1.titol, w / 2, 92, w - 40);
           g.fillStyle = "#b9892f"; g.font = "18px 'Alice', Georgia, serif"; g.fillText("❦", w / 2, 118);
-          g.fillStyle = "#3b2b1b"; g.font = "42px 'Alice', Georgia, serif"; g.textAlign = "left"; g.fillText("L", 30, 164);
+          g.fillStyle = "#3b2b1b"; g.font = "42px 'Alice', Georgia, serif"; g.textAlign = "left"; g.fillText(c1.ini, 30, 164);
           linies(140, 2, 62); linies(162, 14);
         } else {                          // pàgina dreta: la continuació del text (simulat)
           linies(40, 22);
@@ -867,7 +869,7 @@
 
   function avisAviat(def) {
     const a = $("bib-avis");
-    a.textContent = `«${def.titol}» arribarà aviat. De moment, pots llegir Alícia!`;
+    a.textContent = `«${def.titol}» arribarà aviat. De moment, pots llegir Alícia o El Príncep Feliç!`;
     a.hidden = false;
     clearTimeout(avisAviat.t);
     avisAviat.t = setTimeout(() => { a.hidden = true; }, 3200);
@@ -876,6 +878,18 @@
   async function clicLlibre(def) {
     if (animant) return;
     if (!def.disponible) { avisAviat(def); return; }
+    if (window.LLIBRE && def.id !== window.LLIBRE.id) { // un altre llibre: recarrega amb les seves dades i obre directament el lector
+      animant = true;
+      bib.classList.add("animant");
+      if (bib.classList.contains("mode-3d") && escena) { // mateixa animació d'obertura que el llibre actiu, abans de recarregar
+        await Promise.race([escena.obre(def.id), new Promise((r) => { window.__bibSalta = r; })]).catch(() => {});
+        window.__bibSalta = null;
+      }
+      await fonsOn();
+      try { localStorage.setItem("llibre.actiu", def.id); } catch (e) { /* sense desament */ }
+      location.href = location.pathname + "?llibre=" + def.id + "#lectura";
+      return;
+    }
     animant = true;
     bib.classList.add("animant");
     if (bib.classList.contains("mode-3d") && escena) {
@@ -1007,7 +1021,7 @@
       vol3d = webglOk() && !!window.THREE && iniciaEscena();
     }
     posaVista(vol3d);
-    if (directe) posaMode("lectura");
+    if (directe) { posaMode("lectura"); try { history.replaceState(null, "", location.pathname + location.search); } catch (e) { /* res */ } }
   }
   inicia();
 })();

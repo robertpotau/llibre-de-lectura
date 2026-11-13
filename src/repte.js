@@ -348,7 +348,7 @@
          ` : ""}
        ${resumCartes()}`,
       `${s.premis && s.premis.noves.length ? ctaCartes(s.premis.noves.length) : ""}
-       ${window.REPTE_LLIBRE && C.capitol === "c12" ? `<div class="repte-cta-bloc"><p class="repte-cta-text">Has arribat al final del llibre! Et queda <strong>el repte final</strong>.</p>
+       ${window.REPTE_LLIBRE && C.capitol === (window.LLIBRE ? window.LLIBRE.ultim : "c12") ? `<div class="repte-cta-bloc"><p class="repte-cta-text">Has arribat al final del llibre! Et queda <strong>el repte final</strong>.</p>
          <button type="button" class="repte-cta" id="r-llibre">🏆 Repte final del llibre</button></div>` : ""}
        <div class="repte-accions">
          ${window.CARTES ? "<button type=\"button\" class=\"repte-boto\" id=\"r-album\">🃏 Obre l'àlbum</button>" : ""}

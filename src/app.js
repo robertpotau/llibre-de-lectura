@@ -66,7 +66,7 @@
 
   // --- pintat ---
   function pinta() {
-    $("llibre-titol").textContent = "Alice's Adventures in Wonderland · Capítol " + (parseInt(String(C.capitol).replace(/\D/g, ""), 10) || 1);
+    $("llibre-titol").textContent = ((window.LLIBRE && window.LLIBRE.titolEn) || "Alice's Adventures in Wonderland") + " · Capítol " + (C.numero || parseInt(String(C.capitol).replace(/\D/g, ""), 10) || 1);
     $("capitol-titol").textContent = C.titol.ca;
     const gv = (window.GRAVATS || {})[C.capitol], fig = $("gravat");
     if (gv && fig) {
@@ -74,7 +74,7 @@
       im.src = gv.f; im.alt = gv.alt; im.width = Math.round(gv.w / 2); im.height = Math.round(gv.h / 2);
       fig.hidden = false;
     }
-    $("peu").textContent = "Text original de Lewis Carroll (1865), domini públic." + (gv ? " Gravat de John Tenniel (1865), domini públic." : "") + " Traducció i adaptació en català: © 2026 Robert Potau Nuñez, tots els drets reservats (feta amb ajuda d'IA; esborrany en revisió). Veus sintètiques generades amb Azure AI Speech (Microsoft)." + (window.JOC ? " " + window.JOC.text : "");
+    $("peu").textContent = ((window.LLIBRE && window.LLIBRE.credit) || "Text original de Lewis Carroll (1865), domini públic.") + (gv ? " " + ((window.LLIBRE && window.LLIBRE.creditGravat) || "Gravat de John Tenniel (1865), domini públic.") : "") + " Traducció i adaptació en català: © 2026 Robert Potau Nuñez, tots els drets reservats (feta amb ajuda d'IA; esborrany en revisió). Veus sintètiques generades amb Azure AI Speech (Microsoft)." + (window.JOC ? " " + window.JOC.text : "");
 
     const cont = $("text");
     cont.innerHTML = "";
@@ -203,7 +203,7 @@
       if (!id || !A || !A[estat.veuGen] || !A[estat.veuGen].includes(id)) return false;
       soCarta.pause();
       atura();
-      soCarta.src = "../audio/alice/" + (C.capitol || "c01") + "/cartes/" + estat.veuGen + "/" + id + ".mp3";
+      soCarta.src = ((window.LLIBRE && window.LLIBRE.audio) || "../audio/alice/") + (C.capitol || "c01") + "/cartes/" + estat.veuGen + "/" + id + ".mp3";
       soCarta.volume = volumVeu();
       const p = soCarta.play();
       if (p && p.catch) p.catch(() => {});
@@ -306,7 +306,7 @@
       if (i + 1 < LLISTA.length) llegeix(i + 1); else acabat();
     };
     so.onerror = () => { if (token === rep.token) llegeixNavegador(i); }; // si falta el fitxer, es llegeix amb la veu del navegador
-    so.src = "../audio/alice/" + (C.capitol || "c01") + "/" + estat.nivell + "/" + estat.veuGen + "/" + p.id + ".mp3";
+    so.src = ((window.LLIBRE && window.LLIBRE.audio) || "../audio/alice/") + (C.capitol || "c01") + "/" + estat.nivell + "/" + estat.veuGen + "/" + p.id + ".mp3";
     so.volume = volumVeu();
     if (desDe > 0) so.addEventListener("loadedmetadata", () => { if (token === rep.token) so.currentTime = desDe; }, { once: true });
     const prometensa = so.play();
@@ -511,14 +511,14 @@
   Object.keys(totsCap).sort().forEach((k) => {
     const o = document.createElement("option");
     o.value = k;
-    o.textContent = (parseInt(k.replace(/\D/g, ""), 10) || 1) + ". " + totsCap[k].titol.ca;
+    o.textContent = (totsCap[k].numero || parseInt(k.replace(/\D/g, ""), 10) || 1) + ". " + totsCap[k].titol.ca;
     o.selected = k === C.capitol;
     selCap.appendChild(o);
   });
   selCap.closest(".sel-capitol").hidden = Object.keys(totsCap).length < 2;
   selCap.addEventListener("change", () => {
     desar("capitol", selCap.value);
-    window.location.href = window.location.pathname + "?cap=" + selCap.value;
+    window.location.href = window.location.pathname + "?cap=" + selCap.value + "#lectura";
   });
 
   // --- inici ---

@@ -2,6 +2,14 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.5 — 2026-11-13
+
+- **Segon llibre: *El Príncep Feliç i altres contes*** (Oscar Wilde, Gutenberg #902, domini públic): 8 capítols en tres nivells (c101–c108: El Príncep Feliç en 2 parts, El Rossinyol i la Rosa, El Gegant Egoista, El Fidel Amic en 2 parts, El Coet Extraordinari en 2 parts), amb glossari/cartes (≈300 paraules en total), repte per capítol (5 preguntes + aparellar 6/8/8), **repte final del llibre** (8 preguntes) i carta especial del llibre. **Sense àudio encara** (es llegeix amb la veu del navegador). Esborrany pendent de revisió.
+- **Il·lustracions de Walter Crane i G. P. Jacomb-Hood (1888, domini públic)** a l'obertura de cada capítol.
+- **Fase 0 multillibre**: `src/llibres.js` (manifest), selecció de llibre amb `?llibre=princep` (o des del prestatge 3D), capítols carregats per llibre, claus de desament separades per llibre, «Capítol N» per camp `numero`. Alícia no canvia.
+- El selector de capítol manté el mode de lectura en canviar de capítol.
+- Eines noves: `tools/genera_capitol.py <llibre> <cap>` i `tools/princep/`.
+
 ## v1.4 — 2026-11-06
 
 - **Àudio dels capítols 5, 6 i 7** (Joana i Enric, F0, 48 kbps): 1.560 mp3 de text i 538 de cartes. Ara tenen àudio real els capítols 1 a 7; els 8 a 12, a partir del desembre (quota F0).

@@ -5,6 +5,7 @@
   "use strict";
 
   const C = window.CAPITOL;
+  const LL = window.LLIBRE;
   const CLAU = "llibre.cartes.v1";
   const PREFIX = C.llibre + "." + C.capitol + ".";
   const MARCA = /\{([^|}]+)\|([^}]+)\}/g;
@@ -51,7 +52,7 @@
   const especialDe = (cap) => ({
     tipus: "especial", categoria: "especial", dificultat: 4, lema: cap.titol.ca, en: cap.titol.en,
     definicio: "Carta especial del capítol: has aconseguit totes les paraules marcades d'un dels nivells.",
-    sinonim: "—", exemple: "Una carta especial de la història de l'Alícia: capítol " + (parseInt(String(cap.capitol).replace(/\D/g, ""), 10) || 1) + ".", carta: { motiu: "conill" },
+    sinonim: "—", exemple: "Una carta especial " + (LL.id === "alice" ? "de la història de l'Alícia" : "del llibre «" + LL.titolEn + "»") + ": capítol " + (cap.numero || parseInt(String(cap.capitol).replace(/\D/g, ""), 10) || 1) + ".", carta: { motiu: LL.motiuEspecial || "conill" },
   });
   const TOTS = window.CAPITOLS || { [C.capitol]: C };
 
@@ -75,13 +76,13 @@
     CATALEG.push({ id: "especial", key: pre + "especial", g: especialDe(cap), cap: cid });
   });
   // carta del llibre complet: es guanya en superar el repte final (src/repte-llibre.js); surt a l'àlbum quan hi ha l'últim capítol
-  const LLIBRE_KEY = "alice.llibre.especial";
+  const LLIBRE_KEY = LL.id + ".llibre.especial";
   const LLIBRE_ESPECIAL = {
-    tipus: "especial", categoria: "especial", dificultat: 4, lema: "Alícia al País de les Meravelles", en: "Alice's Adventures in Wonderland",
-    definicio: "Carta del llibre complet: has llegit totes les aventures de l'Alícia i has superat el repte final.",
-    sinonim: "—", exemple: "Enhorabona! Has arribat al final del llibre.", carta: { motiu: "llibres" },
+    tipus: "especial", categoria: "especial", dificultat: 4, lema: LL.titolCa, en: LL.titolEn,
+    definicio: LL.especial.definicio,
+    sinonim: "—", exemple: LL.especial.exemple, carta: { motiu: "llibres" },
   };
-  if (TOTS.c12) CATALEG.push({ id: "llibre", key: LLIBRE_KEY, g: LLIBRE_ESPECIAL, cap: "c12" });
+  if (TOTS[LL.ultim]) CATALEG.push({ id: "llibre", key: LLIBRE_KEY, g: LLIBRE_ESPECIAL, cap: LL.ultim });
   const ESPECIAL = especialDe(C);
   const TOTAL = CATALEG.length;
 
@@ -347,7 +348,7 @@
             ${RARESA.map((r, i) => `<button type="button" class="cc-xip r${i + 1}" data-r="${i + 1}" aria-pressed="false">${"◆".repeat(i + 1)} ${r}</button>`).join("")}
           </div>
           ${Object.keys(TOTS).length > 1 ? `<label>Capítol
-            <select id="cc-f-cap"><option value="">Tots</option>${Object.keys(TOTS).sort().map((k) => `<option value="${k}">${parseInt(k.replace(/\D/g, ""), 10)}. ${esc(TOTS[k].titol.ca)}</option>`).join("")}</select></label>` : ""}
+            <select id="cc-f-cap"><option value="">Tots</option>${Object.keys(TOTS).sort().map((k) => `<option value="${k}">${TOTS[k].numero || parseInt(k.replace(/\D/g, ""), 10)}. ${esc(TOTS[k].titol.ca)}</option>`).join("")}</select></label>` : ""}
           <label>Categoria
             <select id="cc-f-cat"><option value="">Totes</option>${Object.entries(CATEGORIES).map(([k, v]) => `<option value="${k}">${v.nom}</option>`).join("")}</select></label>
           <label>Estat

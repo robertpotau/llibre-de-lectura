@@ -4,10 +4,11 @@
 // S'obre des del final del repte del capítol 12 (repte.js) amb window.REPTE_LLIBRE.obre().
 (function () {
   "use strict";
-  if (!window.CAPITOLS || !window.CAPITOLS.c12) return;
+  const LL = window.LLIBRE;
+  if (!window.CAPITOLS || !LL || !window.CAPITOLS[LL.ultim]) return;
 
-  const CLAU_FET = "llibre.repte.llibre";
-  const Q = [
+  const CLAU_FET = LL.id === "alice" ? "llibre.repte.llibre" : "llibre.repte.llibre." + LL.id;
+  const Q_ALICE = [
     { cap: 1, e: "Què hi havia escrit a l'ampolleta que l'Alícia va trobar a la sala?", o: ["BEU-ME", "MENJA'M", "OBRE'M"],
       p: ["Recorda la tauleta de vidre i la clau d'or.", "És una ordre per beure."] },
     { cap: 2, e: "Per què es forma el bassal on neda l'Alícia?", o: ["Perquè l'Alícia plora quan és gegant", "Perquè plou a dins de la sala", "Perquè el Conill vessa una galleda"],
@@ -33,6 +34,13 @@
     { cap: 12, e: "Com s'acaba tota l'aventura?", o: ["L'Alícia es desperta a la riba, amb la seva germana", "L'Alícia es queda a viure amb la Reina", "L'Alícia es torna petita per sempre"],
       p: ["Les cartes volen cap a ella i…", "…tot havia estat un somni curiós."] },
   ];
+  const RF = LL.repteFinal || {};
+  const Q = RF.preguntes || Q_ALICE;
+  const TXT = {
+    intro: RF.intro || "Has arribat al final de les aventures de l'Alícia! Ara, " + Q.length + " preguntes: una de cada capítol.",
+    final: RF.final || "Has llegit totes les aventures de l'Alícia al País de les Meravelles i has superat el repte final. Enhorabona!",
+    cita: RF.cita === undefined ? "«I com aplegaria al seu voltant altres criatures, i els faria brillar els ulls amb moltes històries estranyes…»" : RF.cita,
+  };
 
   const esc = (t) => String(t).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
   const baralla = (a) => { const b = a.slice(); for (let i = b.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [b[i], b[j]] = [b[j], b[i]]; } return b; };
@@ -60,7 +68,7 @@
   function pintaInici() {
     posa(`<p class="rl-trofeu" aria-hidden="true">🏆</p>
       <h2 id="rl-titol">Repte final del llibre</h2>
-      <p>Has arribat al final de les aventures de l'Alícia! Ara, 12 preguntes: una de cada capítol.</p>
+      <p>${esc(TXT.intro)}</p>
       <p class="rl-petit">Sense puntuació: si t'equivoques, torna-ho a provar. Tens pistes.</p>
       ${fet() ? '<p class="rl-fet">✓ Ja l\'has superat. Pots tornar-lo a fer quan vulguis.</p>' : ""}
       <div class="rl-accions"><button type="button" class="repte-boto principal gran" id="rl-comenca">Comença</button></div>`);
@@ -111,8 +119,8 @@
     posa(`<div class="rl-guspires" aria-hidden="true">${guspires}</div>
       <p class="rl-trofeu" aria-hidden="true">📖✨</p>
       <h2 id="rl-titol">Has acabat el llibre!</h2>
-      <p>Has llegit totes les aventures de l'Alícia al País de les Meravelles i has superat el repte final. Enhorabona!</p>
-      <p class="rl-petit">«I com aplegaria al seu voltant altres criatures, i els faria brillar els ulls amb moltes històries estranyes…»</p>
+      <p>${esc(TXT.final)}</p>
+      ${TXT.cita ? `<p class="rl-petit">${esc(TXT.cita)}</p>` : ""}
       <div class="rl-accions">
         ${noves.length ? '<button type="button" class="repte-cta" id="rl-carta">🎁 Descobreix la carta del llibre</button>' : '<p class="rl-fet">✓ Ja tens la carta del llibre a l\'àlbum.</p>'}
         ${window.CARTES ? '<button type="button" class="repte-boto" id="rl-album">🃏 Obre l\'àlbum</button>' : ""}
