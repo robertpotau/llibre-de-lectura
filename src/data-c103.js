@@ -66,8 +66,8 @@
    "en": "“The Prince gives a ball to-morrow night,” murmured the young Student, “and my love will be of the company. If I bring her a red rose she will dance with me till dawn. If I bring her a red rose, I shall hold her in my arms, and she will lean her head upon my shoulder, and her hand will be clasped in mine. But there is no red rose in my garden, so I shall sit lonely, and she will pass me by. She will have no heed of me, and my heart will break.”",
    "ca": {
     "facil": "«El Príncep dóna un ball demà a la nit», va murmurar el jove Estudiant, «i la meva estimada hi serà. Si li porto una rosa vermella, ballarà amb mi fins a l'alba. Si li porto una rosa vermella, la tindré als braços, i ella recolzarà el cap a la meva espatlla, i la seva mà serà dins la meva. Però al meu jardí no hi ha cap rosa vermella; així que em quedaré sol, i ella passarà de llarg. No em farà ni cas, i {se'm trencarà el cor|trencar_el_cor}.»",
-    "normal": "«El Príncep dóna un ball demà a la nit», va {murmurar|murmurar} el jove Estudiant, «i la meva estimada hi serà. Si li porto una rosa vermella, ballarà amb mi fins a l'alba. Si li porto una rosa vermella, la tindré als braços, i ella recolzarà el cap a la meva espatlla, i la seva mà estarà agafada a la meva. Però al meu jardí no hi ha cap rosa vermella; així que em quedaré sol, i ella passarà de llarg. No em farà cas, i {se'm trencarà el cor|trencar_el_cor}.»",
-    "ric": "«Demà a la nit el Príncep dóna un ball», va {murmurar|murmurar} el jove Estudiant, «i la meva estimada hi serà. Si li duc una rosa vermella, ballarà amb mi fins a la matinada. Si li duc una rosa vermella, la sostindré als braços, ella reclinarà el cap damunt la meva espatlla i la seva mà restarà closa dins la meva. Però al meu jardí no hi ha cap rosa vermella; em quedaré, doncs, ben sol, i ella passarà de llarg, sense ni mirar-me, i {se'm trencarà el cor|trencar_el_cor}.»"
+    "normal": "«El Príncep dóna un ball demà a la nit», va murmurar el jove Estudiant, «i la meva estimada hi serà. Si li porto una rosa vermella, ballarà amb mi fins a l'alba. Si li porto una rosa vermella, la tindré als braços, i ella recolzarà el cap a la meva espatlla, i la seva mà estarà agafada a la meva. Però al meu jardí no hi ha cap rosa vermella; així que em quedaré sol, i ella passarà de llarg. No em farà cas, i {se'm trencarà el cor|trencar_el_cor}.»",
+    "ric": "«Demà a la nit el Príncep dóna un ball», va murmurar el jove Estudiant, «i la meva estimada hi serà. Si li duc una rosa vermella, ballarà amb mi fins a la matinada. Si li duc una rosa vermella, la sostindré als braços, ella reclinarà el cap damunt la meva espatlla i la seva mà restarà closa dins la meva. Però al meu jardí no hi ha cap rosa vermella; em quedaré, doncs, ben sol, i ella passarà de llarg, sense ni mirar-me, i {se'm trencarà el cor|trencar_el_cor}.»"
    }
   },
   {
@@ -660,8 +660,8 @@
    "en": "“Well, upon my word, you are very ungrateful,” said the Student angrily; and he threw the rose into the street, where it fell into the gutter, and a cart-wheel went over it.",
    "ca": {
     "facil": "«Mira que ets {ingrata|ingrat}!», va dir l'Estudiant, enfadat; i va tirar la rosa al carrer, on va caure a la claveguera, i la roda d'un carro hi va passar per damunt.",
-    "normal": "«Vaja, quina ingrata que ets!», va dir l'Estudiant, enfadat; i va llençar la rosa al carrer, on va caure a la {claveguera|claveguera}, i la roda d'un carro hi va passar per damunt.",
-    "ric": "«Vaja, quina ingrata que ets!», va dir l'Estudiant, enfadat; i va llençar la rosa al carrer, on va caure a la {claveguera|claveguera}, i la roda d'un carro hi va passar per damunt."
+    "normal": "«Vaja, quina ingrata que ets!», va dir l'Estudiant, enfadat; i va llençar la rosa al carrer, on va caure a la claveguera, i la roda d'un carro hi va passar per damunt.",
+    "ric": "«Vaja, quina ingrata que ets!», va dir l'Estudiant, enfadat; i va llençar la rosa al carrer, on va caure a la claveguera, i la roda d'un carro hi va passar per damunt."
    }
   },
   {
@@ -775,19 +775,6 @@
    "exemple": "Va cantar amb passió.",
    "carta": {
     "motiu": "flama"
-   }
-  },
-  "murmurar": {
-   "tipus": "verb",
-   "categoria": "verb",
-   "dificultat": 2,
-   "lema": "murmurar",
-   "en": "murmured",
-   "definicio": "parlar molt baix, gairebé sense que se senti",
-   "sinonim": "xiuxiuejar",
-   "exemple": "Va murmurar una resposta trista.",
-   "carta": {
-    "motiu": "parlar"
    }
   },
   "maragda": {
@@ -1206,19 +1193,6 @@
     "motiu": "parlar"
    }
   },
-  "claveguera": {
-   "tipus": "vocabulari",
-   "categoria": "nom",
-   "dificultat": 2,
-   "lema": "claveguera",
-   "en": "gutter",
-   "definicio": "canal que recull l'aigua bruta del carrer",
-   "sinonim": "desguàs",
-   "exemple": "La rosa va caure a la claveguera.",
-   "carta": {
-    "motiu": "gota"
-   }
-  },
   "sivella": {
    "tipus": "vocabulari",
    "categoria": "nom",
@@ -1415,10 +1389,10 @@
     "extasi",
     "logica",
     "metafisica",
-    "claveguera",
+    "alzina",
     "petal",
     "rellotge_de_sol",
-    "murmurar",
+    "a_canvi_dor",
     "camarlenc"
    ]
   }

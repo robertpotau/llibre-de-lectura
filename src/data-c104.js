@@ -110,8 +110,8 @@
    "en": "He was a very selfish Giant.",
    "ca": {
     "facil": "Després va arribar la Primavera, i per tot el país hi havia florets i ocellets. Només al jardí del Gegant Egoista encara era hivern. Als ocells no els feia ganes cantar-hi, perquè no hi havia nens, i els arbres es van oblidar de florir. Una vegada, una flor preciosa va treure el cap de l'herba, però quan va veure el cartell va sentir tanta llàstima pels nens que es va ficar sota terra i es va adormir. Els únics que s'ho passaven bé eren la Neu i la Gelada. «La Primavera s'ha oblidat d'aquest jardí», van cridar, «i ens hi quedarem tot l'any.» La Neu va cobrir l'herba amb el seu gran mantell blanc, i la Gelada va pintar de plata tots els arbres. Després van convidar el Vent del Nord, i ell va venir. Anava embolicat amb pells i va bramar tot el dia pel jardí, i va fer caure les xemeneies. «Aquest lloc és deliciós», va dir; «hem de convidar la Calamarsa.» I la Calamarsa va venir. Cada dia, durant tres hores, repicava sobre el teulat del castell fins que va trencar la major part de les pissarres, i després corria i corria pel jardí tan de pressa com podia. Anava vestida de gris, i el seu alè era com el gel.",
-    "normal": "Després va arribar la Primavera, i per tot el país hi havia florets i ocellets. Només al jardí del Gegant Egoista encara era hivern. Als ocells no els feia ganes cantar-hi, perquè no hi havia nens, i els arbres es van oblidar de florir. Una vegada, una flor preciosa va treure el cap de l'herba, però quan va veure el cartell va sentir tanta llàstima pels nens que es va esmunyir sota terra i es va adormir. Els únics que n'estaven contents eren la Neu i la {Gelada|gelada}. «La Primavera s'ha oblidat d'aquest jardí», van cridar, «i per això ens hi quedarem tot l'any.» La Neu va cobrir l'herba amb el seu gran {mantell|mantell} blanc, i la Gelada va pintar de plata tots els arbres. Després van convidar el Vent del Nord, i ell va venir. Anava embolicat amb pells i va bramar tot el dia pel jardí, i va fer caure les {xemeneies|xemeneia}. «Aquest lloc és deliciós», va dir; «hem de convidar la {Calamarsa|calamarsa}.» I la Calamarsa va venir. Cada dia, durant tres hores, repicava sobre el teulat del castell fins que va trencar la major part de les {pissarres|pissarra}, i després corria i corria pel jardí tan de pressa com podia. Anava vestida de gris, i el seu alè era com el gel.",
-    "ric": "Després va arribar la Primavera, i per tot el país hi havia florets i ocellets. Només al jardí del Gegant Egoista encara era hivern. Als ocells no els feia ganes cantar-hi, perquè no hi havia nens, i els arbres es van oblidar de florir. Una vegada, una flor preciosa va treure el cap de l'herba, però quan va veure el cartell va sentir tanta llàstima pels nens que es va esmunyir sota terra i es va adormir. Els únics que n'estaven contents eren la Neu i la {Gelada|gelada}. «La Primavera s'ha oblidat d'aquest jardí», van cridar, «i per això ens hi quedarem tot l'any.» La Neu va cobrir l'herba amb el seu gran {mantell|mantell} blanc, i la Gelada va pintar de plata tots els arbres. Després van convidar el Vent del Nord, i ell va venir. Anava embolicat amb pells i va bramar tot el dia pel jardí, i va fer caure les {xemeneies|xemeneia}. «Aquest lloc és deliciós», va dir; «hem de convidar la {Calamarsa|calamarsa}.» I la Calamarsa va venir. Cada dia, durant tres hores, repicava sobre el teulat del castell fins que va trencar la major part de les {pissarres|pissarra}, i després corria i corria pel jardí tan de pressa com podia. Anava vestida de gris, i el seu alè era com el gel."
+    "normal": "Després va arribar la Primavera, i per tot el país hi havia florets i ocellets. Només al jardí del Gegant Egoista encara era hivern. Als ocells no els feia ganes cantar-hi, perquè no hi havia nens, i els arbres es van oblidar de florir. Una vegada, una flor preciosa va treure el cap de l'herba, però quan va veure el cartell va sentir tanta llàstima pels nens que es va esmunyir sota terra i es va adormir. Els únics que n'estaven contents eren la Neu i la Gelada. «La Primavera s'ha oblidat d'aquest jardí», van cridar, «i per això ens hi quedarem tot l'any.» La Neu va cobrir l'herba amb el seu gran {mantell|mantell} blanc, i la Gelada va pintar de plata tots els arbres. Després van convidar el Vent del Nord, i ell va venir. Anava embolicat amb pells i va bramar tot el dia pel jardí, i va fer caure les xemeneies. «Aquest lloc és deliciós», va dir; «hem de convidar la {Calamarsa|calamarsa}.» I la Calamarsa va venir. Cada dia, durant tres hores, repicava sobre el teulat del castell fins que va trencar la major part de les {pissarres|pissarra}, i després corria i corria pel jardí tan de pressa com podia. Anava vestida de gris, i el seu alè era com el gel.",
+    "ric": "Després va arribar la Primavera, i per tot el país hi havia florets i ocellets. Només al jardí del Gegant Egoista encara era hivern. Als ocells no els feia ganes cantar-hi, perquè no hi havia nens, i els arbres es van oblidar de florir. Una vegada, una flor preciosa va treure el cap de l'herba, però quan va veure el cartell va sentir tanta llàstima pels nens que es va esmunyir sota terra i es va adormir. Els únics que n'estaven contents eren la Neu i la Gelada. «La Primavera s'ha oblidat d'aquest jardí», van cridar, «i per això ens hi quedarem tot l'any.» La Neu va cobrir l'herba amb el seu gran {mantell|mantell} blanc, i la Gelada va pintar de plata tots els arbres. Després van convidar el Vent del Nord, i ell va venir. Anava embolicat amb pells i va bramar tot el dia pel jardí, i va fer caure les xemeneies. «Aquest lloc és deliciós», va dir; «hem de convidar la {Calamarsa|calamarsa}.» I la Calamarsa va venir. Cada dia, durant tres hores, repicava sobre el teulat del castell fins que va trencar la major part de les {pissarres|pissarra}, i després corria i corria pel jardí tan de pressa com podia. Anava vestida de gris, i el seu alè era com el gel."
    }
   },
   {
@@ -451,19 +451,6 @@
     "motiu": "vent"
    }
   },
-  "gelada": {
-   "tipus": "vocabulari",
-   "categoria": "nom",
-   "dificultat": 2,
-   "lema": "gelada",
-   "en": "Frost",
-   "definicio": "fred tan fort que l'aigua es fa gel",
-   "sinonim": "glaçada",
-   "exemple": "La gelada va blanquejar l'herba.",
-   "carta": {
-    "motiu": "gota"
-   }
-  },
   "mantell": {
    "tipus": "vocabulari",
    "categoria": "nom",
@@ -475,19 +462,6 @@
    "exemple": "La neu va cobrir el camp amb un mantell blanc.",
    "carta": {
     "motiu": "ploma"
-   }
-  },
-  "xemeneia": {
-   "tipus": "vocabulari",
-   "categoria": "nom",
-   "dificultat": 1,
-   "lema": "xemeneia",
-   "en": "chimney-pots",
-   "definicio": "conducte per on surt el fum d'una llar",
-   "sinonim": "fumeral",
-   "exemple": "El vent va fer caure la xemeneia.",
-   "carta": {
-    "motiu": "foc"
    }
   },
   "calamarsa": {
@@ -816,7 +790,7 @@
     "poltrona"
    ],
    "normal": [
-    "gelada",
+    "a_linstant",
     "mantell",
     "calamarsa",
     "pissarra",
@@ -828,7 +802,7 @@
    "ric": [
     "processar",
     "polsos",
-    "xemeneia",
+    "a_linstant",
     "esglaiar",
     "empremta",
     "perfum",

@@ -2,6 +2,11 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.6.1 — 2026-11-13
+
+- *El Príncep Feliç*: arreglades les 9 cartes que sortien repetides en dos capítols (murmurar, claveguera, escarlata, distingit, alcalde, polsos, passerell, xemeneia, gelada); cada una queda només al primer capítol on surt i l'aparellar dels reptes afectats (c103, c104, c105) s'ha refet. `revisa_llibre.py princep`: 0 errors.
+- La fitxa de la web esmenta els tres llibres i «més de 1.000 cartes».
+
 ## v1.6.0 — 2026-11-13
 
 - **Tercer llibre: *Contes perquè sí*** (Rudyard Kipling, *Just So Stories*, Gutenberg #2781, domini públic): 13 capítols en tres nivells (c201–c213), 529 cartes (100 de frase feta), repte per capítol, repte final de 13 preguntes i carta especial. Sense àudio (veu de l'ordinador). Esborrany pendent de revisió humana.

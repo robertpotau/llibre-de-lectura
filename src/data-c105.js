@@ -76,9 +76,9 @@
    "to": "curiositat",
    "en": "“And what, pray, is your idea of the duties of a devoted friend?” asked a Green Linnet, who was sitting in a willow-tree hard by, and had overheard the conversation.",
    "ca": {
-    "facil": "«I quina és la vostra idea dels deures d'un amic fidel, si em permeteu preguntar-ho?», va dir un {Passerell|passerell} verd que seia en un salze proper i havia sentit la conversa.",
-    "normal": "«I quina és la vostra idea dels deures d'un amic fidel, si em permeteu preguntar-ho?», va dir un {Passerell|passerell} verd que seia en un {salze|salze} proper i havia sentit la conversa.",
-    "ric": "«I quina és la vostra idea dels deures d'un amic fidel, si em permeteu preguntar-ho?», va dir un {Passerell|passerell} verd que seia en un {salze|salze} proper i havia sentit la conversa."
+    "facil": "«I quina és la vostra idea dels deures d'un amic fidel, si em permeteu preguntar-ho?», va dir un Passerell verd que seia en un salze proper i havia sentit la conversa.",
+    "normal": "«I quina és la vostra idea dels deures d'un amic fidel, si em permeteu preguntar-ho?», va dir un Passerell verd que seia en un {salze|salze} proper i havia sentit la conversa.",
+    "ric": "«I quina és la vostra idea dels deures d'un amic fidel, si em permeteu preguntar-ho?», va dir un Passerell verd que seia en un {salze|salze} proper i havia sentit la conversa."
    }
   },
   {
@@ -175,9 +175,9 @@
    "to": "curiositat",
    "en": "“Was he very distinguished?” asked the Water-rat.",
    "ca": {
-    "facil": "«Era molt {distingit|distingit}?», va preguntar la Rata d'aigua.",
-    "normal": "«Era molt {distingit|distingit}?», va preguntar la Rata d'aigua.",
-    "ric": "«Era molt {distingit|distingit}?», va preguntar la Rata d'aigua."
+    "facil": "«Era molt distingit?», va preguntar la Rata d'aigua.",
+    "normal": "«Era molt distingit?», va preguntar la Rata d'aigua.",
+    "ric": "«Era molt distingit?», va preguntar la Rata d'aigua."
    }
   },
   {
@@ -297,8 +297,8 @@
    "en": "“‘Lots of people act well,’ answered the Miller; ‘but very few people talk well, which shows that talking is much the more difficult thing of the two, and much the finer thing also’; and he looked sternly across the table at his little son, who felt so ashamed of himself that he hung his head down, and grew quite scarlet, and began to cry into his tea. However, he was so young that you must excuse him.”",
    "ca": {
     "facil": "«Molta gent actua bé», va respondre el Moliner; «però molt poca gent parla bé, cosa que demostra que parlar és molt més difícil, i també molt més fi.» I va mirar amb severitat al seu fillet, que es va avergonyir tant que va abaixar el cap, es va posar escarlata i va començar a plorar dins del seu te. De tota manera, era tan petit que cal excusar-lo.",
-    "normal": "«Molta gent actua bé», va respondre el Moliner; «però molt poca gent parla bé, cosa que demostra que parlar és molt més difícil, i també molt més fi.» I va mirar amb severitat al seu fillet, que es va avergonyir tant que va abaixar el cap, es va posar {escarlata|escarlata} i va començar a plorar dins del seu te. De tota manera, era tan petit que cal excusar-lo.",
-    "ric": "«Molta gent actua bé», va respondre el Moliner; «però ben poca gent parla bé, cosa que demostra que parlar és molt més difícil, i també molt més refinat.» I va mirar amb severitat el seu fillet, que es va avergonyir tant que va abaixar el cap, es va posar {escarlata|escarlata} i es va posar a plorar dins la tassa de te. Tanmateix, era tan petit que cal perdonar-lo."
+    "normal": "«Molta gent actua bé», va respondre el Moliner; «però molt poca gent parla bé, cosa que demostra que parlar és molt més difícil, i també molt més fi.» I va mirar amb severitat al seu fillet, que es va avergonyir tant que va abaixar el cap, es va posar escarlata i va començar a plorar dins del seu te. De tota manera, era tan petit que cal excusar-lo.",
+    "ric": "«Molta gent actua bé», va respondre el Moliner; «però ben poca gent parla bé, cosa que demostra que parlar és molt més difícil, i també molt més refinat.» I va mirar amb severitat el seu fillet, que es va avergonyir tant que va abaixar el cap, es va posar escarlata i es va posar a plorar dins la tassa de te. Tanmateix, era tan petit que cal perdonar-lo."
    }
   },
   {
@@ -450,9 +450,9 @@
    "to": "alegre",
    "en": "“‘They are certainly very lovely,’ said Hans, ‘and it is a most lucky thing for me that I have so many. I am going to bring them into the market and sell them to the Burgomaster’s daughter, and buy back my wheelbarrow with the money.’",
    "ca": {
-    "facil": "«Certament són molt boniques», va dir en Hans, «i és una sort per a mi tenir-ne tantes. Les portaré al mercat i les vendré a la filla de l'{Alcalde|alcalde}, i amb els diners recuperaré el meu {carretó|carreto}.»",
-    "normal": "«Certament són molt boniques», va dir en Hans, «i és una sort per a mi tenir-ne tantes. Les portaré al mercat i les vendré a la filla de l'{Alcalde|alcalde}, i amb els diners recuperaré el meu {carretó|carreto}.»",
-    "ric": "«Certament són molt boniques», va dir en Hans, «i és una sort per a mi tenir-ne tantes. Les portaré al mercat i les vendré a la filla de l'{Alcalde|alcalde}, i amb els diners recuperaré el meu {carretó|carreto}.»"
+    "facil": "«Certament són molt boniques», va dir en Hans, «i és una sort per a mi tenir-ne tantes. Les portaré al mercat i les vendré a la filla de l'Alcalde, i amb els diners recuperaré el meu {carretó|carreto}.»",
+    "normal": "«Certament són molt boniques», va dir en Hans, «i és una sort per a mi tenir-ne tantes. Les portaré al mercat i les vendré a la filla de l'Alcalde, i amb els diners recuperaré el meu {carretó|carreto}.»",
+    "ric": "«Certament són molt boniques», va dir en Hans, «i és una sort per a mi tenir-ne tantes. Les portaré al mercat i les vendré a la filla de l'Alcalde, i amb els diners recuperaré el meu {carretó|carreto}.»"
    }
   },
   {
@@ -660,8 +660,8 @@
    "en": "“It was a very hot day, and the road was terribly dusty, and before Hans had reached the sixth milestone he was so tired that he had to sit down and rest. However, he went on bravely, and as last he reached the market. After he had waited there some time, he sold the sack of flour for a very good price, and then he returned home at once, for he was afraid that if he stopped too late he might meet some robbers on the way.",
    "ca": {
     "facil": "Feia molta calor aquell dia, i el camí era terriblement polsós, i abans que en Hans arribés a la sisena fita ja estava tan cansat que va haver de seure a descansar. Tot i així, va continuar valentament, i al final va arribar al mercat. Després d'esperar-hi una estona, va vendre el sac de farina per un bon preu, i va tornar a casa de seguida, perquè temia que si s'entretenia massa tard podria trobar lladres pel camí.",
-    "normal": "Feia molta calor aquell dia, i el camí era terriblement {polsós|polsos}, i abans que en Hans arribés a la sisena {fita|fita} ja estava tan cansat que va haver de seure a descansar. Tot i així, va continuar valentament, i al final va arribar al mercat. Després d'esperar-hi una estona, va vendre el sac de farina per un bon preu, i va tornar a casa de seguida, perquè temia que si s'entretenia massa tard podria trobar {lladres|lladre} pel camí.",
-    "ric": "Feia molta calor aquell dia, i el camí era terriblement {polsós|polsos}, i abans que en Hans arribés a la sisena {fita|fita} ja estava tan esgotat que va haver de seure a reposar. Tot i així, va continuar amb coratge, i al final va arribar al mercat. Després d'esperar-hi una estona, va vendre el sac de farina per un bon preu, i va tornar a casa sense entretenir-se, perquè temia que, si s'hi demorava, podria topar amb {lladres|lladre} pel camí."
+    "normal": "Feia molta calor aquell dia, i el camí era terriblement polsós, i abans que en Hans arribés a la sisena {fita|fita} ja estava tan cansat que va haver de seure a descansar. Tot i així, va continuar valentament, i al final va arribar al mercat. Després d'esperar-hi una estona, va vendre el sac de farina per un bon preu, i va tornar a casa de seguida, perquè temia que si s'entretenia massa tard podria trobar {lladres|lladre} pel camí.",
+    "ric": "Feia molta calor aquell dia, i el camí era terriblement polsós, i abans que en Hans arribés a la sisena {fita|fita} ja estava tan esgotat que va haver de seure a reposar. Tot i així, va continuar amb coratge, i al final va arribar al mercat. Després d'esperar-hi una estona, va vendre el sac de farina per un bon preu, i va tornar a casa sense entretenir-se, perquè temia que, si s'hi demorava, podria topar amb {lladres|lladre} pel camí."
    }
   },
   {
@@ -768,19 +768,6 @@
     "motiu": "gos"
    }
   },
-  "passerell": {
-   "tipus": "vocabulari",
-   "categoria": "nom",
-   "dificultat": 3,
-   "lema": "passerell",
-   "en": "Linnet",
-   "definicio": "ocell petit que canta bé",
-   "sinonim": "—",
-   "exemple": "Un passerell cantava al salze.",
-   "carta": {
-    "motiu": "ocell"
-   }
-  },
   "salze": {
    "tipus": "vocabulari",
    "categoria": "nom",
@@ -831,19 +818,6 @@
    "exemple": "La regla és aplicable a tothom.",
    "carta": {
     "motiu": "regle"
-   }
-  },
-  "distingit": {
-   "tipus": "vocabulari",
-   "categoria": "adjectiu",
-   "dificultat": 3,
-   "lema": "distingit",
-   "en": "distinguished",
-   "definicio": "que sobresurt per la seva elegància o importància",
-   "sinonim": "il·lustre",
-   "exemple": "Era un senyor molt distingit.",
-   "carta": {
-    "motiu": "corona"
    }
   },
   "clavell": {
@@ -976,19 +950,6 @@
     "motiu": "flor"
    }
   },
-  "escarlata": {
-   "tipus": "vocabulari",
-   "categoria": "adjectiu",
-   "dificultat": 3,
-   "lema": "escarlata",
-   "en": "scarlet",
-   "definicio": "d'un vermell molt viu",
-   "sinonim": "vermell viu",
-   "exemple": "Es va posar escarlata de vergonya.",
-   "carta": {
-    "motiu": "flor"
-   }
-  },
   "calb": {
    "tipus": "vocabulari",
    "categoria": "adjectiu",
@@ -1000,19 +961,6 @@
    "exemple": "El crític era calb i duia ulleres.",
    "carta": {
     "motiu": "ull"
-   }
-  },
-  "alcalde": {
-   "tipus": "vocabulari",
-   "categoria": "nom",
-   "dificultat": 1,
-   "lema": "alcalde",
-   "en": "Burgomaster",
-   "definicio": "persona que governa una ciutat o un poble",
-   "sinonim": "batlle",
-   "exemple": "La filla de l'alcalde va comprar les flors.",
-   "carta": {
-    "motiu": "corona"
    }
   },
   "carreto": {
@@ -1065,19 +1013,6 @@
    "exemple": "El lligabosc cobria el porxo.",
    "carta": {
     "motiu": "flor"
-   }
-  },
-  "polsos": {
-   "tipus": "vocabulari",
-   "categoria": "adjectiu",
-   "dificultat": 2,
-   "lema": "polsós",
-   "en": "dusty",
-   "definicio": "ple de pols",
-   "sinonim": "empolsegat",
-   "exemple": "El camí polsós ens va fer tossir.",
-   "carta": {
-    "motiu": "vent"
    }
   },
   "fita": {
@@ -1219,7 +1154,7 @@
     "bigoti",
     "cautxu",
     "canari",
-    "passerell",
+    "calb",
     "moliner",
     "pom"
    ],
@@ -1237,8 +1172,8 @@
     "lligabosc",
     "radi",
     "post",
-    "polsos",
-    "escarlata",
+    "bigoti",
+    "aplicable",
     "desinteres",
     "lladre",
     "carreto"
