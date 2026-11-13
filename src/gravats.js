@@ -23,4 +23,18 @@ window.GRAVATS = {
   c106: { f: "img/princep/c106.jpg", w: 171, h: 205, alt: "El molí de vent i el carretó del Moliner" },
   c107: { f: "img/princep/c107.jpg", w: 600, h: 278, alt: "El Príncep s'agenolla davant de la Princesa" },
   c108: { f: "img/princep/c108.jpg", w: 303, h: 360, alt: "Els dos nens dormen a l'herba, amb les oques a prop" },
+  // Contes perquè sí (Kipling): il·lustracions de Joseph M. Gleeson (1912) i dibuixos de Rudyard Kipling (1902), domini públic
+  c201: { f: "img/justso/c201.jpg", w: 254, h: 360, alt: "El Mariner, amb tirants, damunt la seva bassa enmig de les onades, i la Balena al fons" },
+  c202: { f: "img/justso/c202.jpg", w: 261, h: 360, alt: "El Geni dels Deserts, damunt d'un núvol, i el Camell, el Cavall, el Gos i el Bou al desert" },
+  c203: { f: "img/justso/c203.jpg", w: 261, h: 360, alt: "El Rinoceront, amb la pell arrugada, sota una palmera a la vora del mar" },
+  c204: { f: "img/justso/c204.jpg", w: 355, h: 360, alt: "L'Elefantet estira el nas des del riu (dibuix de Kipling)" },
+  c205: { f: "img/justso/c205.jpg", w: 257, h: 360, alt: "El Vell Cangur salta pel desert, perseguit per en Dingo, el Gos Groc" },
+  c206: { f: "img/justso/c206.jpg", w: 254, h: 360, alt: "El Jaguar Pintat, l'Eriçó, la Tortuga i els dos primers armadillos" },
+  c207: { f: "img/justso/c207.jpg", w: 258, h: 360, alt: "En Tegumai, la Taffy i l'Home Foraster, en temps de les coves" },
+  c208: { f: "img/justso/c208.jpg", w: 256, h: 360, alt: "En Tegumai i la Taffy asseguts a l'herba, amb les primeres lletres al voltant" },
+  // c209: sense il·lustració (la de l'edició de 1912 no està signada i podria ser de Paul Bransom, †1979)
+  c210: { f: "img/justso/c210.jpg", w: 260, h: 360, alt: "En Pau Amma, el Cranc gegant, surt del mar davant la Lluna (dibuix de Kipling)" },
+  c211: { f: "img/justso/c211.jpg", w: 259, h: 360, alt: "La Dona, a la cova, amb el Gat que mira des de fora" },
+  c212: { f: "img/justso/c212.jpg", w: 253, h: 360, alt: "El Gat camina tot sol pel Bosc Humit i Salvatge (dibuix de Kipling)" },
+  c213: { f: "img/justso/c213.jpg", w: 257, h: 360, alt: "Suleiman-bin-Daud i la reina Balquis, amagats darrere un arbre, i les papallones" },
 };

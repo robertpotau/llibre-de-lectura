@@ -48,6 +48,11 @@
     tortuga: "🐢", grifo: "🦅",
     // capítol 10
     llamantol: "🦞", peix: "🐟",
+    // Contes perquè sí (Kipling)
+    balena: "🐋", camell: "🐫", rinoceront: "🦏", elefant: "🐘", cangur: "🦘", jaguar: "🐆", papallona: "🦋",
+    cranc: "🦀", cavall: "🐎", vaca: "🐄", nado: "👶", palmera: "🌴", desert: "🏜️", navalla: "🔪", geni: "🧞",
+    mag: "🧙", alfabet: "🔤", canoa: "🛶", mico: "🐒", girafa: "🦒", rata: "🐀", illa: "🏝️", llet: "🥛",
+    ou: "🥚", os: "🦴", pluja: "🌧️", arc: "🌈", estruc: "🐦", platan: "🍌", cova: "🪨",
   };
   const especialDe = (cap) => ({
     tipus: "especial", categoria: "especial", dificultat: 4, lema: cap.titol.ca, en: cap.titol.en,

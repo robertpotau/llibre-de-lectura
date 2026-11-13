@@ -2,6 +2,12 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.6.0 — 2026-11-13
+
+- **Tercer llibre: *Contes perquè sí*** (Rudyard Kipling, *Just So Stories*, Gutenberg #2781, domini públic): 13 capítols en tres nivells (c201–c213), 529 cartes (100 de frase feta), repte per capítol, repte final de 13 preguntes i carta especial. Sense àudio (veu de l'ordinador). Esborrany pendent de revisió humana.
+- Il·lustracions de Joseph M. Gleeson (1912) i dibuixos de Kipling (1902), domini públic. Conte del Lleopard saltat (racisme d'època).
+- Fet amb el protocol de llibre nou (agents traductors en paral·lel i dues voltes de revisió verificades): detall a `CANVIS_2026-11-13_v1.6.md` i `data/justso/REVISIO.md`.
+
 ## v1.5.3 — 2026-11-13
 
 - **7 cartes de frase feta més** al Príncep: posar-se bo (c101); al capdavall, a canvi d'or, trencar-se el cor (c103); a l'instant (c104); anar a parar (c106); val més que (c107). Total: 276 cartes, 26 de frase feta; ja no en queda cap de coneguda sense carta.
