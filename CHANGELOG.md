@@ -2,6 +2,14 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.5.1 — 2026-11-13
+
+- **Temerari enriquit** a tots els capítols d'*El Príncep Feliç* (c101–c108): vocabulari i sintaxi més rics en 10–19 paràgrafs per capítol (`tools/princep/cNNN_ric.py`); Prudent i Valent no canvien.
+- **Revisió gramatical dels 8 capítols** (agents Haiku + verificació manual contra l'original): «Era daurada de cap a peus», concordances, preposicions, accents i una mala traducció («com t'anava»).
+- **Cartes noves de frase feta**: de cap a peus, anar de dret al gra, a mitja veu (c101), ni piu, com soques (c108). Total: 260 cartes al llibre.
+- **Animació d'obertura** també per al llibre del Príncep des del prestatge 3D (abans només s'animava el llibre actiu).
+- **Publicat** a la còpia pública i a la web (Biblioteca màgica), amb els dos llibres; encara sense àudio al Príncep.
+
 ## v1.5 — 2026-11-13
 
 - **Segon llibre: *El Príncep Feliç i altres contes*** (Oscar Wilde, Gutenberg #902, domini públic): 8 capítols en tres nivells (c101–c108: El Príncep Feliç en 2 parts, El Rossinyol i la Rosa, El Gegant Egoista, El Fidel Amic en 2 parts, El Coet Extraordinari en 2 parts), amb glossari/cartes (≈300 paraules en total), repte per capítol (5 preguntes + aparellar 6/8/8), **repte final del llibre** (8 preguntes) i carta especial del llibre. **Sense àudio encara** (es llegeix amb la veu del navegador). Esborrany pendent de revisió.
