@@ -142,9 +142,9 @@
    "to": "sorpresa",
    "en": "“I cannot understand why the Spring is so late in coming,” said the Selfish Giant, as he sat at the window and looked out at his cold white garden; “I hope there will be a change in the weather.”",
    "ca": {
-    "facil": "Un matí, el Gegant estava despert al llit quan va sentir una música deliciosa. Li va semblar tan dolça a les orelles que va pensar que devien ser els músics del Rei que passaven. En realitat era només un petit {passerell|passerell} que cantava a fora de la seva finestra, però feia tant de temps que no sentia cantar cap ocell al seu jardí que li va semblar la música més bonica del món. Aleshores la Calamarsa va deixar de ballar damunt del seu cap, el Vent del Nord va deixar de bramar, i un {perfum|perfum} deliciós va entrar per la finestra oberta. «Crec que la Primavera ha arribat per fi», va dir el Gegant; i va saltar del llit i va mirar fora.",
-    "normal": "Un matí, el Gegant estava despert al llit quan va sentir una música deliciosa. Li va semblar tan dolça a les orelles que va pensar que devien ser els músics del Rei que passaven. En realitat era només un petit {passerell|passerell} que cantava a fora de la seva finestra, però feia tant de temps que no sentia cantar cap ocell al seu jardí que li va semblar la música més bonica del món. Aleshores la Calamarsa va deixar de ballar damunt del seu cap, el Vent del Nord va deixar de bramar, i un {perfum|perfum} deliciós va entrar per la {finestra|finestral} oberta. «Crec que la Primavera ha arribat per fi», va dir el Gegant; i va saltar del llit i va mirar fora.",
-    "ric": "Un matí, el Gegant estava despert al llit quan va sentir una música deliciosa. Li va semblar tan dolça a les orelles que va pensar que devien ser els músics del Rei que passaven. En realitat era només un petit {passerell|passerell} que cantava a fora de la seva finestra, però feia tant de temps que no sentia cantar cap ocell al seu jardí que li va semblar la música més bonica del món. Aleshores la Calamarsa va deixar de ballar damunt del seu cap, el Vent del Nord va deixar de bramar, i un {perfum|perfum} deliciós va entrar per la {finestra|finestral} oberta. «Crec que la Primavera ha arribat per fi», va dir el Gegant; i va saltar del llit i va mirar fora."
+    "facil": "Un matí, el Gegant estava despert al llit quan va sentir una música deliciosa. Li va semblar tan dolça a les orelles que va pensar que devien ser els músics del Rei que passaven. En realitat era només un petit {passerell|passerell} que cantava a fora de la seva finestra, però feia tant de temps que no sentia cantar cap ocell al seu jardí que li va semblar la música més bonica del món. Aleshores la Calamarsa va deixar de ballar damunt del seu cap, el Vent del Nord va deixar de bramar, i un {perfum|perfum} deliciós va entrar per la finestra oberta. «Crec que la Primavera ha arribat {per fi|per_fi}», va dir el Gegant; i va saltar del llit i va mirar fora.",
+    "normal": "Un matí, el Gegant estava despert al llit quan va sentir una música deliciosa. Li va semblar tan dolça a les orelles que va pensar que devien ser els músics del Rei que passaven. En realitat era només un petit {passerell|passerell} que cantava a fora de la seva finestra, però feia tant de temps que no sentia cantar cap ocell al seu jardí que li va semblar la música més bonica del món. Aleshores la Calamarsa va deixar de ballar damunt del seu cap, el Vent del Nord va deixar de bramar, i un {perfum|perfum} deliciós va entrar per la {finestra|finestral} oberta. «Crec que la Primavera ha arribat {per fi|per_fi}», va dir el Gegant; i va saltar del llit i va mirar fora.",
+    "ric": "Un matí, el Gegant estava despert al llit quan va sentir una música deliciosa. Li va semblar tan dolça a les orelles que va pensar que devien ser els músics del Rei que passaven. En realitat era només un petit {passerell|passerell} que cantava a fora de la seva finestra, però feia tant de temps que no sentia cantar cap ocell al seu jardí que li va semblar la música més bonica del món. Aleshores la Calamarsa va deixar de ballar damunt del seu cap, el Vent del Nord va deixar de bramar, i un {perfum|perfum} deliciós va entrar per la {finestra|finestral} oberta. «Crec que la Primavera ha arribat {per fi|per_fi}», va dir el Gegant; i va saltar del llit i va mirar fora."
    }
   },
   {
@@ -274,9 +274,9 @@
    "to": "sorpresa",
    "en": "Years went over, and the Giant grew very old and feeble. He could not play about any more, so he sat in a huge armchair, and watched the children at their games, and admired his garden. “I have many beautiful flowers,” he said; “but the children are the most beautiful flowers of all.”",
    "ca": {
-    "facil": "De cop es va fregar els ulls, admirat, i va mirar i va tornar a mirar. Certament era una imatge meravellosa. Al racó més llunyà del jardí hi havia un arbre completament cobert de precioses flors blanques. Les branques eren totes daurades, i en penjaven fruits de plata, i a sota hi havia el nen petit que havia estimat.",
-    "normal": "De cop es va fregar els ulls, admirat, i va mirar i va tornar a mirar. Certament era una imatge meravellosa. Al racó més llunyà del jardí hi havia un arbre completament cobert de precioses flors blanques. Les branques eren totes daurades, i en penjaven fruits de plata, i a sota hi havia el nen petit que havia estimat.",
-    "ric": "De cop es va fregar els ulls, bocabadat, i va mirar i tornar a mirar. Era, certament, una visió meravellosa. Al racó més allunyat del jardí s'alçava un arbre ben cobert de flors blanques. Les branques eren totes d'or, i en penjaven fruits de plata, i a sota hi havia el nen petit que tant havia estimat."
+    "facil": "{De cop|de_cop} es va fregar els ulls, admirat, i va mirar i va tornar a mirar. Certament era una imatge meravellosa. Al racó més llunyà del jardí hi havia un arbre completament cobert de precioses flors blanques. Les branques eren totes daurades, i en penjaven fruits de plata, i a sota hi havia el nen petit que havia estimat.",
+    "normal": "{De cop|de_cop} es va fregar els ulls, admirat, i va mirar i va tornar a mirar. Certament era una imatge meravellosa. Al racó més llunyà del jardí hi havia un arbre completament cobert de precioses flors blanques. Les branques eren totes daurades, i en penjaven fruits de plata, i a sota hi havia el nen petit que havia estimat.",
+    "ric": "{De cop|de_cop} es va fregar els ulls, bocabadat, i va mirar i tornar a mirar. Era, certament, una visió meravellosa. Al racó més allunyat del jardí s'alçava un arbre ben cobert de flors blanques. Les branques eren totes d'or, i en penjaven fruits de plata, i a sota hi havia el nen petit que tant havia estimat."
    }
   },
   {
@@ -670,6 +670,32 @@
    "exemple": "Es va agenollar davant l'altar.",
    "carta": {
     "motiu": "genoll"
+   }
+  },
+  "de_cop": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 2,
+   "lema": "de cop",
+   "en": "suddenly",
+   "definicio": "de manera sobtada, quan ningú no ho espera",
+   "sinonim": "de sobte",
+   "exemple": "De cop es va apagar la llum.",
+   "carta": {
+    "motiu": "llampec"
+   }
+  },
+  "per_fi": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 1,
+   "lema": "per fi",
+   "en": "at last",
+   "definicio": "finalment, després d'haver esperat molt",
+   "sinonim": "al capdavall",
+   "exemple": "Per fi ha arribat l'estiu!",
+   "carta": {
+    "motiu": "estrella"
    }
   }
  },

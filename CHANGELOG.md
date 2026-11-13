@@ -2,6 +2,11 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.5.2 — 2026-11-13
+
+- **9 cartes noves de frase feta** al Príncep: ben mirat, no tenir ni cèntim (c101); de cop, per fi (c104); tenir barra, a bots i barrals, fer un cop de cua, de debò (c106); plorar sobre la llet vessada (c107). Total: 269 cartes, 19 de frase feta.
+- Lliçons per fer els capítols bé a la primera: `docs/NOU-CAPITOL.md` (última secció).
+
 ## v1.5.1 — 2026-11-13
 
 - **Temerari enriquit** a tots els capítols d'*El Príncep Feliç* (c101–c108): vocabulari i sintaxi més rics en 10–19 paràgrafs per capítol (`tools/princep/cNNN_ric.py`); Prudent i Valent no canvien.

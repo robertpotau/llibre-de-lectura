@@ -32,9 +32,9 @@
    "to": "tensio",
    "en": "“‘Upon my word,’ said the Miller, ‘you are very lazy. Really, considering that I am going to give you my wheelbarrow, I think you might work harder. Idleness is a great sin, and I certainly don’t like any of my friends to be idle or sluggish. You must not mind my speaking quite plainly to you. Of course I should not dream of doing so if I were not your friend. But what is the good of friendship if one cannot say exactly what one means? Anybody can say charming things and try to please and to flatter, but a true friend always says unpleasant things, and does not mind giving pain. Indeed, if he is a really true friend he prefers it, for he knows that then he is doing good.’",
    "ca": {
-    "facil": "«Mira que ets mandrós», va dir el Moliner. «De debò, tenint en compte que et donaré el meu carretó, crec que podries treballar una mica més. La mandra és un gran pecat, i no m'agrada gens que cap dels meus amics sigui mandrós o {gandul|gandul}. No t'ho prenguis malament que et parli amb tota franquesa. És clar que no ho faria si no fos amic teu. Però de què serveix l'amistat si no es pot dir exactament el que es pensa? Qualsevol pot dir coses agradables i intentar complaure i afalagar, però un amic de veritat sempre diu coses desagradables i no li importa fer mal. De fet, si és un amic de debò, ho prefereix, perquè sap que així fa bé.»",
-    "normal": "«De debò, tens molta barra», va dir el Moliner. «Tenint en compte que et donaré el meu carretó, crec que podries treballar una mica més. La {mandra|mandra} és un gran pecat, i no m'agrada gens que cap dels meus amics sigui mandrós o {gandul|gandul}. No t'ho prenguis malament que et parli amb tota franquesa. És clar que no ho faria si no fos amic teu. Però de què serveix l'amistat si no es pot dir exactament el que es pensa? Qualsevol pot dir coses encantadores i intentar complaure i {afalagar|afalagar}, però un amic de veritat sempre diu coses desagradables i no li importa fer mal. De fet, si és un amic de debò, ho prefereix, perquè sap que així fa bé.»",
-    "ric": "«Tens una barra de mil dimonis», va dir el Moliner. «Considerant que et donaré el meu carretó, crec que podries treballar amb una mica més de diligència. La {mandra|mandra} és un pecat greu, i no m'agrada gens que cap dels meus amics sigui mandrós o {gandul|gandul}. No t'ho prenguis a mal que et parli amb tota franquesa. És evident que no ho faria si no fos amic teu. Però de què serveix l'amistat si no es pot dir exactament el que es pensa? Qualsevol pot dir paraules dolces i procurar complaure i {afalagar|afalagar}, però un amic de debò diu sempre coses desagradables i no es preocupa de fer mal. De fet, si és un amic autèntic, ho prefereix, perquè sap que així fa bé.»"
+    "facil": "«Mira que ets mandrós», va dir el Moliner. «De debò, tenint en compte que et donaré el meu carretó, crec que podries treballar una mica més. La mandra és un gran pecat, i no m'agrada gens que cap dels meus amics sigui mandrós o {gandul|gandul}. No t'ho prenguis malament que et parli amb tota franquesa. És clar que no ho faria si no fos amic teu. Però de què serveix l'amistat si no es pot dir exactament el que es pensa? Qualsevol pot dir coses agradables i intentar complaure i afalagar, però un amic de veritat sempre diu coses desagradables i no li importa fer mal. De fet, si és un amic {de debò|de_debo}, ho prefereix, perquè sap que així fa bé.»",
+    "normal": "«De debò, {tens molta barra|tenir_barra}», va dir el Moliner. «Tenint en compte que et donaré el meu carretó, crec que podries treballar una mica més. La {mandra|mandra} és un gran pecat, i no m'agrada gens que cap dels meus amics sigui mandrós o {gandul|gandul}. No t'ho prenguis malament que et parli amb tota franquesa. És clar que no ho faria si no fos amic teu. Però de què serveix l'amistat si no es pot dir exactament el que es pensa? Qualsevol pot dir coses encantadores i intentar complaure i {afalagar|afalagar}, però un amic de veritat sempre diu coses desagradables i no li importa fer mal. De fet, si és un amic {de debò|de_debo}, ho prefereix, perquè sap que així fa bé.»",
+    "ric": "«{Tens una barra|tenir_barra} de mil dimonis», va dir el Moliner. «Considerant que et donaré el meu carretó, crec que podries treballar amb una mica més de diligència. La {mandra|mandra} és un pecat greu, i no m'agrada gens que cap dels meus amics sigui mandrós o {gandul|gandul}. No t'ho prenguis a mal que et parli amb tota franquesa. És evident que no ho faria si no fos amic teu. Però de què serveix l'amistat si no es pot dir exactament el que es pensa? Qualsevol pot dir paraules dolces i procurar complaure i {afalagar|afalagar}, però un amic {de debò|de_debo} diu sempre coses desagradables i no es preocupa de fer mal. De fet, si és un amic autèntic, ho prefereix, perquè sap que així fa bé.»"
    }
   },
   {
@@ -384,9 +384,9 @@
    "to": "trist",
    "en": "“But the storm grew worse and worse, and the rain fell in torrents, and little Hans could not see where he was going, or keep up with the horse. At last he lost his way, and wandered off on the moor, which was a very dangerous place, as it was full of deep holes, and there poor little Hans was drowned. His body was found the next day by some goatherds, floating in a great pool of water, and was brought back by them to the cottage.",
    "ca": {
-    "facil": "Però la tempesta va anar empitjorant, i la pluja queia a bots i barrals, i el petit Hans no veia on anava ni podia seguir el cavall. Al final va perdre el camí, i va anar a parar a la {landa|landa}, que era un lloc molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos flotant en una gran bassa d'aigua i el van portar de tornada a la caseta.",
-    "normal": "Però la tempesta va anar empitjorant, i la pluja queia a bots i barrals, i el petit Hans no veia on anava ni podia seguir el cavall. Al final va perdre el camí, i va anar a parar a la {landa|landa}, que era un lloc molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos flotant en una gran bassa d'aigua i el van portar de tornada a la caseta.",
-    "ric": "Però la tempesta va anar a pitjor, i la pluja queia a bots i barrals, i el petit Hans no distingia on anava ni podia seguir el cavall. Al final va perdre el camí, i va anar a parar a la {landa|landa}, que era un indret molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos surant en una gran bassa d'aigua i el van portar de tornada a la caseta."
+    "facil": "Però la tempesta va anar empitjorant, i la pluja queia {a bots i barrals|a_bots_i_barrals}, i el petit Hans no veia on anava ni podia seguir el cavall. Al final va perdre el camí, i va anar a parar a la {landa|landa}, que era un lloc molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos flotant en una gran bassa d'aigua i el van portar de tornada a la caseta.",
+    "normal": "Però la tempesta va anar empitjorant, i la pluja queia {a bots i barrals|a_bots_i_barrals}, i el petit Hans no veia on anava ni podia seguir el cavall. Al final va perdre el camí, i va anar a parar a la {landa|landa}, que era un lloc molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos flotant en una gran bassa d'aigua i el van portar de tornada a la caseta.",
+    "ric": "Però la tempesta va anar a pitjor, i la pluja queia {a bots i barrals|a_bots_i_barrals}, i el petit Hans no distingia on anava ni podia seguir el cavall. Al final va perdre el camí, i va anar a parar a la {landa|landa}, que era un indret molt perillós perquè era plena de forats profunds, i allà el pobre petit Hans es va ofegar. L'endemà uns {cabrers|cabrer} van trobar el seu cos surant en una gran bassa d'aigua i el van portar de tornada a la caseta."
    }
   },
   {
@@ -549,9 +549,9 @@
    "to": "tensio",
    "en": "“Well, really,” said the Water-rat, in a very angry manner, “I think you should have told me that before you began. If you had done so, I certainly would not have listened to you; in fact, I should have said ‘Pooh,’ like the critic. However, I can say it now”; so he shouted out “Pooh” at the top of his voice, gave a whisk with his tail, and went back into his hole.",
    "ca": {
-    "facil": "«Doncs, de debò», va dir la Rata d'aigua, molt enfadada, «crec que m'ho hauríeu d'haver dit abans de començar. Si ho haguéssiu fet, segur que no us hauria escoltat; de fet, hauria dit «Bah!», com el crític. De totes maneres, ho puc dir ara.» I va cridar «Bah!» tan fort com va poder, va fer un cop de cua i se'n va tornar al cau.",
-    "normal": "«Doncs, de debò», va dir la Rata d'aigua, molt enfadada, «crec que m'ho hauríeu d'haver dit abans de començar. Si ho haguéssiu fet, segur que no us hauria escoltat; de fet, hauria dit «Bah!», com el crític. De totes maneres, ho puc dir ara.» I va cridar «Bah!» tan fort com va poder, va fer un cop de cua i se'n va tornar al cau.",
-    "ric": "«Doncs, de debò», va dir la Rata d'aigua, molt irritada, «crec que m'ho hauríeu d'haver dit abans de començar. Si ho haguéssiu fet, segur que no us hauria escoltat; de fet, hauria dit «Bah!», com el crític. En qualsevol cas, ho puc dir ara.» I va cridar «Bah!» amb tota la força, va fer un cop de cua i es va ficar de nou al cau."
+    "facil": "«Doncs, de debò», va dir la Rata d'aigua, molt enfadada, «crec que m'ho hauríeu d'haver dit abans de començar. Si ho haguéssiu fet, segur que no us hauria escoltat; de fet, hauria dit «Bah!», com el crític. De totes maneres, ho puc dir ara.» I va cridar «Bah!» tan fort com va poder, va fer {un cop de cua|cop_de_cua} i se'n va tornar al cau.",
+    "normal": "«Doncs, de debò», va dir la Rata d'aigua, molt enfadada, «crec que m'ho hauríeu d'haver dit abans de començar. Si ho haguéssiu fet, segur que no us hauria escoltat; de fet, hauria dit «Bah!», com el crític. De totes maneres, ho puc dir ara.» I va cridar «Bah!» tan fort com va poder, va fer {un cop de cua|cop_de_cua} i se'n va tornar al cau.",
+    "ric": "«Doncs, de debò», va dir la Rata d'aigua, molt irritada, «crec que m'ho hauríeu d'haver dit abans de començar. Si ho haguéssiu fet, segur que no us hauria escoltat; de fet, hauria dit «Bah!», com el crític. En qualsevol cas, ho puc dir ara.» I va cridar «Bah!» amb tota la força, va fer {un cop de cua|cop_de_cua} i es va ficar de nou al cau."
    }
   },
   {
@@ -871,6 +871,58 @@
    "exemple": "Era un solter que vivia sol.",
    "carta": {
     "motiu": "porta"
+   }
+  },
+  "tenir_barra": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 3,
+   "lema": "tenir barra",
+   "en": "(you have a cheek)",
+   "definicio": "ser molt cara dura; atrevir-se a fer o dir coses sense vergonya",
+   "sinonim": "tenir morro",
+   "exemple": "Tens molta barra de demanar-me això.",
+   "carta": {
+    "motiu": "porta"
+   }
+  },
+  "a_bots_i_barrals": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 3,
+   "lema": "a bots i barrals",
+   "en": "(pouring)",
+   "definicio": "molt, en gran quantitat, sobretot parlant de la pluja",
+   "sinonim": "a bots i a barrals",
+   "exemple": "Plovia a bots i barrals i no vam poder sortir.",
+   "carta": {
+    "motiu": "gota"
+   }
+  },
+  "cop_de_cua": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 3,
+   "lema": "fer un cop de cua",
+   "en": "(flick of the tail)",
+   "definicio": "moure la cua amb força d'un sol moviment",
+   "sinonim": "bategar la cua",
+   "exemple": "El peix va fer un cop de cua i va desaparèixer.",
+   "carta": {
+    "motiu": "peix"
+   }
+  },
+  "de_debo": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 1,
+   "lema": "de debò",
+   "en": "(true, really)",
+   "definicio": "de veritat, sense fingir",
+   "sinonim": "de veritat",
+   "exemple": "És un amic de debò.",
+   "carta": {
+    "motiu": "mà"
    }
   }
  },

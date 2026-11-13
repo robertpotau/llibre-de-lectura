@@ -483,9 +483,9 @@
    "to": "tensio",
    "en": "“I never said that they had,” replied the Rocket; “I said that they might. If they had lost their only son there would be no use in saying anything more about the matter. I hate people who cry over spilt milk. But when I think that they might lose their only son, I certainly am very much affected.”",
    "ca": {
-    "facil": "«Jo no he dit que sí», va respondre el Coet; «he dit que podria passar. Si haguessin perdut el seu únic fill, no serviria de res dir res més sobre el tema. Detesto la gent que plora sobre la llet vessada. Però quan penso que podrien perdre el seu únic fill, de debò que m'afecta molt.»",
-    "normal": "«Jo no he dit que sí», va respondre el Coet; «he dit que podria passar. Si haguessin perdut el seu únic fill, no serviria de res dir res més sobre el tema. Detesto la gent que plora sobre la llet vessada. Però quan penso que podrien perdre el seu únic fill, de debò que m'afecta molt.»",
-    "ric": "«Jo no he dit que sí», va respondre el Coet; «he dit que podria passar. Si haguessin perdut el seu únic fill, no serviria de res dir res més sobre el tema. Detesto la gent que plora sobre la llet vessada. Però quan penso que podrien perdre el seu únic fill, de debò que m'afecta molt.»"
+    "facil": "«Jo no he dit que sí», va respondre el Coet; «he dit que podria passar. Si haguessin perdut el seu únic fill, no serviria de res dir res més sobre el tema. Detesto la gent que {plora sobre la llet vessada|llet_vessada}. Però quan penso que podrien perdre el seu únic fill, de debò que m'afecta molt.»",
+    "normal": "«Jo no he dit que sí», va respondre el Coet; «he dit que podria passar. Si haguessin perdut el seu únic fill, no serviria de res dir res més sobre el tema. Detesto la gent que {plora sobre la llet vessada|llet_vessada}. Però quan penso que podrien perdre el seu únic fill, de debò que m'afecta molt.»",
+    "ric": "«Jo no he dit que sí», va respondre el Coet; «he dit que podria passar. Si haguessin perdut el seu únic fill, no serviria de res dir res més sobre el tema. Detesto la gent que {plora sobre la llet vessada|llet_vessada}. Però quan penso que podrien perdre el seu únic fill, de debò que m'afecta molt.»"
    }
   },
   {
@@ -939,6 +939,19 @@
    "exemple": "Va mirar-lo amb menyspreu.",
    "carta": {
     "motiu": "ull"
+   }
+  },
+  "llet_vessada": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 4,
+   "lema": "plorar sobre la llet vessada",
+   "en": "cry over spilt milk",
+   "definicio": "queixar-se d'una cosa que ja no es pot arreglar",
+   "sinonim": "lamentar-se debades",
+   "exemple": "No serveix de res plorar sobre la llet vessada.",
+   "carta": {
+    "motiu": "llàgrima"
    }
   }
  },

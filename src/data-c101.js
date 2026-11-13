@@ -34,7 +34,7 @@
    "ca": {
     "facil": "Tothom l'admirava molt. «És tan bonic com un {penell|penell}», va dir un dels regidors, que volia tenir fama de gust artístic. «Només que no és tan útil», va afegir, perquè no volia que pensessin que no era pràctic, i de fet sí que ho era.",
     "normal": "Era molt admirat, de debò. «És tan bonic com un {penell|penell}», va dir un dels {regidors|regidor} de la ciutat, que volia guanyar-se fama d'home de gustos artístics; «només que no és tan útil», va afegir, temerós que la gent el prengués per poc pràctic, cosa que en realitat no era.",
-    "ric": "Era molt admirat, ben mirat. «És tan bonic com un {penell|penell}», va fer un dels {regidors|regidor} de la ciutat, que desitjava fer-se una {anomenada|anomenada} d'home de gustos artístics; «només que no és tan útil», va afegir, {temerós|temeros} que la gent el prengués per poc pràctic, cosa que, a dir ver, no era."
+    "ric": "Era molt admirat, {ben mirat|ben_mirat}. «És tan bonic com un {penell|penell}», va fer un dels {regidors|regidor} de la ciutat, que desitjava fer-se una {anomenada|anomenada} d'home de gustos artístics; «només que no és tan útil», va afegir, {temerós|temeros} que la gent el prengués per poc pràctic, cosa que, a dir ver, no era."
    }
   },
   {
@@ -122,7 +122,7 @@
    "ca": {
     "facil": "«És un enamorament ridícul», van piular les altres orenetes. «No té diners, i té massa parents.» I és que el riu era ple de Canyes. Quan va arribar la tardor, totes se'n van anar volant.",
     "normal": "«És un {enamorament|enamorament} ridícul», van piular les altres orenetes. «No té diners i té massa parents.» I és que el riu era ple de Canyes. Després, quan va arribar la tardor, totes se'n van anar volant.",
-    "ric": "«És un {enamorament|enamorament} ridícul», van piular les altres orenetes. «No té ni cèntim i té massa família.» I és que el riu era ple de Canyes. Després, quan va arribar la tardor, totes se'n van anar volant."
+    "ric": "«És un {enamorament|enamorament} ridícul», van piular les altres orenetes. «No té {ni cèntim|ni_centim} i té massa família.» I és que el riu era ple de Canyes. Després, quan va arribar la tardor, totes se'n van anar volant."
    }
   },
   {
@@ -1187,6 +1187,32 @@
    "exemple": "El missatger va arribar amb una carta.",
    "carta": {
     "motiu": "carta"
+   }
+  },
+  "ben_mirat": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 3,
+   "lema": "ben mirat",
+   "en": "(all things considered)",
+   "definicio": "si es pensa bé, tenint-ho tot en compte",
+   "sinonim": "pensant-ho bé",
+   "exemple": "Ben mirat, el millor és sortir d'hora.",
+   "carta": {
+    "motiu": "ull"
+   }
+  },
+  "ni_centim": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 2,
+   "lema": "no tenir ni cèntim",
+   "en": "has not a penny",
+   "definicio": "no tenir gens de diners",
+   "sinonim": "estar sense cinc",
+   "exemple": "No té ni cèntim per comprar el pa.",
+   "carta": {
+    "motiu": "pot"
    }
   }
  },
