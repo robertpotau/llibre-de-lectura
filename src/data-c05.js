@@ -64,9 +64,9 @@
    "to": "divertit",
    "en": "“I can’t explain myself, I’m afraid, sir,” said Alice, “because I’m not myself, you see.”",
    "ca": {
-    "facil": "«Em sap greu, però no em puc explicar a mi mateixa, senyora», va dir l'Alícia, «perquè ara no sóc jo mateixa, ja ho veu.»",
-    "normal": "«Em temo que no em puc explicar a mi mateixa, senyora», va dir l'Alícia, «perquè no sóc jo mateixa, ja ho veu.»",
-    "ric": "«Em temo que no m'és possible explicar-me a mi mateixa, senyora», va dir l'Alícia, «perquè no sóc jo mateixa, ja ho veu.»"
+    "facil": "«Em sap greu, però no em puc explicar a mi mateixa, senyora», va dir l'Alícia, «perquè ara no soc jo mateixa, ja ho veu.»",
+    "normal": "«Em temo que no em puc explicar a mi mateixa, senyora», va dir l'Alícia, «perquè no soc jo mateixa, ja ho veu.»",
+    "ric": "«Em temo que no m'és possible explicar-me a mi mateixa, senyora», va dir l'Alícia, «perquè no soc jo mateixa, ja ho veu.»"
    }
   },
   {
@@ -450,8 +450,8 @@
    "en": "“Oh, I’m not particular as to size,” Alice hastily replied; “only one doesn’t like changing so often, you know.”",
    "ca": {
     "facil": "«Oh, la mida no m'importa gaire», va respondre l'Alícia de pressa. «Només és que no agrada gens canviar tan sovint, ja ho sap.»",
-    "normal": "«Oh, no sóc gaire {exigent|exigent} amb la mida», va respondre l'Alícia de pressa; «només que a una no li agrada canviar tan sovint, ja ho sap.»",
-    "ric": "«Oh, no sóc gens {exigent|exigent} pel que fa a la mida», va respondre l'Alícia {amb promptitud|promptitud}; «només que a una no li fa gràcia canviar tan sovint, ja ho sap.»"
+    "normal": "«Oh, no soc gaire {exigent|exigent} amb la mida», va respondre l'Alícia de pressa; «només que a una no li agrada canviar tan sovint, ja ho sap.»",
+    "ric": "«Oh, no soc gens {exigent|exigent} pel que fa a la mida», va respondre l'Alícia {amb promptitud|promptitud}; «només que a una no li fa gràcia canviar tan sovint, ja ho sap.»"
    }
   },
   {
@@ -651,9 +651,9 @@
    "to": "tensio",
    "en": "“I’m not a serpent!” said Alice indignantly. “Let me alone!”",
    "ca": {
-    "facil": "«No sóc una serp!», va dir l'Alícia, molt enfadada. «Deixa'm estar!»",
-    "normal": "«Jo no sóc cap serp!», va dir l'Alícia, {indignada|indignat}. «Deixa'm en pau!»",
-    "ric": "«Jo no sóc cap serp!», va protestar l'Alícia, {indignada|indignat}. «Deixa'm en pau!»"
+    "facil": "«No soc una serp!», va dir l'Alícia, molt enfadada. «Deixa'm estar!»",
+    "normal": "«Jo no soc cap serp!», va dir l'Alícia, {indignada|indignat}. «Deixa'm en pau!»",
+    "ric": "«Jo no soc cap serp!», va protestar l'Alícia, {indignada|indignat}. «Deixa'm en pau!»"
    }
   },
   {
@@ -739,9 +739,9 @@
    "to": "tensio",
    "en": "“But I’m not a serpent, I tell you!” said Alice. “I’m a—I’m a—”",
    "ca": {
-    "facil": "«Però que no sóc una serp, et dic!», va dir l'Alícia. «Jo sóc… jo sóc…»",
-    "normal": "«Però que no sóc una serp, et dic!», va dir l'Alícia. «Sóc una… sóc una…»",
-    "ric": "«Però que no sóc cap serp, t'ho repeteixo!», va dir l'Alícia. «Sóc una… sóc una…»"
+    "facil": "«Però que no soc una serp, et dic!», va dir l'Alícia. «Jo soc… jo soc…»",
+    "normal": "«Però que no soc una serp, et dic!», va dir l'Alícia. «Soc una… soc una…»",
+    "ric": "«Però que no soc cap serp, t'ho repeteixo!», va dir l'Alícia. «Soc una… soc una…»"
    }
   },
   {
@@ -761,9 +761,9 @@
    "to": "pensatiu",
    "en": "“I—I’m a little girl,” said Alice, rather doubtfully, as she remembered the number of changes she had gone through that day.",
    "ca": {
-    "facil": "«Jo… jo sóc una nena», va dir l'Alícia, no gaire segura. Recordava tots els canvis que havia fet aquell dia.",
-    "normal": "«Jo… jo sóc una nena petita», va dir l'Alícia, força {dubtosa|dubtos}, perquè recordava quants canvis havia patit aquell dia.",
-    "ric": "«Jo… jo sóc una nena», va dir l'Alícia, més aviat {dubtosa|dubtos}, ja que recordava la quantitat de canvis que havia patit aquell dia."
+    "facil": "«Jo… jo soc una nena», va dir l'Alícia, no gaire segura. Recordava tots els canvis que havia fet aquell dia.",
+    "normal": "«Jo… jo soc una nena petita», va dir l'Alícia, força {dubtosa|dubtos}, perquè recordava quants canvis havia patit aquell dia.",
+    "ric": "«Jo… jo soc una nena», va dir l'Alícia, més aviat {dubtosa|dubtos}, ja que recordava la quantitat de canvis que havia patit aquell dia."
    }
   },
   {
@@ -1163,7 +1163,7 @@
    "dificultat": 2,
    "lema": "tonell",
    "en": "fat",
-   "definicio": "bóta, recipient de fusta panxut per guardar vi o oli",
+   "definicio": "bota, recipient de fusta panxut per guardar vi o oli",
    "sinonim": "barril",
    "exemple": "Estava tan gras que semblava un tonell.",
    "carta": {

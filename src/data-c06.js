@@ -75,9 +75,9 @@
    "to": "divertit",
    "en": "“There’s no sort of use in knocking,” said the Footman, “and that for two reasons. First, because I’m on the same side of the door as you are; secondly, because they’re making such a noise inside, no one could possibly hear you.” And certainly there was a most extraordinary noise going on within—a constant howling and sneezing, and every now and then a great crash, as if a dish or kettle had been broken to pieces.",
    "ca": {
-    "facil": "«No serveix de res trucar», va dir el Lacai, «i per dues raons. Primer, perquè sóc al mateix costat de la porta que tu. I segon, perquè a dins fan tant de soroll que ningú no et pot sentir.» I era veritat: a dins hi havia un soroll extraordinari. Tothom udolava i esternudava sense parar, i de tant en tant se sentia un gran cop, com si es trenqués un plat o una {olla|olla}.",
-    "normal": "«No serveix de res trucar», va dir el Lacai, «i això per dues raons. Primer, perquè sóc al mateix costat de la porta que tu; i segon, perquè a dins fan tant de soroll que ningú no et podria sentir.» I, certament, a dins hi havia un {xivarri|xivarri} extraordinari: uns {udols|udol} i uns esternuts constants i, de tant en tant, un gran estrèpit, com si un plat o una {olla|olla} s'haguessin fet miques.",
-    "ric": "«No serveix de res trucar», va dir el Lacai, «i això per dues raons. Primer, perquè sóc al mateix costat de la porta que tu; i segon, perquè a dins fan tal {aldarull|aldarull} que ningú no et podria sentir.» I, en efecte, a dins hi havia un {xivarri|xivarri} d'allò més extraordinari: uns {udols|udol} i uns esternuts incessants i, de tant en tant, un gran estrèpit, com si un plat o una {olla|olla} s'haguessin fet {a miques|a_miques}."
+    "facil": "«No serveix de res trucar», va dir el Lacai, «i per dues raons. Primer, perquè soc al mateix costat de la porta que tu. I segon, perquè a dins fan tant de soroll que ningú no et pot sentir.» I era veritat: a dins hi havia un soroll extraordinari. Tothom udolava i esternudava sense parar, i de tant en tant se sentia un gran cop, com si es trenqués un plat o una {olla|olla}.",
+    "normal": "«No serveix de res trucar», va dir el Lacai, «i això per dues raons. Primer, perquè soc al mateix costat de la porta que tu; i segon, perquè a dins fan tant de soroll que ningú no et podria sentir.» I, certament, a dins hi havia un {xivarri|xivarri} extraordinari: uns {udols|udol} i uns esternuts constants i, de tant en tant, un gran estrèpit, com si un plat o una {olla|olla} s'haguessin fet miques.",
+    "ric": "«No serveix de res trucar», va dir el Lacai, «i això per dues raons. Primer, perquè soc al mateix costat de la porta que tu; i segon, perquè a dins fan tal {aldarull|aldarull} que ningú no et podria sentir.» I, en efecte, a dins hi havia un {xivarri|xivarri} d'allò més extraordinari: uns {udols|udol} i uns esternuts incessants i, de tant en tant, un gran estrèpit, com si un plat o una {olla|olla} s'haguessin fet {a miques|a_miques}."
    }
   },
   {
@@ -2022,7 +2022,7 @@
    "en": "giddy",
    "definicio": "marejar-se, tenir ganes de vomitar",
    "sinonim": "marejar-se",
-   "exemple": "Amb aquest vaixell em vénen basques.",
+   "exemple": "Amb aquest vaixell em venen basques.",
    "carta": {
     "motiu": "estómac"
    }

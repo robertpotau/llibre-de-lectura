@@ -2,6 +2,13 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.6.2 — 2026-11-13
+
+- **Accents diacrítics segons l'Ortografia de l'IEC (2016)** als tres llibres: 187 grafies antigues corregides (*sóc* → *soc*, *dóna* → *dona*, *adéu* → *adeu*, *vénen* → *venen*, *fóra* → *fora*, *bóta* → *bota*). Només queden els 15 diacrítics vigents.
+- Comprovació automàtica nova `tools/diacritics.py` (llista completa, també derivats i compostos); `revisa_llibre.py` ara ho compta com a **error**.
+- Guia de gramàtica per a revisors (`docs/REVISIO-GRAMATICA.md`: normativa, errors trobats, falses alarmes) i agent revisor Haiku `revisor-catala` (provat en dos capítols; 4 correccions més a c105: tracte, temps verbal, una carta i una pista del repte).
+- Protocol de llibre nou, guia d'estil i instruccions del projecte actualitzats amb aquestes comprovacions.
+
 ## v1.6.1 — 2026-11-13
 
 - *El Príncep Feliç*: arreglades les 9 cartes que sortien repetides en dos capítols (murmurar, claveguera, escarlata, distingit, alcalde, polsos, passerell, xemeneia, gelada); cada una queda només al primer capítol on surt i l'aparellar dels reptes afectats (c103, c104, c105) s'ha refet. `revisa_llibre.py princep`: 0 errors.

@@ -153,9 +153,9 @@
    "to": "tensio",
    "en": "“You have been trifling with me,” he cried. “I am off to the Pyramids. Good-bye!” and he flew away.",
    "ca": {
-    "facil": "«M'has pres el pèl!», va cridar. «Me'n vaig a les piràmides. Adéu!» I se'n va anar volant.",
-    "normal": "«Has jugat amb mi!», va cridar. «Me'n vaig a les piràmides. Adéu!» I se'n va anar volant.",
-    "ric": "«Has jugat amb mi!», va cridar. «Me'n vaig a les piràmides. Adéu!» I va alçar el vol."
+    "facil": "«M'has pres el pèl!», va cridar. «Me'n vaig a les piràmides. Adeu!» I se'n va anar volant.",
+    "normal": "«Has jugat amb mi!», va cridar. «Me'n vaig a les piràmides. Adeu!» I se'n va anar volant.",
+    "ric": "«Has jugat amb mi!», va cridar. «Me'n vaig a les piràmides. Adeu!» I va alçar el vol."
    }
   },
   {
@@ -263,9 +263,9 @@
    "to": "calm",
    "en": "“I am the Happy Prince.”",
    "ca": {
-    "facil": "«Sóc el Príncep Feliç.»",
-    "normal": "«Sóc el Príncep Feliç.»",
-    "ric": "«Sóc el Príncep Feliç.»"
+    "facil": "«Soc el Príncep Feliç.»",
+    "normal": "«Soc el Príncep Feliç.»",
+    "ric": "«Soc el Príncep Feliç.»"
    }
   },
   {
@@ -285,9 +285,9 @@
    "to": "trist",
    "en": "“When I was alive and had a human heart,” answered the statue, “I did not know what tears were, for I lived in the Palace of Sans-Souci, where sorrow is not allowed to enter. In the daytime I played with my companions in the garden, and in the evening I led the dance in the Great Hall. Round the garden ran a very lofty wall, but I never cared to ask what lay beyond it, everything about me was so beautiful. My courtiers called me the Happy Prince, and happy indeed I was, if pleasure be happiness. So I lived, and so I died. And now that I am dead they have set me up here so high that I can see all the ugliness and all the misery of my city, and though my heart is made of lead yet I cannot chose but weep.”",
    "ca": {
-    "facil": "«Quan era viu i tenia cor humà», va respondre l'estàtua, «no sabia què eren les llàgrimes, perquè vivia al Palau de Sans-Souci, on el dolor no pot entrar. De dia jugava amb els meus companys al jardí, i de nit dirigia el ball a la gran sala. Al voltant del jardí hi havia una muralla molt alta, però mai no vaig voler preguntar què hi havia més enllà, perquè tot al meu voltant era tan bonic. Els meus cortesans em deien el Príncep Feliç, i feliç ho era, si el plaer és felicitat. Així vaig viure, i així vaig morir. I ara que sóc mort m'han posat aquí tan amunt que puc veure tota la lletjor i tota la misèria de la meva ciutat; i encara que el meu cor és de plom, no puc evitar plorar.»",
-    "normal": "«Quan era viu i tenia cor humà», va respondre l'estàtua, «no sabia què eren les llàgrimes, perquè vivia al Palau de {Sans-Souci|sans_souci}, on el dolor no pot entrar. De dia jugava amb els meus companys al jardí, i de nit {dirigia|dirigir} el ball a la gran sala. Al voltant del jardí hi havia una muralla molt alta, però mai no vaig voler preguntar què hi havia més enllà, perquè tot al meu voltant era tan bonic. Els meus {cortesans|cortesa} em deien el Príncep Feliç, i feliç ho era, si el plaer és felicitat. Així vaig viure, i així vaig morir. I ara que sóc mort m'han posat aquí tan amunt que puc veure tota la {lletjor|lletjor} i tota la misèria de la meva ciutat; i encara que el meu cor és de plom, no puc evitar plorar.»",
-    "ric": "«Quan era viu i tenia cor humà», va respondre l'estàtua, «no sabia què eren les llàgrimes, perquè vivia al Palau de {Sans-Souci|sans_souci}, on el dolor no té permès l'entrada. De dia jugava amb els meus companys al jardí, i de nit {dirigia|dirigir} el ball a la gran sala. Al voltant del jardí s'estenia una muralla altíssima, però mai no vaig tenir ganes de preguntar què hi havia més enllà, tan bell era tot el que em voltava. Els meus {cortesans|cortesa} em deien el Príncep Feliç, i feliç ho era, si el plaer és felicitat. Així vaig viure, i així vaig morir. I ara que sóc mort m'han posat aquí dalt, tan amunt que puc veure tota la {lletjor|lletjor} i tota la misèria de la meva ciutat; i, encara que el meu cor és de plom, no puc fer altra cosa que plorar.»"
+    "facil": "«Quan era viu i tenia cor humà», va respondre l'estàtua, «no sabia què eren les llàgrimes, perquè vivia al Palau de Sans-Souci, on el dolor no pot entrar. De dia jugava amb els meus companys al jardí, i de nit dirigia el ball a la gran sala. Al voltant del jardí hi havia una muralla molt alta, però mai no vaig voler preguntar què hi havia més enllà, perquè tot al meu voltant era tan bonic. Els meus cortesans em deien el Príncep Feliç, i feliç ho era, si el plaer és felicitat. Així vaig viure, i així vaig morir. I ara que soc mort m'han posat aquí tan amunt que puc veure tota la lletjor i tota la misèria de la meva ciutat; i encara que el meu cor és de plom, no puc evitar plorar.»",
+    "normal": "«Quan era viu i tenia cor humà», va respondre l'estàtua, «no sabia què eren les llàgrimes, perquè vivia al Palau de {Sans-Souci|sans_souci}, on el dolor no pot entrar. De dia jugava amb els meus companys al jardí, i de nit {dirigia|dirigir} el ball a la gran sala. Al voltant del jardí hi havia una muralla molt alta, però mai no vaig voler preguntar què hi havia més enllà, perquè tot al meu voltant era tan bonic. Els meus {cortesans|cortesa} em deien el Príncep Feliç, i feliç ho era, si el plaer és felicitat. Així vaig viure, i així vaig morir. I ara que soc mort m'han posat aquí tan amunt que puc veure tota la {lletjor|lletjor} i tota la misèria de la meva ciutat; i encara que el meu cor és de plom, no puc evitar plorar.»",
+    "ric": "«Quan era viu i tenia cor humà», va respondre l'estàtua, «no sabia què eren les llàgrimes, perquè vivia al Palau de {Sans-Souci|sans_souci}, on el dolor no té permès l'entrada. De dia jugava amb els meus companys al jardí, i de nit {dirigia|dirigir} el ball a la gran sala. Al voltant del jardí s'estenia una muralla altíssima, però mai no vaig tenir ganes de preguntar què hi havia més enllà, tan bell era tot el que em voltava. Els meus {cortesans|cortesa} em deien el Príncep Feliç, i feliç ho era, si el plaer és felicitat. Així vaig viure, i així vaig morir. I ara que soc mort m'han posat aquí dalt, tan amunt que puc veure tota la {lletjor|lletjor} i tota la misèria de la meva ciutat; i, encara que el meu cor és de plom, no puc fer altra cosa que plorar.»"
    }
   },
   {
@@ -340,9 +340,9 @@
    "to": "divertit",
    "en": "“I don’t think I like boys,” answered the Swallow. “Last summer, when I was staying on the river, there were two rude boys, the miller’s sons, who were always throwing stones at me. They never hit me, of course; we swallows fly far too well for that, and besides, I come of a family famous for its agility; but still, it was a mark of disrespect.”",
    "ca": {
-    "facil": "«No crec que m'agradin els nens», va respondre l'Oreneta. «L'estiu passat, quan era al riu, hi havia dos nens mal educats, els fills del moliner, que sempre em tiraven pedres. No m'encertaven mai, és clar, perquè les orenetes volem massa bé, i a més jo sóc d'una família famosa per la seva agilitat; però igualment era una falta de respecte.»",
+    "facil": "«No crec que m'agradin els nens», va respondre l'Oreneta. «L'estiu passat, quan era al riu, hi havia dos nens mal educats, els fills del moliner, que sempre em tiraven pedres. No m'encertaven mai, és clar, perquè les orenetes volem massa bé, i a més jo soc d'una família famosa per la seva agilitat; però igualment era una falta de respecte.»",
     "normal": "«No crec que m'agradin els nens», va respondre l'Oreneta. «L'estiu passat, quan era al riu, hi havia dos nens mal educats, els fills del moliner, que sempre em tiraven pedres. No m'encertaven mai, és clar: les orenetes volem massa bé per això, i a més jo vinc d'una família famosa per la seva {agilitat|agilitat}; però tot i així era una falta de respecte.»",
-    "ric": "«No crec que m'agradin els nens», va respondre l'Oreneta. «L'estiu passat, quan era al riu, hi havia dos nens mal educats, els fills del moliner, que sempre em tiraven pedres. No m'encertaven mai, és clar: les orenetes volem massa bé per això, i a més jo sóc d'una nissaga famosa per la seva {agilitat|agilitat}; però tot i així era una {falta de respecte|falta_de_respecte}.»"
+    "ric": "«No crec que m'agradin els nens», va respondre l'Oreneta. «L'estiu passat, quan era al riu, hi havia dos nens mal educats, els fills del moliner, que sempre em tiraven pedres. No m'encertaven mai, és clar: les orenetes volem massa bé per això, i a més jo soc d'una nissaga famosa per la seva {agilitat|agilitat}; però tot i així era una {falta de respecte|falta_de_respecte}.»"
    }
   },
   {

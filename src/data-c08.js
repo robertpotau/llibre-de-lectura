@@ -1832,7 +1832,7 @@
    "en": "helpless",
    "definicio": "que fa les coses amb poca traça",
    "sinonim": "matusser",
-   "exemple": "Sóc molt maldestre amb les tisores.",
+   "exemple": "Soc molt maldestre amb les tisores.",
    "carta": {
     "motiu": "espiral"
    }

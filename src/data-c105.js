@@ -65,9 +65,9 @@
    "to": "pensatiu",
    "en": "“Ah! I know nothing about the feelings of parents,” said the Water-rat; “I am not a family man. In fact, I have never been married, and I never intend to be. Love is all very well in its way, but friendship is much higher. Indeed, I know of nothing in the world that is either nobler or rarer than a devoted friendship.”",
    "ca": {
-    "facil": "«Ah! De sentiments de pares no en sé res», va dir la Rata d'aigua; «jo no sóc home de família. De fet, mai no m'he casat, ni penso fer-ho. L'amor està molt bé a la seva manera, però l'amistat és molt més elevada. De debò que no conec res al món més noble ni més rar que una amistat {fidel|fidel}.»",
-    "normal": "«Ah! De sentiments de pares no en sé res», va dir la Rata d'aigua; «jo no sóc home de família. De fet, mai no m'he casat, ni penso fer-ho. L'amor està molt bé a la seva manera, però l'amistat és molt més elevada. De debò que no conec res al món més noble ni més rar que una amistat {fidel|fidel}.»",
-    "ric": "«Ah! De sentiments de pares no en sé res», va dir la Rata d'aigua; «jo no sóc home de família. De fet, mai no m'he casat, ni penso fer-ho. L'amor està molt bé a la seva manera, però l'amistat és molt més elevada. De debò que no conec res al món més noble ni més rar que una amistat {fidel|fidel}.»"
+    "facil": "«Ah! De sentiments de pares no en sé res», va dir la Rata d'aigua; «jo no soc home de família. De fet, mai no m'he casat, ni penso fer-ho. L'amor està molt bé a la seva manera, però l'amistat és molt més elevada. De debò que no conec res al món més noble ni més rar que una amistat {fidel|fidel}.»",
+    "normal": "«Ah! De sentiments de pares no en sé res», va dir la Rata d'aigua; «jo no soc home de família. De fet, mai no m'he casat, ni penso fer-ho. L'amor està molt bé a la seva manera, però l'amistat és molt més elevada. De debò que no conec res al món més noble ni més rar que una amistat {fidel|fidel}.»",
+    "ric": "«Ah! De sentiments de pares no en sé res», va dir la Rata d'aigua; «jo no soc home de família. De fet, mai no m'he casat, ni penso fer-ho. L'amor està molt bé a la seva manera, però l'amistat és molt més elevada. De debò que no conec res al món més noble ni més rar que una amistat {fidel|fidel}.»"
    }
   },
   {
@@ -186,9 +186,9 @@
    "to": "alegre",
    "en": "“No,” answered the Linnet, “I don’t think he was distinguished at all, except for his kind heart, and his funny round good-humoured face. He lived in a tiny cottage all by himself, and every day he worked in his garden. In all the country-side there was no garden so lovely as his. Sweet-william grew there, and Gilly-flowers, and Shepherds’-purses, and Fair-maids of France. There were damask Roses, and yellow Roses, lilac Crocuses, and gold, purple Violets and white. Columbine and Ladysmock, Marjoram and Wild Basil, the Cowslip and the Flower-de-luce, the Daffodil and the Clove-Pink bloomed or blossomed in their proper order as the months went by, one flower taking another flower’s place, so that there were always beautiful things to look at, and pleasant odours to smell.",
    "ca": {
-    "facil": "«No», va respondre el Passerell, «no crec que fos gens distingit, tret del seu bon cor i de la seva cara rodona, graciosa i alegre. Vivia en una caseta ben petita, tot sol, i cada dia treballava al seu jardí. A tot el país no hi havia cap jardí tan bonic com el seu. Hi creixien {clavells|clavell}, violers, bosses de pastor i flors de França. Hi havia roses de Damasc i roses grogues, safrans lila i daurats, violetes porpres i blanques. L'aquilegia i la cardamina, la marduix i l'alfàbrega silvestre, la primavera, el lliri, el narcís i el clavell rosat floreixen o s'obrien en el seu moment a mesura que passaven els mesos, una flor prenent el lloc de l'altra, de manera que sempre hi havia coses boniques per mirar i olors agradables per sentir.",
-    "normal": "«No», va respondre el Passerell, «no crec que fos gens distingit, tret del seu bon cor i de la seva cara rodona, graciosa i alegre. Vivia en una caseta ben petita, tot sol, i cada dia treballava al seu jardí. A tot el país no hi havia cap jardí tan bonic com el seu. Hi creixien {clavells|clavell}, violers, bosses de pastor i flors de França. Hi havia roses de Damasc i roses grogues, safrans lila i daurats, violetes porpres i blanques. L'aquilegia i la cardamina, la marduix i l'alfàbrega silvestre, la primavera, el lliri, el narcís i el clavell rosat floreixen o s'obrien en el seu moment a mesura que passaven els mesos, una flor prenent el lloc de l'altra, de manera que sempre hi havia coses belles per mirar i olors agradables per sentir.",
-    "ric": "«No», va respondre el Passerell, «no crec que fos gens distingit, llevat del seu bon cor i de la seva cara rodona, graciosa i riallera. Vivia en una caseta ben petita, ell tot sol, i cada dia es matava a treballar al jardí. A tot el país no hi havia cap jardí tan formós com el seu. Hi creixien {clavells|clavell}, violers, bosses de pastor i flors de França. Hi havia roses de Damasc i roses grogues, safrans lila i daurats, violetes porpres i blanques. L'aquilegia i la cardamina, la marduix i l'alfàbrega silvestre, la primavera, el lliri, el narcís i el clavell rosat floreixen o s'obrien en el seu moment a mesura que passaven els mesos, una flor succeint l'altra, de manera que sempre hi havia belleses per contemplar i aromes plaents per respirar."
+    "facil": "«No», va respondre el Passerell, «no crec que fos gens distingit, tret del seu bon cor i de la seva cara rodona, graciosa i alegre. Vivia en una caseta ben petita, tot sol, i cada dia treballava al seu jardí. A tot el país no hi havia cap jardí tan bonic com el seu. Hi creixien {clavells|clavell}, violers, bosses de pastor i flors de França. Hi havia roses de Damasc i roses grogues, safrans lila i daurats, violetes porpres i blanques. L'aquilegia i la cardamina, la marduix i l'alfàbrega silvestre, la primavera, el lliri, el narcís i el clavell rosat floreixien o s'obrien en el seu moment a mesura que passaven els mesos, una flor prenent el lloc de l'altra, de manera que sempre hi havia coses boniques per mirar i olors agradables per sentir.",
+    "normal": "«No», va respondre el Passerell, «no crec que fos gens distingit, tret del seu bon cor i de la seva cara rodona, graciosa i alegre. Vivia en una caseta ben petita, tot sol, i cada dia treballava al seu jardí. A tot el país no hi havia cap jardí tan bonic com el seu. Hi creixien {clavells|clavell}, violers, bosses de pastor i flors de França. Hi havia roses de Damasc i roses grogues, safrans lila i daurats, violetes porpres i blanques. L'aquilegia i la cardamina, la marduix i l'alfàbrega silvestre, la primavera, el lliri, el narcís i el clavell rosat floreixien o s'obrien en el seu moment a mesura que passaven els mesos, una flor prenent el lloc de l'altra, de manera que sempre hi havia coses belles per mirar i olors agradables per sentir.",
+    "ric": "«No», va respondre el Passerell, «no crec que fos gens distingit, llevat del seu bon cor i de la seva cara rodona, graciosa i riallera. Vivia en una caseta ben petita, ell tot sol, i cada dia es matava a treballar al jardí. A tot el país no hi havia cap jardí tan formós com el seu. Hi creixien {clavells|clavell}, violers, bosses de pastor i flors de França. Hi havia roses de Damasc i roses grogues, safrans lila i daurats, violetes porpres i blanques. L'aquilegia i la cardamina, la marduix i l'alfàbrega silvestre, la primavera, el lliri, el narcís i el clavell rosat floreixien o s'obrien en el seu moment a mesura que passaven els mesos, una flor succeint l'altra, de manera que sempre hi havia belleses per contemplar i aromes plaents per respirar."
    }
   },
   {
@@ -406,9 +406,9 @@
    "to": "calm",
    "en": "“‘Well, really,’ cried Hans, ‘it is very good of you to ask, very good indeed. I am afraid I had rather a hard time of it, but now the spring has come, and I am quite happy, and all my flowers are doing well.’",
    "ca": {
-    "facil": "«Doncs, la veritat», va exclamar en Hans, «és molt amable de la teva part preguntar-ho, molt amable de debò. Em temo que ho he passat força malament, però ara ha arribat la primavera i sóc ben feliç, i totes les meves flors van bé.»",
-    "normal": "«Doncs, la veritat», va exclamar en Hans, «és molt amable de la teva part preguntar-ho, molt amable de debò. Em temo que ho he passat força malament, però ara ha arribat la primavera i sóc ben feliç, i totes les meves flors van bé.»",
-    "ric": "«Doncs, la veritat», va exclamar en Hans, «és molt amable de la teva part preguntar-ho, molt amable de debò. Em temo que ho he passat força malament, però ara ha arribat la primavera i sóc ben feliç, i totes les meves flors van bé.»"
+    "facil": "«Doncs, la veritat», va exclamar en Hans, «és molt amable de la teva part preguntar-ho, molt amable de debò. Em temo que ho he passat força malament, però ara ha arribat la primavera i soc ben feliç, i totes les meves flors van bé.»",
+    "normal": "«Doncs, la veritat», va exclamar en Hans, «és molt amable de la teva part preguntar-ho, molt amable de debò. Em temo que ho he passat força malament, però ara ha arribat la primavera i soc ben feliç, i totes les meves flors van bé.»",
+    "ric": "«Doncs, la veritat», va exclamar en Hans, «és molt amable de la teva part preguntar-ho, molt amable de debò. Em temo que ho he passat força malament, però ara ha arribat la primavera i soc ben feliç, i totes les meves flors van bé.»"
    }
   },
   {
@@ -428,9 +428,9 @@
    "to": "calm",
    "en": "“‘That was kind of you,’ said Hans; ‘I was half afraid you had forgotten me.’",
    "ca": {
-    "facil": "«Això va ser molt amable», va dir en Hans; «gairebé temia que m'haguéssiu oblidat.»",
-    "normal": "«Això va ser molt amable», va dir en Hans; «gairebé temia que m'haguéssiu oblidat.»",
-    "ric": "«Això va ser molt amable», va dir en Hans; «gairebé temia que m'haguéssiu oblidat.»"
+    "facil": "«Això va ser molt amable», va dir en Hans; «gairebé temia que m'haguessis oblidat.»",
+    "normal": "«Això va ser molt amable», va dir en Hans; «gairebé temia que m'haguessis oblidat.»",
+    "ric": "«Això va ser molt amable», va dir en Hans; «gairebé temia que m'haguessis oblidat.»"
    }
   },
   {
@@ -483,9 +483,9 @@
    "to": "tensio",
    "en": "“‘Hans,’ said the Miller, ‘I will give you my wheelbarrow. It is not in very good repair; indeed, one side is gone, and there is something wrong with the wheel-spokes; but in spite of that I will give it to you. I know it is very generous of me, and a great many people would think me extremely foolish for parting with it, but I am not like the rest of the world. I think that generosity is the essence of friendship, and, besides, I have got a new wheelbarrow for myself. Yes, you may set your mind at ease, I will give you my wheelbarrow.’",
    "ca": {
-    "facil": "«Hans», va dir el Moliner, «et donaré el meu carretó. No està en gaire bon estat; de fet, li falta un costat i hi ha alguna cosa que no va bé amb els {radis|radi} de les rodes; però malgrat això te'l donaré. Sé que és molt generós per la meva part, i molta gent em trobaria ben ximple per desfer-me'n, però jo no sóc com la resta del món. Penso que la generositat és l'essència de l'amistat, i, a més, jo ja m'he comprat un carretó nou. Sí, pots estar tranquil, et donaré el meu carretó.»",
-    "normal": "«Hans», va dir el Moliner, «et donaré el meu carretó. No està en gaire bon estat; de fet, li falta un costat i hi ha alguna cosa que no va bé amb els {radis|radi} de les rodes; però malgrat això te'l donaré. Sé que és molt generós per la meva part, i molta gent em trobaria ben ximple per desfer-me'n, però jo no sóc com la resta del món. Penso que la generositat és l'essència de l'amistat, i, a més, jo ja m'he comprat un carretó nou. Sí, pots estar tranquil, et donaré el meu carretó.»",
-    "ric": "«Hans», va dir el Moliner, «et regalaré el meu carretó. No està en gaire bon estat; de fet, li falta una banda i hi ha alguna cosa que falla en els {radis|radi} de les rodes; però, malgrat això, te'l donaré. Sé que és molt generós per part meva, i molta gent em prendria per ximple per desfer-me'n, però jo no sóc com la resta del món. Crec que la generositat és l'essència de l'amistat, i, a més, jo ja m'he procurat un carretó nou. Sí, pots estar tranquil, et donaré el meu carretó.»"
+    "facil": "«Hans», va dir el Moliner, «et donaré el meu carretó. No està en gaire bon estat; de fet, li falta un costat i hi ha alguna cosa que no va bé amb els {radis|radi} de les rodes; però malgrat això te'l donaré. Sé que és molt generós per la meva part, i molta gent em trobaria ben ximple per desfer-me'n, però jo no soc com la resta del món. Penso que la generositat és l'essència de l'amistat, i, a més, jo ja m'he comprat un carretó nou. Sí, pots estar tranquil, et donaré el meu carretó.»",
+    "normal": "«Hans», va dir el Moliner, «et donaré el meu carretó. No està en gaire bon estat; de fet, li falta un costat i hi ha alguna cosa que no va bé amb els {radis|radi} de les rodes; però malgrat això te'l donaré. Sé que és molt generós per la meva part, i molta gent em trobaria ben ximple per desfer-me'n, però jo no soc com la resta del món. Penso que la generositat és l'essència de l'amistat, i, a més, jo ja m'he comprat un carretó nou. Sí, pots estar tranquil, et donaré el meu carretó.»",
+    "ric": "«Hans», va dir el Moliner, «et regalaré el meu carretó. No està en gaire bon estat; de fet, li falta una banda i hi ha alguna cosa que falla en els {radis|radi} de les rodes; però, malgrat això, te'l donaré. Sé que és molt generós per part meva, i molta gent em prendria per ximple per desfer-me'n, però jo no soc com la resta del món. Crec que la generositat és l'essència de l'amistat, i, a més, jo ja m'he procurat un carretó nou. Sí, pots estar tranquil, et donaré el meu carretó.»"
    }
   },
   {
@@ -571,9 +571,9 @@
    "to": "calm",
    "en": "“‘Good-bye, little Hans,’ said the Miller, as he went up the hill with the plank on his shoulder, and the big basket in his hand.",
    "ca": {
-    "facil": "«Adéu, petit Hans», va dir el Moliner, mentre pujava el turó amb el post a l'espatlla i la gran cistella a la mà.",
-    "normal": "«Adéu, petit Hans», va dir el Moliner, mentre pujava el turó amb el post a l'espatlla i la gran cistella a la mà.",
-    "ric": "«Adéu, petit Hans», va dir el Moliner, mentre pujava el turó amb el post a l'espatlla i la gran cistella a la mà."
+    "facil": "«Adeu, petit Hans», va dir el Moliner, mentre pujava el turó amb el post a l'espatlla i la gran cistella a la mà.",
+    "normal": "«Adeu, petit Hans», va dir el Moliner, mentre pujava el turó amb el post a l'espatlla i la gran cistella a la mà.",
+    "ric": "«Adeu, petit Hans», va dir el Moliner, mentre pujava el turó amb el post a l'espatlla i la gran cistella a la mà."
    }
   },
   {
@@ -582,9 +582,9 @@
    "to": "alegre",
    "en": "“‘Good-bye,’ said little Hans, and he began to dig away quite merrily, he was so pleased about the wheelbarrow.",
    "ca": {
-    "facil": "«Adéu», va dir el petit Hans, i es va posar a cavar ben content, tan satisfet que estava del carretó.",
-    "normal": "«Adéu», va dir el petit Hans, i es va posar a cavar ben content, tan satisfet que estava del carretó.",
-    "ric": "«Adéu», va dir el petit Hans, i es va posar a cavar ben content, tan satisfet que estava del carretó."
+    "facil": "«Adeu», va dir el petit Hans, i es va posar a cavar ben content, tan satisfet que estava del carretó.",
+    "normal": "«Adeu», va dir el petit Hans, i es va posar a cavar ben content, tan satisfet que estava del carretó.",
+    "ric": "«Adeu», va dir el petit Hans, i es va posar a cavar ben content, tan satisfet que estava del carretó."
    }
   },
   {
@@ -931,7 +931,7 @@
    "lema": "farineta",
    "en": "porridge",
    "definicio": "menjar espès fet amb farina i llet o aigua",
-   "sinonim": "paparra",
+   "sinonim": "pap",
    "exemple": "Per esmorzar prenia farinetes.",
    "carta": {
     "motiu": "pot"
@@ -1077,7 +1077,7 @@
    {
     "id": "q2",
     "tipus": "vertader_fals",
-    "enunciat": "El Moliner dóna molts regals al petit Hans durant l'hivern.",
+    "enunciat": "El Moliner dona molts regals al petit Hans durant l'hivern.",
     "correcta": false,
     "paragraf": "p021",
     "indici": "Busca què diu el Moliner de visitar en Hans quan neva.",
@@ -1097,9 +1097,9 @@
     ],
     "correcta": 0,
     "paragraf": "p045",
-    "indici": "Repassa tot el que en Hans dóna al Moliner un cop i un altre.",
+    "indici": "Repassa tot el que en Hans dona al Moliner un cop i un altre.",
     "pistes": [
-     "Repassa tot el que en Hans dóna al Moliner un cop i un altre.",
+     "Repassa tot el que en Hans dona al Moliner un cop i un altre.",
      "Primer el post, després les flors i després el treball."
     ]
    },
@@ -1109,7 +1109,7 @@
     "enunciat": "Ordena aquests fets tal com passen al capítol.",
     "elements": [
      "En Hans explica que ha venut les seves coses",
-     "En Hans dóna un post al Moliner",
+     "En Hans dona un post al Moliner",
      "En Hans omple la cistella de primaveres",
      "En Hans porta el sac de farina al mercat"
     ],
@@ -1119,7 +1119,7 @@
      2,
      3
     ],
-    "indici": "Primer ho explica, després dóna el post i les flors, i l'endemà porta el sac.",
+    "indici": "Primer ho explica, després dona el post i les flors, i l'endemà porta el sac.",
     "pistes": [
      "Cada fet surt en un moment diferent del capítol: obre «On ho trobo al capítol?» i busca'l.",
      "El sac de farina arriba l'endemà."
@@ -1145,7 +1145,7 @@
     "indici": "Ho diu mentre admira les primaveres d'en Hans.",
     "pistes": [
      "Ho diu mentre admira les primaveres d'en Hans.",
-     "És qui sempre parla d'amistat però mai no regala res."
+     "És qui sempre parla d'amistat però no dona mai res a canvi."
     ]
    }
   ],

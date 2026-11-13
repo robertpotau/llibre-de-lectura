@@ -31,9 +31,9 @@
    "to": "calm",
    "en": "The first question of course was, how to get dry again: they had a consultation about this, and after a few minutes it seemed quite natural to Alice to find herself talking familiarly with them, as if she had known them all her life. Indeed, she had quite a long argument with the Lory, who at last turned sulky, and would only say, “I am older than you, and must know better;” and this Alice would not allow without knowing how old it was, and, as the Lory positively refused to tell its age, there was no more to be said.",
    "ca": {
-    "facil": "El primer problema era com assecar-se. Van parlar-ne tots junts, i de seguida a l'Alícia li va semblar normal xerrar amb ells, com si els conegués de tota la vida. Fins i tot va discutir una bona estona amb el Lori, que al final es va posar de mal humor i només deia: «Jo sóc més gran que tu, i per això en sé més.» L'Alícia no s'ho va creure sense saber quants anys tenia, però el Lori es va {negar en rodó|negar_en_rodo} a dir-ho, i la cosa es va acabar aquí.",
-    "normal": "La primera qüestió, és clar, era com tornar a assecar-se: van {deliberar|deliberar} sobre el tema, i al cap d'uns minuts a l'Alícia ja li semblava ben natural parlar amb ells amb tota confiança, com si els conegués de tota la vida. Fins i tot va tenir una llarga {disputa|disputa} amb el Lori, que al final es va posar {malcarat|malcarat} i només deia: «Jo sóc més vell que tu, i per això en sé més», cosa que l'Alícia no volia admetre sense saber quants anys tenia; i, com que el Lori es va {negar en rodó|negar_en_rodo} a dir-ho, no hi havia res més a dir.",
-    "ric": "La primera qüestió, naturalment, era com tornar a eixugar-se: en van {deliberar|deliberar} una estona, i al cap de pocs minuts a l'Alícia li semblava la cosa més natural del món xerrar amb ells amb tota confiança, com si els conegués {de tota la vida|de_tota_la_vida}. Fins i tot va mantenir una llarga {disputa|disputa} amb el Lori, que al capdavall es va posar {malcarat|malcarat} i només repetia: «Jo sóc més vell que tu i, per tant, en sé més»; l'Alícia no ho volia acceptar sense saber l'edat que tenia, però, com que el Lori es va {negar en rodó|negar_en_rodo} a dir-la, no hi va haver res més a dir."
+    "facil": "El primer problema era com assecar-se. Van parlar-ne tots junts, i de seguida a l'Alícia li va semblar normal xerrar amb ells, com si els conegués de tota la vida. Fins i tot va discutir una bona estona amb el Lori, que al final es va posar de mal humor i només deia: «Jo soc més gran que tu, i per això en sé més.» L'Alícia no s'ho va creure sense saber quants anys tenia, però el Lori es va {negar en rodó|negar_en_rodo} a dir-ho, i la cosa es va acabar aquí.",
+    "normal": "La primera qüestió, és clar, era com tornar a assecar-se: van {deliberar|deliberar} sobre el tema, i al cap d'uns minuts a l'Alícia ja li semblava ben natural parlar amb ells amb tota confiança, com si els conegués de tota la vida. Fins i tot va tenir una llarga {disputa|disputa} amb el Lori, que al final es va posar {malcarat|malcarat} i només deia: «Jo soc més vell que tu, i per això en sé més», cosa que l'Alícia no volia admetre sense saber quants anys tenia; i, com que el Lori es va {negar en rodó|negar_en_rodo} a dir-ho, no hi havia res més a dir.",
+    "ric": "La primera qüestió, naturalment, era com tornar a eixugar-se: en van {deliberar|deliberar} una estona, i al cap de pocs minuts a l'Alícia li semblava la cosa més natural del món xerrar amb ells amb tota confiança, com si els conegués {de tota la vida|de_tota_la_vida}. Fins i tot va mantenir una llarga {disputa|disputa} amb el Lori, que al capdavall es va posar {malcarat|malcarat} i només repetia: «Jo soc més vell que tu i, per tant, en sé més»; l'Alícia no ho volia acceptar sense saber l'edat que tenia, però, com que el Lori es va {negar en rodó|negar_en_rodo} a dir-la, no hi va haver res més a dir."
    }
   },
   {
@@ -306,7 +306,7 @@
    "to": "divertit",
    "en": "“Hand it over here,” said the Dodo.",
    "ca": {
-    "facil": "«Dóna-me'l», va dir el Dodo.",
+    "facil": "«Dona-me'l», va dir el Dodo.",
     "normal": "«Passa-me'l», va dir el Dodo.",
     "ric": "«Lliura-me'l», va dir el Dodo."
    }

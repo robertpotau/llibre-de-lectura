@@ -65,9 +65,9 @@
    "to": "trist",
    "en": "“The Prince gives a ball to-morrow night,” murmured the young Student, “and my love will be of the company. If I bring her a red rose she will dance with me till dawn. If I bring her a red rose, I shall hold her in my arms, and she will lean her head upon my shoulder, and her hand will be clasped in mine. But there is no red rose in my garden, so I shall sit lonely, and she will pass me by. She will have no heed of me, and my heart will break.”",
    "ca": {
-    "facil": "«El Príncep dóna un ball demà a la nit», va murmurar el jove Estudiant, «i la meva estimada hi serà. Si li porto una rosa vermella, ballarà amb mi fins a l'alba. Si li porto una rosa vermella, la tindré als braços, i ella recolzarà el cap a la meva espatlla, i la seva mà serà dins la meva. Però al meu jardí no hi ha cap rosa vermella; així que em quedaré sol, i ella passarà de llarg. No em farà ni cas, i {se'm trencarà el cor|trencar_el_cor}.»",
-    "normal": "«El Príncep dóna un ball demà a la nit», va murmurar el jove Estudiant, «i la meva estimada hi serà. Si li porto una rosa vermella, ballarà amb mi fins a l'alba. Si li porto una rosa vermella, la tindré als braços, i ella recolzarà el cap a la meva espatlla, i la seva mà estarà agafada a la meva. Però al meu jardí no hi ha cap rosa vermella; així que em quedaré sol, i ella passarà de llarg. No em farà cas, i {se'm trencarà el cor|trencar_el_cor}.»",
-    "ric": "«Demà a la nit el Príncep dóna un ball», va murmurar el jove Estudiant, «i la meva estimada hi serà. Si li duc una rosa vermella, ballarà amb mi fins a la matinada. Si li duc una rosa vermella, la sostindré als braços, ella reclinarà el cap damunt la meva espatlla i la seva mà restarà closa dins la meva. Però al meu jardí no hi ha cap rosa vermella; em quedaré, doncs, ben sol, i ella passarà de llarg, sense ni mirar-me, i {se'm trencarà el cor|trencar_el_cor}.»"
+    "facil": "«El Príncep dona un ball demà a la nit», va murmurar el jove Estudiant, «i la meva estimada hi serà. Si li porto una rosa vermella, ballarà amb mi fins a l'alba. Si li porto una rosa vermella, la tindré als braços, i ella recolzarà el cap a la meva espatlla, i la seva mà serà dins la meva. Però al meu jardí no hi ha cap rosa vermella; així que em quedaré sol, i ella passarà de llarg. No em farà ni cas, i {se'm trencarà el cor|trencar_el_cor}.»",
+    "normal": "«El Príncep dona un ball demà a la nit», va murmurar el jove Estudiant, «i la meva estimada hi serà. Si li porto una rosa vermella, ballarà amb mi fins a l'alba. Si li porto una rosa vermella, la tindré als braços, i ella recolzarà el cap a la meva espatlla, i la seva mà estarà agafada a la meva. Però al meu jardí no hi ha cap rosa vermella; així que em quedaré sol, i ella passarà de llarg. No em farà cas, i {se'm trencarà el cor|trencar_el_cor}.»",
+    "ric": "«Demà a la nit el Príncep dona un ball», va murmurar el jove Estudiant, «i la meva estimada hi serà. Si li duc una rosa vermella, ballarà amb mi fins a la matinada. Si li duc una rosa vermella, la sostindré als braços, ella reclinarà el cap damunt la meva espatlla i la seva mà restarà closa dins la meva. Però al meu jardí no hi ha cap rosa vermella; em quedaré, doncs, ben sol, i ella passarà de llarg, sense ni mirar-me, i {se'm trencarà el cor|trencar_el_cor}.»"
    }
   },
   {
@@ -186,9 +186,9 @@
    "to": "curiositat",
    "en": "“Give me a red rose,” she cried, “and I will sing you my sweetest song.”",
    "ca": {
-    "facil": "«Dóna'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
-    "normal": "«Dóna'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
-    "ric": "«Dóna'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»"
+    "facil": "«Dona'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
+    "normal": "«Dona'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
+    "ric": "«Dona'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»"
    }
   },
   {
@@ -230,9 +230,9 @@
    "to": "curiositat",
    "en": "“Give me a red rose,” she cried, “and I will sing you my sweetest song.”",
    "ca": {
-    "facil": "«Dóna'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
-    "normal": "«Dóna'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
-    "ric": "«Dóna'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»"
+    "facil": "«Dona'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
+    "normal": "«Dona'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
+    "ric": "«Dona'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»"
    }
   },
   {
@@ -274,9 +274,9 @@
    "to": "curiositat",
    "en": "“Give me a red rose,” she cried, “and I will sing you my sweetest song.”",
    "ca": {
-    "facil": "«Dóna'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
-    "normal": "«Dóna'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
-    "ric": "«Dóna'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»"
+    "facil": "«Dona'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
+    "normal": "«Dona'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»",
+    "ric": "«Dona'm una rosa vermella», va cridar, «i et cantaré la meva cançó més dolça.»"
    }
   },
   {

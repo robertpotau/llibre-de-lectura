@@ -65,9 +65,9 @@
    "to": "alegre",
    "en": "“A new arrival, I see!” said the Frog. “Well, after all there is nothing like mud. Give me rainy weather and a ditch, and I am quite happy. Do you think it will be a wet afternoon? I am sure I hope so, but the sky is quite blue and cloudless. What a pity!”",
    "ca": {
-    "facil": "«Un nou vingut, veig!», va dir la Granota. «Bé, després de tot no hi ha res com el fang. Doneu-me temps plujós i una rasa, i sóc ben feliç. Creieu que farà una tarda humida? Segur que ho espero, però el cel és ben blau i sense cap núvol. Quina llàstima!»",
-    "normal": "«Un nou vingut, veig!», va dir la Granota. «Bé, després de tot no hi ha res com el fang. Doneu-me temps plujós i una rasa, i sóc ben feliç. Creieu que farà una tarda humida? Segur que ho espero, però el cel és ben blau i sense cap núvol. Quina llàstima!»",
-    "ric": "«Un nou vingut, veig!», va dir la Granota. «Bé, després de tot no hi ha res com el fang. Doneu-me temps plujós i una rasa, i sóc ben feliç. Creieu que farà una tarda humida? Segur que ho espero, però el cel és ben blau i sense cap núvol. Quina llàstima!»"
+    "facil": "«Un nou vingut, veig!», va dir la Granota. «Bé, després de tot no hi ha res com el fang. Doneu-me temps plujós i una rasa, i soc ben feliç. Creieu que farà una tarda humida? Segur que ho espero, però el cel és ben blau i sense cap núvol. Quina llàstima!»",
+    "normal": "«Un nou vingut, veig!», va dir la Granota. «Bé, després de tot no hi ha res com el fang. Doneu-me temps plujós i una rasa, i soc ben feliç. Creieu que farà una tarda humida? Segur que ho espero, però el cel és ben blau i sense cap núvol. Quina llàstima!»",
+    "ric": "«Un nou vingut, veig!», va dir la Granota. «Bé, després de tot no hi ha res com el fang. Doneu-me temps plujós i una rasa, i soc ben feliç. Creieu que farà una tarda humida? Segur que ho espero, però el cel és ben blau i sense cap núvol. Quina llàstima!»"
    }
   },
   {
@@ -109,9 +109,9 @@
    "to": "alegre",
    "en": "“A delightful voice, certainly,” continued the Frog; “I hope you will come over to the duck-pond. I am off to look for my daughters. I have six beautiful daughters, and I am so afraid the Pike may meet them. He is a perfect monster, and would have no hesitation in breakfasting off them. Well, good-bye: I have enjoyed our conversation very much, I assure you.”",
    "ca": {
-    "facil": "«Certament, una veu deliciosa», va continuar la Granota; «espero que vingueu a l'estany dels ànecs. Me'n vaig a buscar les meves filles. Tinc sis filles precioses, i tinc tanta por que el {Lluç|luc} les trobi! És un autèntic monstre, i no dubtaria gens a esmorzar-se-les. Bé, adéu: he gaudit molt de la nostra conversa, us ho asseguro.»",
-    "normal": "«Certament, una veu deliciosa», va continuar la Granota; «espero que vingueu a l'estany dels ànecs. Me'n vaig a buscar les meves filles. Tinc sis filles precioses, i tinc tanta por que el {Lluç|luc} les trobi! És un autèntic monstre, i no dubtaria gens a esmorzar-se-les. Bé, adéu: he gaudit molt de la nostra conversa, us ho asseguro.»",
-    "ric": "«Certament, una veu deliciosa», va continuar la Granota; «espero que vingueu a l'estany dels ànecs. Me'n vaig a buscar les meves filles. Tinc sis filles precioses, i tinc tanta por que el {Lluç|luc} les trobi! És un autèntic monstre, i no dubtaria gens a esmorzar-se-les. Bé, adéu: he gaudit molt de la nostra conversa, us ho asseguro.»"
+    "facil": "«Certament, una veu deliciosa», va continuar la Granota; «espero que vingueu a l'estany dels ànecs. Me'n vaig a buscar les meves filles. Tinc sis filles precioses, i tinc tanta por que el {Lluç|luc} les trobi! És un autèntic monstre, i no dubtaria gens a esmorzar-se-les. Bé, adeu: he gaudit molt de la nostra conversa, us ho asseguro.»",
+    "normal": "«Certament, una veu deliciosa», va continuar la Granota; «espero que vingueu a l'estany dels ànecs. Me'n vaig a buscar les meves filles. Tinc sis filles precioses, i tinc tanta por que el {Lluç|luc} les trobi! És un autèntic monstre, i no dubtaria gens a esmorzar-se-les. Bé, adeu: he gaudit molt de la nostra conversa, us ho asseguro.»",
+    "ric": "«Certament, una veu deliciosa», va continuar la Granota; «espero que vingueu a l'estany dels ànecs. Me'n vaig a buscar les meves filles. Tinc sis filles precioses, i tinc tanta por que el {Lluç|luc} les trobi! És un autèntic monstre, i no dubtaria gens a esmorzar-se-les. Bé, adeu: he gaudit molt de la nostra conversa, us ho asseguro.»"
    }
   },
   {
@@ -153,9 +153,9 @@
    "to": "divertit",
    "en": "“I hope not,” said the Frog complacently. “Arguments are extremely vulgar, for everybody in good society holds exactly the same opinions. Good-bye a second time; I see my daughters in the distance:” and the little Frog swam away.",
    "ca": {
-    "facil": "«Espero que no», va dir la Granota, {satisfeta|complaent} de si mateixa. «Les discussions són extremadament {vulgars|vulgar}, perquè tothom a la bona societat té exactament les mateixes opinions. Adéu per segona vegada; veig les meves filles a la llunyania.» I la petita Granota va marxar nedant.",
-    "normal": "«Espero que no», va dir la Granota amb aire {complaent|complaent}. «Les discussions són extremadament {vulgars|vulgar}, perquè tothom a la bona societat té exactament les mateixes opinions. Adéu per segona vegada; veig les meves filles a la llunyania.» I la petita Granota va marxar nedant.",
-    "ric": "«Espero que no», va replicar la Granota amb aire {complaent|complaent}. «Les discussions són summament {vulgars|vulgar}, perquè tothom a la bona societat professa exactament les mateixes opinions. Adéu per segona vegada; veig les meves filles a l'horitzó.» I la petita Granota se'n va anar nedant."
+    "facil": "«Espero que no», va dir la Granota, {satisfeta|complaent} de si mateixa. «Les discussions són extremadament {vulgars|vulgar}, perquè tothom a la bona societat té exactament les mateixes opinions. Adeu per segona vegada; veig les meves filles a la llunyania.» I la petita Granota va marxar nedant.",
+    "normal": "«Espero que no», va dir la Granota amb aire {complaent|complaent}. «Les discussions són extremadament {vulgars|vulgar}, perquè tothom a la bona societat té exactament les mateixes opinions. Adeu per segona vegada; veig les meves filles a la llunyania.» I la petita Granota va marxar nedant.",
+    "ric": "«Espero que no», va replicar la Granota amb aire {complaent|complaent}. «Les discussions són summament {vulgars|vulgar}, perquè tothom a la bona societat professa exactament les mateixes opinions. Adeu per segona vegada; veig les meves filles a l'horitzó.» I la petita Granota se'n va anar nedant."
    }
   },
   {
@@ -164,9 +164,9 @@
    "to": "tensio",
    "en": "“You are a very irritating person,” said the Rocket, “and very ill-bred. I hate people who talk about themselves, as you do, when one wants to talk about oneself, as I do. It is what I call selfishness, and selfishness is a most detestable thing, especially to any one of my temperament, for I am well known for my sympathetic nature. In fact, you should take example by me; you could not possibly have a better model. Now that you have the chance you had better avail yourself of it, for I am going back to Court almost immediately. I am a great favourite at Court; in fact, the Prince and Princess were married yesterday in my honour. Of course you know nothing of these matters, for you are a provincial.”",
    "ca": {
-    "facil": "«Sou una persona molt irritant», va dir el Coet, «i molt mal educada. Detesto la gent que parla de si mateixa, com vós, quan un vol parlar d'un mateix, com jo. És el que anomeno egoisme, i l'egoisme és una cosa detestable, sobretot per a algú del meu temperament, perquè sóc ben conegut per la meva natura comprensiva. De fet, hauríeu de prendre exemple de mi; no podríeu tenir un model millor. Ara que en teniu l'ocasió, més val que n'aprofiteu, perquè torno a la Cort gairebé de seguida. Sóc un gran favorit de la Cort; de fet, el Príncep i la Princesa es van casar ahir en el meu honor. És clar que no sabeu res d'aquestes coses, perquè sou {provinciana|provincia}.»",
-    "normal": "«Sou una persona molt irritant», va dir el Coet, «i molt mal educada. Detesto la gent que parla de si mateixa, com vós, quan un vol parlar d'un mateix, com jo. És el que anomeno egoisme, i l'egoisme és una cosa detestable, sobretot per a algú del meu temperament, perquè sóc ben conegut per la meva natura comprensiva. De fet, hauríeu de prendre exemple de mi; no podríeu tenir un model millor. Ara que en teniu l'ocasió, més val que n'aprofiteu, perquè torno a la Cort gairebé de seguida. Sóc un gran favorit de la Cort; de fet, el Príncep i la Princesa es van casar ahir en el meu honor. És clar que no sabeu res d'aquestes coses, perquè sou {provinciana|provincia}.»",
-    "ric": "«Sou una persona summament irritant», va dir el Coet, «i molt malcriada. Detesto la gent que parla de si mateixa, com vós, quan un vol parlar d'un mateix, com jo. És el que anomeno egoisme, i l'egoisme és quelcom detestable, sobretot per a algú del meu temperament, perquè sóc ben conegut per la meva natura comprensiva. De fet, hauríeu de prendre exemple de mi; no podríeu trobar un model millor. Ara que se us presenta l'ocasió, més val que n'aprofiteu, perquè tornaré a la Cort ben aviat. Sóc un gran favorit de la Cort; de fet, el Príncep i la Princesa es van casar ahir en honor meu. És clar que no sabeu res d'aquestes qüestions, perquè sou {provinciana|provincia}.»"
+    "facil": "«Sou una persona molt irritant», va dir el Coet, «i molt mal educada. Detesto la gent que parla de si mateixa, com vós, quan un vol parlar d'un mateix, com jo. És el que anomeno egoisme, i l'egoisme és una cosa detestable, sobretot per a algú del meu temperament, perquè soc ben conegut per la meva natura comprensiva. De fet, hauríeu de prendre exemple de mi; no podríeu tenir un model millor. Ara que en teniu l'ocasió, més val que n'aprofiteu, perquè torno a la Cort gairebé de seguida. Soc un gran favorit de la Cort; de fet, el Príncep i la Princesa es van casar ahir en el meu honor. És clar que no sabeu res d'aquestes coses, perquè sou {provinciana|provincia}.»",
+    "normal": "«Sou una persona molt irritant», va dir el Coet, «i molt mal educada. Detesto la gent que parla de si mateixa, com vós, quan un vol parlar d'un mateix, com jo. És el que anomeno egoisme, i l'egoisme és una cosa detestable, sobretot per a algú del meu temperament, perquè soc ben conegut per la meva natura comprensiva. De fet, hauríeu de prendre exemple de mi; no podríeu tenir un model millor. Ara que en teniu l'ocasió, més val que n'aprofiteu, perquè torno a la Cort gairebé de seguida. Soc un gran favorit de la Cort; de fet, el Príncep i la Princesa es van casar ahir en el meu honor. És clar que no sabeu res d'aquestes coses, perquè sou {provinciana|provincia}.»",
+    "ric": "«Sou una persona summament irritant», va dir el Coet, «i molt malcriada. Detesto la gent que parla de si mateixa, com vós, quan un vol parlar d'un mateix, com jo. És el que anomeno egoisme, i l'egoisme és quelcom detestable, sobretot per a algú del meu temperament, perquè soc ben conegut per la meva natura comprensiva. De fet, hauríeu de prendre exemple de mi; no podríeu trobar un model millor. Ara que se us presenta l'ocasió, més val que n'aprofiteu, perquè tornaré a la Cort ben aviat. Soc un gran favorit de la Cort; de fet, el Príncep i la Princesa es van casar ahir en honor meu. És clar que no sabeu res d'aquestes qüestions, perquè sou {provinciana|provincia}.»"
    }
   },
   {
@@ -186,9 +186,9 @@
    "to": "tensio",
    "en": "“Well, that is his loss, not mine,” answered the Rocket. “I am not going to stop talking to him merely because he pays no attention. I like hearing myself talk. It is one of my greatest pleasures. I often have long conversations all by myself, and I am so clever that sometimes I don’t understand a single word of what I am saying.”",
    "ca": {
-    "facil": "«Doncs és pèrdua seva, no meva», va respondre el Coet. «No penso deixar de parlar-li només perquè no m'escolti. M'agrada sentir-me parlar. És un dels meus plaers més grans. Sovint tinc llargues converses tot sol, i sóc tan intel·ligent que de vegades no entenc ni una paraula del que dic.»",
-    "normal": "«Doncs és pèrdua seva, no meva», va respondre el Coet. «No penso deixar de parlar-li només perquè no m'escolti. M'agrada sentir-me parlar. És un dels meus plaers més grans. Sovint tinc llargues converses tot sol, i sóc tan intel·ligent que de vegades no entenc ni una paraula del que dic.»",
-    "ric": "«Doncs és pèrdua seva, no meva», va replicar el Coet. «No penso callar només perquè no m'escolti. M'agrada sentir-me parlar. És un dels meus plaers més grans. Sovint mantinc llargues converses amb mi mateix, i sóc tan intel·ligent que de vegades no entenc ni una paraula del que dic.»"
+    "facil": "«Doncs és pèrdua seva, no meva», va respondre el Coet. «No penso deixar de parlar-li només perquè no m'escolti. M'agrada sentir-me parlar. És un dels meus plaers més grans. Sovint tinc llargues converses tot sol, i soc tan intel·ligent que de vegades no entenc ni una paraula del que dic.»",
+    "normal": "«Doncs és pèrdua seva, no meva», va respondre el Coet. «No penso deixar de parlar-li només perquè no m'escolti. M'agrada sentir-me parlar. És un dels meus plaers més grans. Sovint tinc llargues converses tot sol, i soc tan intel·ligent que de vegades no entenc ni una paraula del que dic.»",
+    "ric": "«Doncs és pèrdua seva, no meva», va replicar el Coet. «No penso callar només perquè no m'escolti. M'agrada sentir-me parlar. És un dels meus plaers més grans. Sovint mantinc llargues converses amb mi mateix, i soc tan intel·ligent que de vegades no entenc ni una paraula del que dic.»"
    }
   },
   {
@@ -241,9 +241,9 @@
    "to": "tensio",
    "en": "“It is quite evident that you have always lived in the country,” answered the Rocket, “otherwise you would know who I am. However, I excuse your ignorance. It would be unfair to expect other people to be as remarkable as oneself. You will no doubt be surprised to hear that I can fly up into the sky, and come down in a shower of golden rain.”",
    "ca": {
-    "facil": "«És ben evident que sempre heu viscut al camp», va respondre el Coet, «perquè si no sabríeu qui sóc. De tota manera, excuso la vostra {ignorància|ignorancia}. Seria injust esperar que els altres siguin tan extraordinaris com un mateix. Sens dubte us sorprendrà saber que puc volar fins al cel i baixar en una pluja d'or.»",
-    "normal": "«És ben evident que sempre heu viscut al camp», va respondre el Coet, «perquè si no sabríeu qui sóc. De tota manera, excuso la vostra {ignorància|ignorancia}. Seria injust esperar que els altres siguin tan extraordinaris com un mateix. Sens dubte us sorprendrà saber que puc volar fins al cel i baixar en una pluja d'or.»",
-    "ric": "«És ben palès que sempre heu viscut al camp», va respondre el Coet, «perquè altrament sabríeu qui sóc. De tota manera, perdono la vostra {ignorància|ignorancia}. Seria injust esperar que els altres siguin tan extraordinaris com un mateix. Sens dubte us sorprendrà saber que puc enlairar-me fins al cel i descendir en una pluja d'or.»"
+    "facil": "«És ben evident que sempre heu viscut al camp», va respondre el Coet, «perquè si no sabríeu qui soc. De tota manera, excuso la vostra {ignorància|ignorancia}. Seria injust esperar que els altres siguin tan extraordinaris com un mateix. Sens dubte us sorprendrà saber que puc volar fins al cel i baixar en una pluja d'or.»",
+    "normal": "«És ben evident que sempre heu viscut al camp», va respondre el Coet, «perquè si no sabríeu qui soc. De tota manera, excuso la vostra {ignorància|ignorancia}. Seria injust esperar que els altres siguin tan extraordinaris com un mateix. Sens dubte us sorprendrà saber que puc volar fins al cel i baixar en una pluja d'or.»",
+    "ric": "«És ben palès que sempre heu viscut al camp», va respondre el Coet, «perquè altrament sabríeu qui soc. De tota manera, perdono la vostra {ignorància|ignorancia}. Seria injust esperar que els altres siguin tan extraordinaris com un mateix. Sens dubte us sorprendrà saber que puc enlairar-me fins al cel i descendir en una pluja d'or.»"
    }
   },
   {
@@ -285,9 +285,9 @@
    "to": "tensio",
    "en": "“Oh! dear no,” cried the Rocket. “I am merely a visitor, a distinguished visitor. The fact is that I find this place rather tedious. There is neither society here, nor solitude. In fact, it is essentially suburban. I shall probably go back to Court, for I know that I am destined to make a sensation in the world.”",
    "ca": {
-    "facil": "«Ai, no, de cap manera», va exclamar el Coet. «Només sóc un visitant, un visitant distingit. El cas és que trobo aquest lloc força {tediós|tedios}. No hi ha ni societat ni {solitud|solitud}. De fet, és essencialment {suburbà|suburba}. Probablement tornaré a la Cort, perquè sé que estic destinat a fer sensació al món.»",
-    "normal": "«Ai, no, de cap manera», va exclamar el Coet. «Només sóc un visitant, un visitant distingit. El cas és que trobo aquest lloc força {tediós|tedios}. No hi ha ni societat ni {solitud|solitud}. De fet, és essencialment {suburbà|suburba}. Probablement tornaré a la Cort, perquè sé que estic destinat a fer sensació al món.»",
-    "ric": "«Ai, no, de cap manera», va exclamar el Coet. «Només sóc un visitant, un visitant distingit. Resulta que trobo aquest indret força {tediós|tedios}. No hi ha ni societat ni {solitud|solitud}. En realitat, és essencialment {suburbà|suburba}. Probablement tornaré a la Cort, perquè sé que estic cridat a causar sensació al món.»"
+    "facil": "«Ai, no, de cap manera», va exclamar el Coet. «Només soc un visitant, un visitant distingit. El cas és que trobo aquest lloc força {tediós|tedios}. No hi ha ni societat ni {solitud|solitud}. De fet, és essencialment {suburbà|suburba}. Probablement tornaré a la Cort, perquè sé que estic destinat a fer sensació al món.»",
+    "normal": "«Ai, no, de cap manera», va exclamar el Coet. «Només soc un visitant, un visitant distingit. El cas és que trobo aquest lloc força {tediós|tedios}. No hi ha ni societat ni {solitud|solitud}. De fet, és essencialment {suburbà|suburba}. Probablement tornaré a la Cort, perquè sé que estic destinat a fer sensació al món.»",
+    "ric": "«Ai, no, de cap manera», va exclamar el Coet. «Només soc un visitant, un visitant distingit. Resulta que trobo aquest indret força {tediós|tedios}. No hi ha ni societat ni {solitud|solitud}. En realitat, és essencialment {suburbà|suburba}. Probablement tornaré a la Cort, perquè sé que estic cridat a causar sensació al món.»"
    }
   },
   {
@@ -450,9 +450,9 @@
    "to": "alegre",
    "en": "“Delightful!” he cried, “I shall go on like this for ever. What a success I am!”",
    "ca": {
-    "facil": "«Deliciós!», va cridar, «continuaré així per sempre. Quin èxit que sóc!»",
-    "normal": "«Deliciós!», va cridar, «continuaré així per sempre. Quin èxit que sóc!»",
-    "ric": "«Deliciós!», va cridar, «continuaré així per sempre. Quin èxit que sóc!»"
+    "facil": "«Deliciós!», va cridar, «continuaré així per sempre. Quin èxit que soc!»",
+    "normal": "«Deliciós!», va cridar, «continuaré així per sempre. Quin èxit que soc!»",
+    "ric": "«Deliciós!», va cridar, «continuaré així per sempre. Quin èxit que soc!»"
    }
   },
   {

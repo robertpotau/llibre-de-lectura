@@ -853,7 +853,7 @@
    "dificultat": 3,
    "lema": "moral",
    "en": "moral",
-   "definicio": "ensenyament que dóna una història",
+   "definicio": "ensenyament que dona una història",
    "sinonim": "lliçó",
    "exemple": "La moral del conte és la generositat.",
    "carta": {

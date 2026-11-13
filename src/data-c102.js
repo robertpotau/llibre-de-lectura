@@ -164,8 +164,8 @@
    "to": "trist",
    "en": "“I am come to bid you good-bye,” he cried.",
    "ca": {
-    "facil": "«Vinc a dir-te adéu», va cridar.",
-    "normal": "«Vinc a dir-te adéu», va cridar.",
+    "facil": "«Vinc a dir-te adeu», va cridar.",
+    "normal": "«Vinc a dir-te adeu», va cridar.",
     "ric": "«Vinc a acomiadar-me», va cridar."
    }
   },
@@ -197,9 +197,9 @@
    "to": "trist",
    "en": "“In the square below,” said the Happy Prince, “there stands a little match-girl. She has let her matches fall in the gutter, and they are all spoiled. Her father will beat her if she does not bring home some money, and she is crying. She has no shoes or stockings, and her little head is bare. Pluck out my other eye, and give it to her, and her father will not beat her.”",
    "ca": {
-    "facil": "«A la plaça, aquí sota», va dir el Príncep Feliç, «hi ha una noieta que ven llumins. Se li han caigut els llumins a la claveguera i s'han fet malbé. El seu pare l'apallissarà si no porta diners a casa, i ella plora. No té sabates ni mitjons, i va amb el cap descobert. Arrenca'm l'altre ull i dóna-l'hi, i el seu pare no l'apallissarà.»",
-    "normal": "«A la plaça, aquí sota», va dir el Príncep Feliç, «hi ha una noieta que ven llumins. Se li han caigut els llumins a la {claveguera|claveguera} i s'han fet malbé. El seu pare la pegarà si no porta diners a casa, i ella plora. No té sabates ni mitjons, i va amb el cap descobert. Arrenca'm l'altre ull i dóna-l'hi, i el seu pare no la pegarà.»",
-    "ric": "«A la plaça, aquí sota», va dir el Príncep Feliç, «hi ha una nena que ven llumins. Se li han esmunyit a la {claveguera|claveguera} i s'han fet malbé. El seu pare la colpejarà si no porta diners a casa, i ella plora desconsolada. No té sabates ni mitjons, i va amb el cap descobert. Arrenca'm l'altre ull i dóna-l'hi, i el seu pare no la colpejarà.»"
+    "facil": "«A la plaça, aquí sota», va dir el Príncep Feliç, «hi ha una noieta que ven llumins. Se li han caigut els llumins a la claveguera i s'han fet malbé. El seu pare l'apallissarà si no porta diners a casa, i ella plora. No té sabates ni mitjons, i va amb el cap descobert. Arrenca'm l'altre ull i dona-l'hi, i el seu pare no l'apallissarà.»",
+    "normal": "«A la plaça, aquí sota», va dir el Príncep Feliç, «hi ha una noieta que ven llumins. Se li han caigut els llumins a la {claveguera|claveguera} i s'han fet malbé. El seu pare la pegarà si no porta diners a casa, i ella plora. No té sabates ni mitjons, i va amb el cap descobert. Arrenca'm l'altre ull i dona-l'hi, i el seu pare no la pegarà.»",
+    "ric": "«A la plaça, aquí sota», va dir el Príncep Feliç, «hi ha una nena que ven llumins. Se li han esmunyit a la {claveguera|claveguera} i s'han fet malbé. El seu pare la colpejarà si no porta diners a casa, i ella plora desconsolada. No té sabates ni mitjons, i va amb el cap descobert. Arrenca'm l'altre ull i dona-l'hi, i el seu pare no la colpejarà.»"
    }
   },
   {
@@ -362,9 +362,9 @@
    "to": "trist",
    "en": "But at last he knew that he was going to die. He had just strength to fly up to the Prince’s shoulder once more. “Good-bye, dear Prince!” he murmured, “will you let me kiss your hand?”",
    "ca": {
-    "facil": "Però al final va saber que es moriria. Només va tenir forces per volar una vegada més fins a l'espatlla del Príncep. «Adéu, estimat Príncep!», va murmurar. «Em deixes besar-te la mà?»",
-    "normal": "Però al final va saber que es moriria. Només va tenir forces per volar una vegada més fins a l'espatlla del Príncep. «Adéu, estimat Príncep!», va murmurar. «Em deixes besar-te la mà?»",
-    "ric": "Però al capdavall va comprendre que moriria. Només li van quedar forces per volar una vegada més fins a l'espatlla del Príncep. «Adéu, estimat Príncep!», va murmurar. «Em permets besar-te la mà?»"
+    "facil": "Però al final va saber que es moriria. Només va tenir forces per volar una vegada més fins a l'espatlla del Príncep. «Adeu, estimat Príncep!», va murmurar. «Em deixes besar-te la mà?»",
+    "normal": "Però al final va saber que es moriria. Només va tenir forces per volar una vegada més fins a l'espatlla del Príncep. «Adeu, estimat Príncep!», va murmurar. «Em deixes besar-te la mà?»",
+    "ric": "Però al capdavall va comprendre que moriria. Només li van quedar forces per volar una vegada més fins a l'espatlla del Príncep. «Adeu, estimat Príncep!», va murmurar. «Em permets besar-te la mà?»"
    }
   },
   {
@@ -1037,7 +1037,7 @@
     "enunciat": "Què fa l'Oreneta amb el safir que arrenca al primer ull del Príncep?",
     "opcions": [
      "El deixa a l'estudiant de les golfes",
-     "El dóna a la venedora de llumins",
+     "El dona a la venedora de llumins",
      "El ven a un joier"
     ],
     "correcta": 0,

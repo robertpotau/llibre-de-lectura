@@ -284,9 +284,9 @@
    "to": "pensatiu",
    "en": "“I keep them to sell,” the Hatter added as an explanation; “I’ve none of my own. I’m a hatter.”",
    "ca": {
-    "facil": "«Els tinc per vendre», va explicar el Barretaire. «No en tinc cap de meu. Sóc barretaire.»",
-    "normal": "«Els tinc per vendre», va afegir el Barretaire a manera d'explicació; «no en tinc cap de meu. Sóc barretaire.»",
-    "ric": "«Els tinc per vendre», va afegir el Barretaire a tall d'explicació; «no en tinc cap de propi. Sóc barretaire.»"
+    "facil": "«Els tinc per vendre», va explicar el Barretaire. «No en tinc cap de meu. Soc barretaire.»",
+    "normal": "«Els tinc per vendre», va afegir el Barretaire a manera d'explicació; «no en tinc cap de meu. Soc barretaire.»",
+    "ric": "«Els tinc per vendre», va afegir el Barretaire a tall d'explicació; «no en tinc cap de propi. Soc barretaire.»"
    }
   },
   {
@@ -416,9 +416,9 @@
    "to": "trist",
    "en": "“I’m a poor man, your Majesty,” the Hatter began, in a trembling voice, “—and I hadn’t begun my tea—not above a week or so—and what with the bread-and-butter getting so thin—and the twinkling of the tea—”",
    "ca": {
-    "facil": "«Sóc un pobre home, Majestat», va començar el Barretaire, amb una veu tremolosa. «I encara no havia començat el te… no fa més d'una setmana… i el pa amb mantega cada vegada era més prim… i el {tremolor|tremolor_te} del te…»",
-    "normal": "«Sóc un pobre home, Majestat», va començar el Barretaire amb veu tremolosa, «…i encara no havia començat el te… no fa pas més d'una setmana… i amb el pa amb mantega cada vegada més prim… i el {tremolor|tremolor_te} del te…»",
-    "ric": "«Sóc un pobre home, Majestat», va començar el Barretaire amb veu {tremolosa|tremolos}, «…i encara no havia començat el te… no fa pas més d'una setmana… i amb el pa amb mantega cada vegada més {esprimatxat|esprimatxat}… i el {tremolor|tremolor_te} del te…»"
+    "facil": "«Soc un pobre home, Majestat», va començar el Barretaire, amb una veu tremolosa. «I encara no havia començat el te… no fa més d'una setmana… i el pa amb mantega cada vegada era més prim… i el {tremolor|tremolor_te} del te…»",
+    "normal": "«Soc un pobre home, Majestat», va començar el Barretaire amb veu tremolosa, «…i encara no havia començat el te… no fa pas més d'una setmana… i amb el pa amb mantega cada vegada més prim… i el {tremolor|tremolor_te} del te…»",
+    "ric": "«Soc un pobre home, Majestat», va començar el Barretaire amb veu {tremolosa|tremolos}, «…i encara no havia començat el te… no fa pas més d'una setmana… i amb el pa amb mantega cada vegada més {esprimatxat|esprimatxat}… i el {tremolor|tremolor_te} del te…»"
    }
   },
   {
@@ -460,9 +460,9 @@
    "to": "trist",
    "en": "“I’m a poor man,” the Hatter went on, “and most things twinkled after that—only the March Hare said—”",
    "ca": {
-    "facil": "«Sóc un pobre home», va continuar el Barretaire, «i després de tot això gairebé tot tremolava… només que la Llebre de Març va dir…»",
-    "normal": "«Sóc un pobre home», va continuar el Barretaire, «i després d'això gairebé tot va començar a tremolar… només que la Llebre de Març va dir…»",
-    "ric": "«Sóc un pobre home», va prosseguir el Barretaire, «i després d'això gairebé tot va començar a tremolar… només que la Llebre de Març va dir…»"
+    "facil": "«Soc un pobre home», va continuar el Barretaire, «i després de tot això gairebé tot tremolava… només que la Llebre de Març va dir…»",
+    "normal": "«Soc un pobre home», va continuar el Barretaire, «i després d'això gairebé tot va començar a tremolar… només que la Llebre de Març va dir…»",
+    "ric": "«Soc un pobre home», va prosseguir el Barretaire, «i després d'això gairebé tot va començar a tremolar… només que la Llebre de Març va dir…»"
    }
   },
   {
@@ -570,9 +570,9 @@
    "to": "trist",
    "en": "The miserable Hatter dropped his teacup and bread-and-butter, and went down on one knee. “I’m a poor man, your Majesty,” he began.",
    "ca": {
-    "facil": "El pobre Barretaire va deixar caure la tassa i el pa amb mantega i es va agenollar. «Sóc un pobre home, Majestat», va començar.",
-    "normal": "El miserable Barretaire va deixar caure la tassa i el pa amb mantega, i va posar un genoll a terra. «Sóc un pobre home, Majestat», va començar.",
-    "ric": "El miserable Barretaire va deixar caure la tassa i el pa amb mantega, i es va posar de genolls. «Sóc un pobre home, Majestat», va començar."
+    "facil": "El pobre Barretaire va deixar caure la tassa i el pa amb mantega i es va agenollar. «Soc un pobre home, Majestat», va començar.",
+    "normal": "El miserable Barretaire va deixar caure la tassa i el pa amb mantega, i va posar un genoll a terra. «Soc un pobre home, Majestat», va començar.",
+    "ric": "El miserable Barretaire va deixar caure la tassa i el pa amb mantega, i es va posar de genolls. «Soc un pobre home, Majestat», va començar."
    }
   },
   {
@@ -625,9 +625,9 @@
    "to": "divertit",
    "en": "“I can’t go no lower,” said the Hatter: “I’m on the floor, as it is.”",
    "ca": {
-    "facil": "«No puc baixar més», va dir el Barretaire. «Ja sóc a terra.»",
-    "normal": "«No puc baixar més», va dir el Barretaire: «ja sóc a terra.»",
-    "ric": "«No puc baixar més avall», va dir el Barretaire: «ja sóc arran de terra.»"
+    "facil": "«No puc baixar més», va dir el Barretaire. «Ja soc a terra.»",
+    "normal": "«No puc baixar més», va dir el Barretaire: «ja soc a terra.»",
+    "ric": "«No puc baixar més avall», va dir el Barretaire: «ja soc arran de terra.»"
    }
   },
   {
