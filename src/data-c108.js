@@ -76,9 +76,9 @@
    "to": "divertit",
    "en": "“Ahem! ahem!” said the Rocket, and he began to cough.",
    "ca": {
-    "facil": "«Ejem! Ejem!», va dir el Coet, i va començar a tossir.",
-    "normal": "«Ejem! Ejem!», va dir el Coet, i va començar a tossir.",
-    "ric": "«Ejem! Ejem!», va dir el Coet, i va començar a tossir."
+    "facil": "«Ehem! Ehem!», va dir el Coet, i va començar a tossir.",
+    "normal": "«Ehem! Ehem!», va dir el Coet, i va començar a tossir.",
+    "ric": "«Ehem! Ehem!», va dir el Coet, i va començar a tossir."
    }
   },
   {
@@ -98,9 +98,9 @@
    "to": "tensio",
    "en": "“Ahem! ahem!” said the Rocket angrily. He was very much annoyed that he could not get a word in.",
    "ca": {
-    "facil": "«Ejem! Ejem!», va dir el Coet, enfadat. Estava molt molest perquè no podia dir {ni piu|ni_piu}.",
-    "normal": "«Ejem! Ejem!», va dir el Coet, enfadat. Estava molt molest perquè no podia dir {ni piu|ni_piu}.",
-    "ric": "«Ejem! Ejem!», va dir el Coet, enfadat. Estava molt molest perquè no podia dir {ni piu|ni_piu}."
+    "facil": "«Ehem! Ehem!», va dir el Coet, enfadat. Estava molt molest perquè no podia dir {ni piu|ni_piu}.",
+    "normal": "«Ehem! Ehem!», va dir el Coet, enfadat. Estava molt molest perquè no podia dir {ni piu|ni_piu}.",
+    "ric": "«Ehem! Ehem!», va dir el Coet, enfadat. Estava molt molest perquè no podia dir {ni piu|ni_piu}."
    }
   },
   {

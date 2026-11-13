@@ -43,9 +43,9 @@
    "to": "calm",
    "en": "When the moon rose he flew back to the Happy Prince. “Have you any commissions for Egypt?” he cried; “I am just starting.”",
    "ca": {
-    "facil": "Quan va sortir la lluna, va tornar volant cap al Príncep Feliç. «Voleu res per a Egipte?», va cridar. «Ja me'n vaig.»",
-    "normal": "Quan va sortir la lluna, va tornar volant cap al Príncep Feliç. «Teniu algun encàrrec per a Egipte?», va cridar. «Estic a punt de marxar.»",
-    "ric": "Quan va sortir la lluna, va retornar volant cap al Príncep Feliç. «Teniu algun encàrrec per a Egipte?», va cridar. «Estic a punt d'emprendre el viatge.»"
+    "facil": "Quan va sortir la lluna, va tornar volant cap al Príncep Feliç. «Vols res per a Egipte?», va cridar. «Ja me'n vaig.»",
+    "normal": "Quan va sortir la lluna, va tornar volant cap al Príncep Feliç. «Tens algun encàrrec per a Egipte?», va cridar. «Estic a punt de marxar.»",
+    "ric": "Quan va sortir la lluna, va retornar volant cap al Príncep Feliç. «Tens algun encàrrec per a Egipte?», va cridar. «Estic a punt d'emprendre el viatge.»"
    }
   },
   {

@@ -1336,7 +1336,7 @@
      2,
      3
     ],
-    "indici": "Primer sent l'Estudiant, després demana ajut als rosals, canta i al matí l'Estudiant troba la rosa.",
+    "indici": "Primer sent l'Estudiant, després demana ajut als rosals, canta i al migdia l'Estudiant troba la rosa.",
     "pistes": [
      "Cada fet surt en un moment diferent del capítol: obre «On ho trobo al capítol?» i busca'l.",
      "L'Estudiant només troba la rosa quan ja és migdia."

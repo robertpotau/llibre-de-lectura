@@ -479,7 +479,7 @@
    "en": "feet",
    "definicio": "mesura de longitud antiga dels països anglesos: uns 30 centímetres",
    "sinonim": "unitat anglesa",
-   "exemple": "Un peu són una mica més de trenta centímetres.",
+   "exemple": "Un peu és una mica més de trenta centímetres.",
    "carta": {
     "motiu": "peu"
    }
@@ -609,7 +609,7 @@
    "en": "shedding",
    "definicio": "deixar caure un líquid, com les llàgrimes",
    "sinonim": "abocar",
-   "exemple": "Va vessar llàgrimes de la rabia.",
+   "exemple": "Va vessar llàgrimes de la ràbia.",
    "carta": {
     "motiu": "gota"
    }

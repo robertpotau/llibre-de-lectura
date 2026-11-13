@@ -65,7 +65,7 @@
    "to": "misteri",
    "en": "Suleiman-bin-Daoud was strong. Upon the third finger of the right hand he wore a ring. When he turned it once, Afrits and Djinns came Out of the earth to do whatever he told them. When he turned it twice, Fairies came down from the sky to do whatever he told them; and when he turned it three times, the very great angel Azrael of the Sword came dressed as a water-carrier, and told him the news of the three worlds, Above--Below--and Here.",
    "ca": {
-    "facil": "Suleiman-bin-Daud era fort. Al tercer dit de la mà dreta duia un anell. Quan el girava una vegada, sortien de la terra els genis i els {afrits|pp_afrit}, que feien tot el que ell volia. Quan el girava dues vegades, baixaven del cel les fades, que feien tot el que ell volia. I quan el girava tres vegades, arribava el gran àngel Azrael de l'Espasa, vestit de portaaigua, i li explicava les notícies dels tres móns: el de Dalt, el de Baix i el d'Aquí.",
+    "facil": "Suleiman-bin-Daud era fort. Al tercer dit de la mà dreta duia un anell. Quan el girava una vegada, sortien de la terra els genis i els {afrits|pp_afrit}, que feien tot el que ell volia. Quan el girava dues vegades, baixaven del cel les fades, que feien tot el que ell volia. I quan el girava tres vegades, arribava el gran àngel Azrael de l'Espasa, vestit d'aiguader, i li explicava les notícies dels tres móns: el de Dalt, el de Baix i el d'Aquí.",
     "normal": "Suleiman-bin-Daud era fort. Al tercer dit de la mà dreta duia un anell. Quan el girava una vegada, sortien de la terra genis i {afrits|pp_afrit} per fer tot el que ell els manava. Quan el girava dues vegades, baixaven del cel les fades per fer tot el que ell els manava; i quan el girava tres vegades, el gran àngel Azrael de l'Espasa venia vestit d'{aiguader|pp_aiguader} i li explicava les notícies dels tres móns: el de Dalt, el de Baix i el d'Aquí.",
     "ric": "Suleiman-bin-Daud era poderós. Al tercer dit de la mà dreta duia un anell. Quan el feia girar una vegada, de sota terra sortien genis i {afrits|pp_afrit} a executar tot el que ell manava. Quan el feia girar dues vegades, les {peris|pp_peri} davallaven del cel a executar tot el que ell manava; i quan el feia girar tres vegades, el gran àngel Azrael de l'Espasa es presentava vestit d'{aiguader|pp_aiguader} i li donava notícia dels tres móns: el de Dalt, el de Baix i el d'Aquí."
    }
@@ -946,7 +946,7 @@
    "en": "ginger",
    "definicio": "planta de rel picant i d'olor forta, que s'usa com a espècia",
    "sinonim": "—",
-   "exemple": "La te de gingebre l'escalfava per dins.",
+   "exemple": "El te de gingebre l'escalfava per dins.",
    "carta": {
     "motiu": "flor"
    }

@@ -528,7 +528,7 @@
    "ca": {
     "facil": "«Aquí tothom diu “vine”», va pensar l'Alícia mentre el seguia a poc a poc. «Mai a la vida m'havien manat tant, mai!»",
     "normal": "«Aquí tothom diu “vine!”», va pensar l'Alícia, mentre el seguia a poc a poc: «mai a la vida no m'havien manat tant, mai!»",
-    "ric": "«Aquí tothom diu “vine!”», va pensar l'Alícia, mentre el seguia a poc a poc: «mai a la vida no m'havien {manat a toc de pito|a_toc_de_pito} d'aquesta manera, mai!»"
+    "ric": "«Aquí tothom diu “vine!”», va pensar l'Alícia, mentre el seguia a poc a poc: «mai a la vida no m'havien {manat a toc de xiulet|a_toc_de_pito} d'aquesta manera, mai!»"
    }
   },
   {
@@ -1643,11 +1643,11 @@
    "tipus": "frase_feta",
    "categoria": "frase_feta",
    "dificultat": 4,
-   "lema": "a toc de pito",
+   "lema": "a toc de xiulet",
    "en": "ordered about",
    "definicio": "obeint ordres a cada moment, sense poder decidir res",
-   "sinonim": "a toc de xiulet",
-   "exemple": "A la colònia ens feien llevar a toc de pito.",
+   "sinonim": "a toc de corneta",
+   "exemple": "A la colònia ens feien llevar a toc de xiulet.",
    "carta": {
     "motiu": "trompeta"
    }

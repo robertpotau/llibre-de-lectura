@@ -98,9 +98,9 @@
    "to": "burleta",
    "en": "THIS Uninhabited Island\nIs off Cape Gardafui,\nBy the Beaches of Socotra\nAnd the Pink Arabian Sea:\nBut it's hot--too hot from Suez\nFor the likes of you and me\nEver to go\nIn a P. and O.\nAnd call on the Cake-Parsee!",
    "ca": {
-    "facil": "AQUESTA illa deshabitada\nés al cap Gardafui, vora el mar,\namb Socotra, de platja daurada,\ni el Mar Aràbic rosat, de bon mirar;\nperò fa massa calor des de Suez\nper a gent com tu i jo, per anar\namb un vapor de línia\nel parsi dels pastissos a visitar!",
-    "normal": "AQUESTA illa deshabitada\nés al cap Gardafui, vora el mar,\namb Socotra, de platja daurada,\ni el Mar Aràbic rosat, de bon mirar;\nperò fa massa calor des de Suez\nper a gent com tu i jo, per anar\namb un vapor de línia\nel parsi dels pastissos a visitar!",
-    "ric": "AQUESTA illa deshabitada\nés al cap Gardafui, vora el mar,\namb Socotra, de platja daurada,\ni el Mar Aràbic rosat, de bon mirar;\nperò fa massa calor des de Suez\nper a gent com tu i jo, per anar\namb un vapor de línia\nel parsi dels pastissos a visitar!"
+    "facil": "AQUESTA illa deshabitada\nés al cap Gardafui, vora el mar,\namb Socotra, de platja daurada,\ni el mar Aràbic rosat, de bon mirar;\nperò fa massa calor des de Suez\nper a gent com tu i jo, per anar\namb un vapor de línia\nel parsi dels pastissos a visitar!",
+    "normal": "AQUESTA illa deshabitada\nés al cap Gardafui, vora el mar,\namb Socotra, de platja daurada,\ni el mar Aràbic rosat, de bon mirar;\nperò fa massa calor des de Suez\nper a gent com tu i jo, per anar\namb un vapor de línia\nel parsi dels pastissos a visitar!",
+    "ric": "AQUESTA illa deshabitada\nés al cap Gardafui, vora el mar,\namb Socotra, de platja daurada,\ni el mar Aràbic rosat, de bon mirar;\nperò fa massa calor des de Suez\nper a gent com tu i jo, per anar\namb un vapor de línia\nel parsi dels pastissos a visitar!"
    }
   }
  ],

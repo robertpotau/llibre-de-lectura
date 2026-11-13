@@ -461,8 +461,8 @@
    "to": "tensio",
    "en": "'Where are the bad people who speared you, my darling?' said Teshumai Tewindrow.",
    "ca": {
-    "facil": "«On són els mals homes que t'han clavat la llança, estimada meva?», va dir la Teshumai Tewindrow.",
-    "normal": "«On són els mals homes que t'han clavat la llança, estimada meva?», va dir la Teshumai Tewindrow.",
+    "facil": "«On són els mals homes que t'han clavat la llança, estimat meu?», va dir la Teshumai Tewindrow.",
+    "normal": "«On són els mals homes que t'han clavat la llança, estimat meu?», va dir la Teshumai Tewindrow.",
     "ric": "«On són els mals homes que t'han clavat la llança, joia meva?», va dir la Teshumai Tewindrow."
    }
   },

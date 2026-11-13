@@ -954,7 +954,7 @@
    "lema": "escaure",
    "en": "becoming",
    "definicio": "quedar bé, ser adequat",
-   "sinonim": "favorir",
+   "sinonim": "convenir",
    "exemple": "Aquest color et escau molt.",
    "carta": {
     "motiu": "estrella"
@@ -1044,7 +1044,7 @@
    "dificultat": 1,
    "lema": "veí",
    "en": "neighbour",
-   "definicio": "persona que viu o seu al costat d'una altra",
+   "definicio": "persona que viu al costat d'una altra",
    "sinonim": "—",
    "exemple": "El meu veí té un gos molt simpàtic.",
    "carta": {

@@ -471,7 +471,7 @@
    "to": "tensio",
    "en": "Alice said nothing: she had never been so much contradicted in her life before, and she felt that she was losing her temper.",
    "ca": {
-    "facil": "L'Alícia no va dir res. Mai a la vida l'havien contradit tant, i notava que estava a punt de perdre la paciència.",
+    "facil": "L'Alícia no va dir res. Mai a la vida l'havien contradita tant, i notava que estava a punt de perdre la paciència.",
     "normal": "L'Alícia no va dir res: mai a la vida no l'havien {contradit|contradir} tant, i sentia que estava a punt de perdre la paciència.",
     "ric": "L'Alícia no va badar boca: mai a la vida no l'havien {contradit|contradir} tant, i sentia que estava a punt de {perdre els nervis|perdre_els_nervis}."
    }
@@ -629,7 +629,7 @@
    "to": "sorpresa",
    "en": "As there seemed to be no chance of getting her hands up to her head, she tried to get her head down to them, and was delighted to find that her neck would bend about easily in any direction, like a serpent. She had just succeeded in curving it down into a graceful zigzag, and was going to dive in among the leaves, which she found to be nothing but the tops of the trees under which she had been wandering, when a sharp hiss made her draw back in a hurry: a large pigeon had flown into her face, and was beating her violently with its wings.",
    "ca": {
-    "facil": "Com que no podia pujar les mans fins al cap, va provar de baixar el cap fins a les mans. I va veure, contenta, que el coll es doblegava fàcilment cap a tot arreu, com una {serp|serp}. Just quan l'havia corbat en un {ziga-zaga|zigazaga} molt elegant i anava a ficar-se entre les fulles (que eren les {copes|copa_arbre} dels arbres per on havia caminat), un {xiulet|xiulet} fort la va fer tirar enrere de cop. Un colom gros li havia volat a la cara i la picava amb les ales.",
+    "facil": "Com que no podia pujar les mans fins al cap, va provar de baixar el cap fins a les mans. I va veure, contenta, que el coll es doblegava fàcilment cap a tot arreu, com una {serp|serp}. Just quan l'havia corbat en un {ziga-zaga|zigazaga} molt elegant i anava a ficar-se entre les fulles (que eren les {copes|copa_arbre} dels arbres per on havia caminat), un {xiulet|xiulet} fort la va fer tirar enrere de cop. Una coloma grossa li havia volat a la cara i la picava amb les ales.",
     "normal": "Com que no semblava haver-hi manera de fer pujar les mans fins al cap, va provar de fer baixar el cap fins a les mans, i va descobrir, encantada, que el coll es doblegava amb facilitat en totes direccions, com una {serp|serp}. Acabava d'aconseguir corbar-lo en un {ziga-zaga|zigazaga} elegant i estava a punt de {capbussar-se|capbussar_se} entre les fulles (que no eren altra cosa que les {copes|copa_arbre} dels arbres per sota dels quals havia caminat). De sobte, un {xiulet|xiulet} agut la va fer recular de pressa: una coloma grossa li havia volat a la cara i li {pegava|pegar} amb les ales amb violència.",
     "ric": "Com que no semblava haver-hi manera de dur les mans fins al cap, va provar de dur el cap fins a les mans, i va descobrir, encantada, que el coll es vinclava amb facilitat cap on volgués, com una {serp|serp}. Acabava d'aconseguir doblegar-lo en un {ziga-zaga|zigazaga} ben elegant i era a punt de {capbussar-se|capbussar_se} entre les fulles (que no eren sinó les {copes|copa_arbre} dels arbres sota els quals havia vagat). De sobte, un {xiulet|xiulet} esmolat la va fer recular a corre-cuita: una coloma grossa li havia volat a la cara i li {pegava|pegar} cops d'ala amb fúria."
    }

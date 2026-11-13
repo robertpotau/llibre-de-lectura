@@ -1334,7 +1334,7 @@
    "categoria": "frase_feta",
    "dificultat": 2,
    "lema": "com un peix a l'aigua",
-   "en": "a regular whale",
+   "en": "fine swimmer",
    "definicio": "molt a gust i còmode en un lloc o en una situació",
    "sinonim": "a gust",
    "exemple": "A l'escola nova es va trobar com un peix a l'aigua.",

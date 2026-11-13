@@ -2,6 +2,11 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.6.3 — 2026-11-13
+
+- **Revisió de gramàtica dels 33 capítols** amb l'agent `revisor-catala` (Haiku), cada troballa verificada: ≈ 30 correccions (concordances, tracte, castellanismes, cartes i pistes dels reptes) i ≈ 45 falses alarmes descartades i afegides a la guia. Resum: `data/revisio-gramatica/RESUM.md`.
+- **Príncep c104:** l'original anglès (botó «Original (EN)») anava desfasat dos paràgrafs; arreglat. `revisa_llibre.py` ara detecta aquests desfasaments.
+
 ## v1.6.2 — 2026-11-13
 
 - **Accents diacrítics segons l'Ortografia de l'IEC (2016)** als tres llibres: 187 grafies antigues corregides (*sóc* → *soc*, *dóna* → *dona*, *adéu* → *adeu*, *vénen* → *venen*, *fóra* → *fora*, *bóta* → *bota*). Només queden els 15 diacrítics vigents.

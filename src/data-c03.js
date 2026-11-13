@@ -1603,7 +1603,7 @@
    "dificultat": 1,
    "lema": "garsa",
    "en": "magpie",
-   "definicio": "ocell blanc i negre que s'enduu coses brillants",
+   "definicio": "ocell blanc i negre que s'endú coses brillants",
    "sinonim": "—",
    "exemple": "La garsa va agafar l'anell de la finestra.",
    "carta": {
@@ -1666,7 +1666,7 @@
    "tipus": "vocabulari",
    "categoria": "nom",
    "dificultat": 2,
-   "lema": "passets",
+   "lema": "passet",
    "en": "pattering of footsteps",
    "definicio": "passos curts, ràpids i lleugers",
    "sinonim": "petjades",
@@ -1732,7 +1732,7 @@
      "El Ratolí explica una lliçó d'història molt seca",
      "Tots corren a la cursa Caucus",
      "L'Alícia reparteix els confits com a premis",
-     "El Ratolí se'n va empipat"
+     "El Ratolí se'n va anar empipat"
     ],
     "ordre_correcte": [
      0,
@@ -1766,7 +1766,7 @@
     "indici": "Pensa qui s'enfada amb la seva mare quan li fan un sermó.",
     "pistes": [
      "Pensa qui s'enfada amb la seva mare quan li fan un sermó.",
-     "És una animalona petita amb pinces que viu a l'aigua."
+     "És un animal petit amb pinces que viu a l'aigua."
     ]
    }
   ],

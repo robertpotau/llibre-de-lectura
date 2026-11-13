@@ -230,9 +230,9 @@
    "to": "divertit",
    "en": "“Ahem! ahem!” he said, and everybody listened except the poor Catherine Wheel, who was still shaking her head, and murmuring, “Romance is dead.”",
    "ca": {
-    "facil": "«Ejem! Ejem!», va dir, i tothom el va escoltar excepte la pobra Roda de Santa Caterina, que encara negava amb el cap i murmurava: «El romanticisme és mort.»",
-    "normal": "«Ejem! Ejem!», va dir, i tothom el va escoltar excepte la pobra Roda de Santa Caterina, que encara negava amb el cap i murmurava: «El romanticisme és mort.»",
-    "ric": "«Ejem! Ejem!», va dir, i tothom el va escoltar excepte la pobra Roda de Santa Caterina, que encara negava amb el cap i murmurava: «El romanticisme és mort.»"
+    "facil": "«Ehem! Ehem!», va dir, i tothom el va escoltar excepte la pobra Roda de Santa Caterina, que encara negava amb el cap i murmurava: «El romanticisme és mort.»",
+    "normal": "«Ehem! Ehem!», va dir, i tothom el va escoltar excepte la pobra Roda de Santa Caterina, que encara negava amb el cap i murmurava: «El romanticisme és mort.»",
+    "ric": "«Ehem! Ehem!», va dir, i tothom el va escoltar excepte la pobra Roda de Santa Caterina, que encara negava amb el cap i murmurava: «El romanticisme és mort.»"
    }
   },
   {
@@ -675,7 +675,7 @@
    "lema": "ren",
    "en": "reindeer",
    "definicio": "cérvol de les regions fredes que estira trineus",
-   "sinonim": "rendeer",
+   "sinonim": "rangífer",
    "exemple": "Els rens porten el trineu pel nord.",
    "carta": {
     "motiu": "gos"

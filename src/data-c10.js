@@ -253,7 +253,7 @@
    "ca": {
     "facil": "«Oh, canta tu», va dir el Grifó. «Jo m'he oblidat de la lletra.»",
     "normal": "«Oh, canta tu», va dir el Grifó. «Jo n'he oblidat la lletra.»",
-    "ric": "«Oh, canta tu», va dir el Grifó. «A mi se me n'ha oblidat la lletra.»"
+    "ric": "«Oh, canta tu», va dir el Grifó. «A mi se m'ha oblidat la lletra.»"
    }
   },
   {
@@ -1526,7 +1526,7 @@
    "en": "position",
    "definicio": "en el ball, manera de posar el cos i els peus",
    "sinonim": "postura",
-   "exemple": "A ballet, primer aprenem les posicions dels peus.",
+   "exemple": "Al ballet, primer aprenem les posicions dels peus.",
    "carta": {
     "motiu": "salt"
    }
