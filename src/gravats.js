@@ -37,4 +37,17 @@ window.GRAVATS = {
   c211: { f: "img/justso/c211.jpg", w: 259, h: 360, alt: "La Dona, a la cova, amb el Gat que mira des de fora" },
   c212: { f: "img/justso/c212.jpg", w: 253, h: 360, alt: "El Gat camina tot sol pel Bosc Humit i Salvatge (dibuix de Kipling)" },
   c213: { f: "img/justso/c213.jpg", w: 257, h: 360, alt: "Suleiman-bin-Daud i la reina Balquis, amagats darrere un arbre, i les papallones" },
+  // Alícia a l'altra banda del mirall: gravats de John Tenniel (1871), domini públic
+  c301: { f: "img/mirall/c301.jpg", w: 305, h: 360, alt: "L'Alícia travessa el mirall per sobre de la xemeneia" },
+  c302: { f: "img/mirall/c302.jpg", w: 286, h: 360, alt: "L'Alícia parla amb les flors vives del jardí" },
+  c303: { f: "img/mirall/c303.jpg", w: 451, h: 360, alt: "L'Alícia al vagó del tren, amb el Revisor i el senyor vestit de paper" },
+  c304: { f: "img/mirall/c304.jpg", w: 463, h: 360, alt: "L'Alícia davant d'en Tweedledum i en Tweedledee" },
+  c305: { f: "img/mirall/c305.jpg", w: 292, h: 360, alt: "L'Alícia a la botiga de l'Ovella, que fa mitja" },
+  c306: { f: "img/mirall/c306.jpg", w: 331, h: 360, alt: "En Humpty Dumpty assegut dalt del mur, amb l'Alícia" },
+  c307: { f: "img/mirall/c307.jpg", w: 465, h: 360, alt: "L'Alícia amb el pastís, entre el Lleó i l'Unicorn" },
+  c308: { f: "img/mirall/c308.jpg", w: 326, h: 360, alt: "L'Alícia amb el Cavaller Blanc i el seu cavall" },
+  c309: { f: "img/mirall/c309.jpg", w: 508, h: 360, alt: "El Cavaller Blanc cau del cavall" },
+  c310: { f: "img/mirall/c310.jpg", w: 513, h: 360, alt: "L'Alícia entre la Reina Vermella i la Reina Blanca" },
+  c311: { f: "img/mirall/c311.jpg", w: 247, h: 360, alt: "L'Alícia estira les estovalles i tot el banquet cau per terra" },
+  c312: { f: "img/mirall/c312.jpg", w: 332, h: 360, alt: "L'Alícia, ja desperta, amb un gatet" },
 };

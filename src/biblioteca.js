@@ -15,6 +15,7 @@
     { id: "alice",    titol: "Alice's Adventures in Wonderland", curt: "Alice",         autor: "Lewis Carroll",   color: "#274d7a", emoji: "🐇", disponible: true, cap1: { titol: "Pel cau del conill", ini: "L" } },
     { id: "princep",  titol: "The Happy Prince and Other Tales",  curt: "Happy Prince",  autor: "Oscar Wilde",     color: "#8a6a1f", emoji: "🐦", disponible: true, cap1: { titol: "L'estàtua que plorava", ini: "M" } },
     { id: "justso",   titol: "Just So Stories",                   curt: "Just So",       autor: "Rudyard Kipling", color: "#9a4a2a", emoji: "🐘", disponible: true, cap1: { titol: "La gola de la Balena", ini: "A" } },
+    { id: "mirall",   titol: "Through the Looking-Glass",         curt: "Looking-Glass", autor: "Lewis Carroll",   color: "#7a2a3a", emoji: "♟️", disponible: true, cap1: { titol: "La casa del mirall", ini: "U" } },
     { id: "peterpan", titol: "Peter Pan",                         curt: "Peter Pan",     autor: "J. M. Barrie",    color: "#1c5a5a", emoji: "⭐" },
     { id: "oz",       titol: "The Wonderful Wizard of Oz",        curt: "Wizard of Oz",  autor: "L. Frank Baum",   color: "#1f6a45", emoji: "🌪️" },
     { id: "jungle",   titol: "The Jungle Book",                   curt: "Jungle Book",   autor: "Rudyard Kipling", color: "#7a4a1d", emoji: "🐯" },
@@ -22,7 +23,7 @@
     { id: "willows",  titol: "The Wind in the Willows",           curt: "Willows",       autor: "Kenneth Grahame", color: "#4a6a2a", emoji: "🐸" },
     { id: "nesbit",   titol: "Five Children and It",              curt: "Five Children", autor: "E. Nesbit",       color: "#5e3a78", emoji: "✨" },
   ];
-  const ORDRE_3D = ["oz", "jungle", "peterpan", "alice", "princep", "justso", "treasure", "willows", "nesbit"]; // Alícia al mig
+  const ORDRE_3D = ["oz", "jungle", "peterpan", "mirall", "alice", "princep", "justso", "treasure", "willows", "nesbit"]; // Alícia al mig
   const PER_ID = Object.fromEntries(LLIBRES.map((l) => [l.id, l]));
 
   // --- preferències ---
@@ -870,7 +871,7 @@
 
   function avisAviat(def) {
     const a = $("bib-avis");
-    a.textContent = `«${def.titol}» arribarà aviat. De moment, pots llegir Alícia, El Príncep Feliç o els Contes perquè sí!`;
+    a.textContent = `«${def.titol}» arribarà aviat. De moment, pots llegir Alícia, A través del mirall, El Príncep Feliç o els Contes perquè sí!`;
     a.hidden = false;
     clearTimeout(avisAviat.t);
     avisAviat.t = setTimeout(() => { a.hidden = true; }, 3200);

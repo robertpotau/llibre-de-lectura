@@ -53,6 +53,9 @@
     cranc: "🦀", cavall: "🐎", vaca: "🐄", nado: "👶", palmera: "🌴", desert: "🏜️", navalla: "🔪", geni: "🧞",
     mag: "🧙", alfabet: "🔤", canoa: "🛶", mico: "🐒", girafa: "🦒", rata: "🐀", illa: "🏝️", llet: "🥛",
     ou: "🥚", os: "🦴", pluja: "🌧️", arc: "🌈", estruc: "🐦", platan: "🍌", cova: "🪨",
+    // A través del mirall (Carroll)
+    mirall: "🪞", escacs: "♟️", ovella: "🐑", lleo: "🦁", unicorn: "🦄", tren: "🚂", mosquit: "🦟", bosc: "🌲",
+    espasa: "⚔️", drac: "🐉", te: "🫖", agulla: "🧶", barca: "🚣", nina: "🪆", rosa: "🌹",
   };
   const especialDe = (cap) => ({
     tipus: "especial", categoria: "especial", dificultat: 4, lema: cap.titol.ca, en: cap.titol.en,

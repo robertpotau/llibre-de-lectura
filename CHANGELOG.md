@@ -2,6 +2,13 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.7.0 — 2026-11-14
+
+- **Quart llibre: *Alícia a l'altra banda del mirall*** (Lewis Carroll, *Through the Looking-Glass*, Gutenberg #12, domini públic): el llibre sencer en 12 capítols en tres nivells (c301–c312), 528 cartes (85 de frase feta), repte per capítol, repte final de 12 preguntes i carta especial. Sense àudio (veu de l'ordinador). Esborrany pendent de revisió humana.
+- Poema *Jabberwocky* recreat en català («Xerrafera», amb mots inventats propis que en Humpty Dumpty explica a c306); jocs de paraules reinventats; acròstic final ALICE PLEASANCE LIDDELL com a l'original.
+- Gravats de John Tenniel (1871), domini públic. Biblioteca 3D: llibre «Looking-Glass» disponible.
+- Fet en mode autònom amb el protocol de llibre nou (12 agents traductors, 2 voltes de revisió verificades, 26 correccions aplicades): detall a `CANVIS_2026-11-14_v1.7.md` i `data/mirall/REVISIO.md`.
+
 ## v1.6.3 — 2026-11-13
 
 - **Revisió de gramàtica dels 33 capítols** amb l'agent `revisor-catala` (Haiku), cada troballa verificada: ≈ 30 correccions (concordances, tracte, castellanismes, cartes i pistes dels reptes) i ≈ 45 falses alarmes descartades i afegides a la guia. Resum: `data/revisio-gramatica/RESUM.md`.
