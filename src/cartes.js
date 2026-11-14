@@ -56,6 +56,9 @@
     // A través del mirall (Carroll)
     mirall: "🪞", escacs: "♟️", ovella: "🐑", lleo: "🦁", unicorn: "🦄", tren: "🚂", mosquit: "🦟", bosc: "🌲",
     espasa: "⚔️", drac: "🐉", te: "🫖", agulla: "🧶", barca: "🚣", nina: "🪆", rosa: "🌹",
+    // La Dorothy i el mag d'Oz (Baum)
+    huraca: "🌪️", cor: "❤️", cervell: "🧠", destral: "🪓", sabata: "👠", ulleres: "👓", aerostat: "🎈", bruixa: "🧙‍♀️",
+    gorra: "🧢", ratoli: "🐭", palla: "🌾", rosella: "🌺", llop: "🐺", abella: "🐝", aranya: "🕷️", gerro: "🏺", tigre: "🐅", oliera: "🛢️",
   };
   const especialDe = (cap) => ({
     tipus: "especial", categoria: "especial", dificultat: 4, lema: cap.titol.ca, en: cap.titol.en,

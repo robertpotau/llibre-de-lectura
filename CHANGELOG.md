@@ -2,6 +2,12 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.8.0 — 2026-11-14
+
+- **Cinquè llibre: *La Dorothy i el mag d'Oz*** (L. Frank Baum, *The Wonderful Wizard of Oz*, Gutenberg #55, domini públic): el llibre sencer (24 capítols originals) en 17 capítols en tres nivells (c401–c417), 643 cartes (111 de frase feta), repte per capítol, repte final de 17 preguntes i carta especial. Sense àudio (veu de l'ordinador). Esborrany pendent de revisió humana.
+- Il·lustracions de W. W. Denslow (1900), domini públic. Biblioteca 3D: llibre «Wizard of Oz» disponible.
+- Fet en mode autònom amb el protocol de llibre nou (17 agents traductors, 3 voltes de revisió verificades, ≈ 130 correccions aplicades): detall a `CANVIS_2026-11-14_v1.8.md` i `data/oz/REVISIO.md`.
+
 ## v1.7.0 — 2026-11-14
 
 - **Quart llibre: *Alícia a l'altra banda del mirall*** (Lewis Carroll, *Through the Looking-Glass*, Gutenberg #12, domini públic): el llibre sencer en 12 capítols en tres nivells (c301–c312), 528 cartes (85 de frase feta), repte per capítol, repte final de 12 preguntes i carta especial. Sense àudio (veu de l'ordinador). Esborrany pendent de revisió humana.

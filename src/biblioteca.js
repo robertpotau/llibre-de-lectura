@@ -17,7 +17,7 @@
     { id: "justso",   titol: "Just So Stories",                   curt: "Just So",       autor: "Rudyard Kipling", color: "#9a4a2a", emoji: "🐘", disponible: true, cap1: { titol: "La gola de la Balena", ini: "A" } },
     { id: "mirall",   titol: "Through the Looking-Glass",         curt: "Looking-Glass", autor: "Lewis Carroll",   color: "#7a2a3a", emoji: "♟️", disponible: true, cap1: { titol: "La casa del mirall", ini: "U" } },
     { id: "peterpan", titol: "Peter Pan",                         curt: "Peter Pan",     autor: "J. M. Barrie",    color: "#1c5a5a", emoji: "⭐" },
-    { id: "oz",       titol: "The Wonderful Wizard of Oz",        curt: "Wizard of Oz",  autor: "L. Frank Baum",   color: "#1f6a45", emoji: "🌪️" },
+    { id: "oz",       titol: "The Wonderful Wizard of Oz",        curt: "Wizard of Oz",  autor: "L. Frank Baum",   color: "#1f6a45", emoji: "🌪️", disponible: true, cap1: { titol: "L'huracà i els munchkins", ini: "L" } },
     { id: "jungle",   titol: "The Jungle Book",                   curt: "Jungle Book",   autor: "Rudyard Kipling", color: "#7a4a1d", emoji: "🐯" },
     { id: "treasure", titol: "Treasure Island",                   curt: "Treasure Island", autor: "R. L. Stevenson", color: "#6b2326", emoji: "🗺️" },
     { id: "willows",  titol: "The Wind in the Willows",           curt: "Willows",       autor: "Kenneth Grahame", color: "#4a6a2a", emoji: "🐸" },
@@ -871,7 +871,7 @@
 
   function avisAviat(def) {
     const a = $("bib-avis");
-    a.textContent = `«${def.titol}» arribarà aviat. De moment, pots llegir Alícia, A través del mirall, El Príncep Feliç o els Contes perquè sí!`;
+    a.textContent = `«${def.titol}» arribarà aviat. De moment, pots llegir Alícia, A través del mirall, El Príncep Feliç, els Contes perquè sí o La Dorothy i el mag d'Oz!`;
     a.hidden = false;
     clearTimeout(avisAviat.t);
     avisAviat.t = setTimeout(() => { a.hidden = true; }, 3200);
