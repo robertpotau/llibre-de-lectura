@@ -216,6 +216,22 @@
         ],
       },
     },
+    jungla: {
+      id: "jungla",
+      titolEn: "The Jungle Book",
+      titolCa: "Històries de la jungla",
+      autor: "Rudyard Kipling",
+      capitols: seq(501, 4), // TEMPORAL (v1.8.1): només els capítols acabats; tornar a seq(501, 12) quan la Jungla estigui completa
+      audio: "../audio/jungla/",
+      credit: "Text original de Rudyard Kipling (1894), domini públic.",
+      creditGravat: "Il·lustració de l'edició de 1894 (J. L. Kipling, W. H. Drake i P. Frenzeny), domini públic.",
+      protagonista: "en Mowgli",
+      motiuEspecial: "llop",
+      especial: {
+        definicio: "Carta del llibre complet: has viscut amb el Poble Lliure, has caçat amb en Kaa i has vençut en Shere Khan i les cobres.",
+        exemple: "Bona caça! Has arribat al final del llibre.",
+      },
+    },
   };
   let triat = null;
   const q = /[?&]llibre=([a-z]+)/.exec(location.search);

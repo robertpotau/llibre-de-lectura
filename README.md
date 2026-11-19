@@ -39,6 +39,7 @@ LICENSE             drets i material de tercers
 
 - **Textos originals (domini públic, edicions en anglès de [Project Gutenberg](https://www.gutenberg.org/)):** *Alice's Adventures in Wonderland*, de Lewis Carroll (1865, ebook #11); *The Happy Prince and Other Tales*, d'Oscar Wilde (1888, ebook #902); *Just So Stories*, de Rudyard Kipling (1902, ebook #2781).
 - **Il·lustracions (domini públic):** John Tenniel (1865), Walter Crane i George Percy Jacomb-Hood (1888), Joseph M. Gleeson (1912) i dibuixos del mateix Rudyard Kipling (1902). La **traducció al català, les adaptacions per nivells, el glossari, els reptes i les cartes** són obra original de Robert Potau Nuñez (amb Claude Code, Anthropic), i estan sota la reserva de drets. El text està encara **en revisió (esborrany)**.
+- **Racó de lectura del mode lleuger** (paisatge de la finestra, gata i espelma, `src/img/raco/`): il·lustracions **generades amb IA** (Google Gemini, 2026-11-19), retallades i adaptades per Robert Potau Nuñez. Les imatges generades per IA no tenen autoria humana pròpia; s'indica a la pantalla.
 - **Veus:** les narracions són **veus sintètiques**, generades amb **Azure AI Speech** (Microsoft): `ca-ES-JoanaNeural` i `ca-ES-EnricNeural`. No són enregistraments de persones.
 - **Tipografies** (llicència SIL Open Font 1.1, fitxers de llicència a `src/fonts/`): Merriweather, Alice i Andika.
 - **three.js** (llicència MIT, `src/vendor/`).

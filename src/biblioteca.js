@@ -18,12 +18,12 @@
     { id: "mirall",   titol: "Through the Looking-Glass",         curt: "Looking-Glass", autor: "Lewis Carroll",   color: "#7a2a3a", emoji: "♟️", disponible: true, cap1: { titol: "La casa del mirall", ini: "U" } },
     { id: "peterpan", titol: "Peter Pan",                         curt: "Peter Pan",     autor: "J. M. Barrie",    color: "#1c5a5a", emoji: "⭐" },
     { id: "oz",       titol: "The Wonderful Wizard of Oz",        curt: "Wizard of Oz",  autor: "L. Frank Baum",   color: "#1f6a45", emoji: "🌪️", disponible: true, cap1: { titol: "L'huracà i els munchkins", ini: "L" } },
-    { id: "jungle",   titol: "The Jungle Book",                   curt: "Jungle Book",   autor: "Rudyard Kipling", color: "#7a4a1d", emoji: "🐯" },
+    { id: "jungla",   titol: "The Jungle Book",                   curt: "Jungle Book",   autor: "Rudyard Kipling", color: "#7a4a1d", emoji: "🐯", disponible: true, cap1: { titol: "El cadell d'home", ini: "E" } },
     { id: "treasure", titol: "Treasure Island",                   curt: "Treasure Island", autor: "R. L. Stevenson", color: "#6b2326", emoji: "🗺️" },
     { id: "willows",  titol: "The Wind in the Willows",           curt: "Willows",       autor: "Kenneth Grahame", color: "#4a6a2a", emoji: "🐸" },
     { id: "nesbit",   titol: "Five Children and It",              curt: "Five Children", autor: "E. Nesbit",       color: "#5e3a78", emoji: "✨" },
   ];
-  const ORDRE_3D = ["oz", "jungle", "peterpan", "mirall", "alice", "princep", "justso", "treasure", "willows", "nesbit"]; // Alícia al mig
+  const ORDRE_3D = ["oz", "jungla", "peterpan", "mirall", "alice", "princep", "justso", "treasure", "willows", "nesbit"]; // Alícia al mig
   const PER_ID = Object.fromEntries(LLIBRES.map((l) => [l.id, l]));
 
   // --- preferències ---
@@ -845,33 +845,49 @@
 
   // --- llista accessible / versió 2D ---
   function construeixLlista() {
-    const ul = $("bib-llista");
-    ul.innerHTML = "";
-    const farcit = () => `<span class="bib-farcit" aria-hidden="true" style="height:${150 + Math.floor(Math.random() * 90)}px;background:${["#5a2a27", "#2f4a3b", "#2c3e5c", "#6b4a2b", "#4a2c4f", "#7a6a3a"][Math.floor(Math.random() * 6)]}"></span>`;
+    // racó de lectura (v1.8.1): dalt els llibres que es poden llegir, baix els que arribaran aviat
+    const ulDalt = $("bib-llista"), ulBaix = $("bib-llista-aviat");
+    ulDalt.innerHTML = ulBaix.innerHTML = "";
+    const farcit = (c, h, w) => `<span class="bib-farcit" aria-hidden="true" style="--c:${c};--h:${h}px;--w:${w || 18}px"></span>`;
+    const estirats = (cols) => `<span class="bib-estirats" aria-hidden="true">${cols.map(([c, w]) => `<i style="background:${c};width:${w}px"></i>`).join("")}</span>`;
     const ordre = ["alice", ...ORDRE_3D.filter((i) => i !== "alice")];
     const items = ordre.map((id) => PER_ID[id]);
-    items.forEach((d, i) => {
+    const ALTS = [166, 176, 184, 170, 180, 174];
+    let nDalt = 0, nBaix = 0;
+    items.forEach((d) => {
+      const dalt = !!d.disponible, k = dalt ? nDalt++ : nBaix++;
       const li = document.createElement("li");
-      li.innerHTML = (i % 3 === 0 ? farcit() + farcit() : farcit());
+      if (k === 0) li.innerHTML = dalt ? farcit("#2f4a3b", 140) : estirats([["#5a2a27", 96], ["#2c3e5c", 88], ["#6b4a2b", 104]]);
       const b = document.createElement("button");
       b.type = "button";
       b.className = "bib-llom" + (d.disponible ? " disponible" : "");
       b.dataset.id = d.id;
       b.style.setProperty("--color", d.color);
-      b.style.height = 200 + (i % 3) * 14 + "px";
+      b.style.setProperty("--h", (dalt ? ALTS[k % ALTS.length] : 150 + (k % 2) * 8) + "px");
       b.setAttribute("aria-label", d.disponible ? `Llegeix ${d.titol} de ${d.autor}` : `${d.titol} de ${d.autor}: aviat`);
       b.innerHTML = `<span class="bib-llom-text">${d.curt}</span><span class="bib-llom-emoji" aria-hidden="true">${d.emoji}</span>${d.disponible ? "" : '<span class="bib-aviat">Aviat</span>'}`;
       b.addEventListener("click", () => clicLlibre(d));
       b.addEventListener("focus", () => escena && escena.destaca(d.id));
       b.addEventListener("blur", () => escena && escena.destaca(null));
       li.appendChild(b);
-      ul.appendChild(li);
+      (dalt ? ulDalt : ulBaix).appendChild(li);
     });
+    ulDalt.insertAdjacentHTML("beforeend", `<li aria-hidden="true">${farcit("#4a2c4f", 150, 16)}${farcit("#7a6a3a", 132, 20)}</li>`);
+    ulBaix.insertAdjacentHTML("beforeend", `<li aria-hidden="true">${farcit("#2f4a3b", 128)}</li>`);
+  }
+
+  // l'escena del racó fa 800 x 500 px (440 x 920 en vertical): s'escala perquè hi càpiga sencera sota el títol i els botons
+  function escalaSala() {
+    const w = window.innerWidth, h = window.innerHeight;
+    const vertical = w / h < 0.8;
+    bib.classList.toggle("vertical", vertical);
+    const e = vertical ? Math.min(1.25, (w - 24) / 440, (h - 150) / 940) : Math.min(1.25, (w - 24) / 800, (h - 130) / 500);
+    bib.style.setProperty("--escala", Math.max(0.3, e).toFixed(3));
   }
 
   function avisAviat(def) {
     const a = $("bib-avis");
-    a.textContent = `«${def.titol}» arribarà aviat. De moment, pots llegir Alícia, A través del mirall, El Príncep Feliç, els Contes perquè sí o La Dorothy i el mag d'Oz!`;
+    a.textContent = `«${def.titol}» arribarà aviat. De moment, pots llegir Alícia, A través del mirall, El Príncep Feliç, els Contes perquè sí, La Dorothy i el mag d'Oz o les Històries de la jungla!`;
     a.hidden = false;
     clearTimeout(avisAviat.t);
     avisAviat.t = setTimeout(() => { a.hidden = true; }, 3200);
@@ -1001,10 +1017,11 @@
     if (e.key === "ArrowRight" && escena && bib.classList.contains("mode-3d")) { escena.pan(0.5); }
   });
   bib.addEventListener("pointerdown", () => { if (animant) { if (escena) escena.salta(); if (window.__bibSalta) window.__bibSalta(); } }, true);
-  window.addEventListener("resize", () => { if (escena) escena.resize(); });
+  window.addEventListener("resize", () => { escalaSala(); if (escena) escena.resize(); });
 
   // --- inici ---
   construeixLlista();
+  escalaSala();
   window.BIBLIOTECA = { obreLectura: () => posaMode("lectura"), tornaBiblioteca };
 
   async function inicia() {

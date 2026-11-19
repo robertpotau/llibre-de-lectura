@@ -2,6 +2,13 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.8.1 — 2026-11-19
+
+- **Mode lleuger nou: racó de lectura.** La prestatgeria 2D deixa de partir-se en dues files: ara és un racó amb una finestra de nit (lluna, turons i un poblet), una gata calicó adormida i una espelma a l'ampit, i dues lleixes (dalt els llibres per llegir, baix els que arribaran). L'escena s'escala sencera a qualsevol pantalla; en mòbil vertical, els prestatges van a dalt i la finestra a sota.
+- **Més lleuger:** la brillantor dels llibres disponibles ja no redibuixa cada fotograma (només canvia l'opacitat d'una capa). Les tres il·lustracions pesen 37 KB en total (WebP).
+- Il·lustracions del racó generades amb IA (Google Gemini) i indicades al peu de la pantalla; originals i eina de retall a `tools/raco/`. Detall a `CANVIS_2026-11-19_v1.8.1.md`.
+- *Històries de la jungla* es publica a mig fer, a petició de Robert: només els capítols c501–c504 (esborrany); la resta arribarà més endavant.
+
 ## v1.8.0 — 2026-11-14
 
 - **Cinquè llibre: *La Dorothy i el mag d'Oz*** (L. Frank Baum, *The Wonderful Wizard of Oz*, Gutenberg #55, domini públic): el llibre sencer (24 capítols originals) en 17 capítols en tres nivells (c401–c417), 643 cartes (111 de frase feta), repte per capítol, repte final de 17 preguntes i carta especial. Sense àudio (veu de l'ordinador). Esborrany pendent de revisió humana.

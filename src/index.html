@@ -46,10 +46,25 @@
       <button type="button" class="bib-boto" id="bib-dre" aria-label="Mou la vista a la dreta">▶</button>
     </div>
     <div class="bib-tip" id="bib-tip" hidden></div>
-    <p class="legal-foot">© 2026 Robert Potau Nuñez · Tots els drets reservats · <a href="https://robertpotau.github.io/termes.html" target="_blank" rel="noopener">Termes d'ús</a> · <span data-versio></span></p>
+    <p class="legal-foot">© 2026 Robert Potau Nuñez · Tots els drets reservats · <a href="https://robertpotau.github.io/termes.html" target="_blank" rel="noopener">Termes d'ús</a> · <span class="bib-credit-ia">Racó il·lustrat amb IA (Gemini) · </span><span data-versio></span></p>
     <div class="bib-avis" id="bib-avis" role="status" hidden></div>
   </div>
-  <ul class="bib-llista" id="bib-llista" aria-label="Llibres de la biblioteca"></ul>
+  <div class="bib-sala" id="bib-sala">
+    <div class="bib-escena">
+      <div class="bib-finestra" aria-hidden="true">
+        <div class="bib-vidre"></div>
+        <div class="bib-ampit"></div>
+        <div class="bib-sobre-ampit">
+          <img class="bib-gata" src="img/raco/gata.webp" alt="" width="480" height="169" decoding="async">
+          <span class="bib-espelma"><span class="bib-halo"></span><img src="img/raco/espelma.webp" alt="" width="181" height="300" decoding="async"></span>
+        </div>
+      </div>
+      <div class="bib-prest">
+        <ul class="bib-lleixa" id="bib-llista" aria-label="Llibres per llegir"></ul>
+        <ul class="bib-lleixa bib-lleixa-aviat" id="bib-llista-aviat" aria-label="Llibres que arribaran aviat"></ul>
+      </div>
+    </div>
+  </div>
 </section>
 <div id="fosc" class="fosc" aria-hidden="true"></div>
 

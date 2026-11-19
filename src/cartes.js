@@ -59,6 +59,8 @@
     // La Dorothy i el mag d'Oz (Baum)
     huraca: "🌪️", cor: "❤️", cervell: "🧠", destral: "🪓", sabata: "👠", ulleres: "👓", aerostat: "🎈", bruixa: "🧙‍♀️",
     gorra: "🧢", ratoli: "🐭", palla: "🌾", rosella: "🌺", llop: "🐺", abella: "🐝", aranya: "🕷️", gerro: "🏺", tigre: "🐅", oliera: "🛢️",
+    // Històries de la jungla (Kipling)
+    pantera: "🐈‍⬛", ossbru: "🐻", mangosta: "🦡", bufal: "🐃", cervol: "🦌", senglar: "🐗", xacal: "🦊", cabana: "🛖", pago: "🦚", cobra: "🐍",
   };
   const especialDe = (cap) => ({
     tipus: "especial", categoria: "especial", dificultat: 4, lema: cap.titol.ca, en: cap.titol.en,
