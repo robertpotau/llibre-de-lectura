@@ -881,8 +881,13 @@
     const w = window.innerWidth, h = window.innerHeight;
     const vertical = w / h < 0.8;
     bib.classList.toggle("vertical", vertical);
-    const e = vertical ? Math.min(1.25, (w - 24) / 440, (h - 150) / 940) : Math.min(1.25, (w - 24) / 800, (h - 130) / 500);
+    // espai lliure: per sota del títol i dels botons, i per sobre del peu legal
+    const sostre = Math.max(...[".bib-titol", ".bib-accions"].map((s) => { const el = bib.querySelector(s); return el ? el.getBoundingClientRect().bottom : 0; })) + 16;
+    const terra = h - 34;
+    const alt = Math.max(100, terra - sostre);
+    const e = vertical ? Math.min(1.25, (w - 24) / 440, alt / 940) : Math.min(1.25, (w - 24) / 800, alt / 520);
     bib.style.setProperty("--escala", Math.max(0.3, e).toFixed(3));
+    bib.style.setProperty("--centre-y", Math.round(sostre + alt / 2) + "px");
   }
 
   function avisAviat(def) {

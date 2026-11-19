@@ -2,6 +2,12 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.8.2 — 2026-11-19
+
+- Racó del mode lleuger **centrat** vertical i horitzontalment a l'espai lliure entre el títol i el peu (abans quedava enganxat a baix); al mòbil ja no toca els botons.
+- El crèdit «il·lustrat amb IA (Gemini)» passa de la portada als Termes d'ús (apartat de components de tercers) i al README.
+- Marca de versió dels CSS/JS a `?v=1.8.2`.
+
 ## v1.8.1 — 2026-11-19
 
 - **Mode lleuger nou: racó de lectura.** La prestatgeria 2D deixa de partir-se en dues files: ara és un racó amb una finestra de nit (lluna, turons i un poblet), una gata calicó adormida i una espelma a l'ampit, i dues lleixes (dalt els llibres per llegir, baix els que arribaran). L'escena s'escala sencera a qualsevol pantalla; en mòbil vertical, els prestatges van a dalt i la finestra a sota.
