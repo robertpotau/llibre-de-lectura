@@ -153,9 +153,9 @@
    "to": "tensio",
    "en": "\"Out!\" snapped Father Wolf. \"Out and hunt with thy master. Thou hast done harm enough for one night.\"",
    "ca": {
-    "facil": "«Fora!», va cridar el Pare Llop. «Fora d'aquí, i vés a caçar amb el teu amo. Per una nit ja has fet prou mal.»",
-    "normal": "«Fora!», va bramar el Pare Llop. «Fora d'aquí, i vés a caçar amb el teu amo. Per una nit ja has fet prou mal.»",
-    "ric": "«Fora!», va grunyir el Pare Llop. «Fora, i vés a caçar amb el teu amo! Per a una sola nit, ja has fet prou mal.»"
+    "facil": "«Fora!», va cridar el Pare Llop. «Fora d'aquí, i ves a caçar amb el teu amo. Per una nit ja has fet prou mal.»",
+    "normal": "«Fora!», va bramar el Pare Llop. «Fora d'aquí, i ves a caçar amb el teu amo. Per una nit ja has fet prou mal.»",
+    "ric": "«Fora!», va grunyir el Pare Llop. «Fora, i ves a caçar amb el teu amo! Per a una sola nit, ja has fet prou mal.»"
    }
   },
   {
@@ -298,7 +298,7 @@
    "ca": {
     "facil": "Les mates es van moure una mica, i el Pare Llop es va {ajupir|ajupir}, a punt per saltar. Llavors, si ho haguessis mirat, hauries vist la cosa més sorprenent del món: el llop es va aturar enmig del salt! Va saltar abans de veure què hi havia, i després va voler parar-se. Va sortir disparat cap amunt, més d'un metre, i va caure gairebé al mateix lloc.",
     "normal": "Les mates van cruixir una mica al {matoll|matoll}, i el Pare Llop es va {ajupir|ajupir} amb les potes de darrere plegades, a punt per saltar. Llavors, si ho haguessis estat mirant, hauries vist la cosa més meravellosa del món: el llop es va aturar enmig del salt. Va saltar abans de veure què era allò damunt del qual saltava, i després va intentar frenar-se. El resultat va ser que va pujar en línia recta cap a l'aire, un metre i mig, i va tornar a caure gairebé al lloc d'on havia saltat.",
-    "ric": "Les mates van fremir una mica dins el {matoll|matoll}, i el Pare Llop es va {ajupir|ajupir} amb les potes de darrere plegades, a punt per saltar. Aleshores, si ho haguessis estat mirant, hauries vist la cosa més extraordinària del món: el llop es va aturar en ple salt. Havia agafat embranzida abans de veure sobre què saltava, i després va intentar frenar-se. El resultat va ser que va sortir disparat cap amunt, un metre i mig llarg, i va tornar a caure gairebé on havia començat."
+    "ric": "Les mates van fremir una mica dins el {matoll|matoll}, i el Pare Llop es va {ajupir|ajupir} amb les potes de darrere plegades, a punt per saltar. Aleshores, si ho haguessis estat mirant, hauries vist la cosa més extraordinària del món: el llop es va aturar en ple salt. Havia agafat embranzida abans de veure sobre què saltava, i després va intentar frenar-se. El resultat va ser que va sortir disparat cap amunt, un metre i mig ben bo, i va tornar a caure gairebé on havia començat."
    }
   },
   {
@@ -450,8 +450,8 @@
    "to": "tensio",
    "en": "\"And it is I, Raksha [The Demon], who answers. The man's cub is mine, Lungri--mine to me! He shall not be killed. He shall live to run with the Pack and to hunt with the Pack; and in the end, look you, hunter of little naked cubs--frog-eater--fish-killer--he shall hunt thee! Now get hence, or by the Sambhur that I killed (I eat no starved cattle), back thou goest to thy mother, burned beast of the jungle, lamer than ever thou camest into the world! Go!\"",
    "ca": {
-    "facil": "«I soc jo, la {Raksha|raksha}, la Diablessa, qui et respon. El cadell d'home és meu, Lungri; és meu i prou! No el mataran. Viurà per córrer amb la Llopada i caçar amb la Llopada; i al final, mira bé, caçador de cadells nus, menjaranes, matapeixos, serà ell qui et caçarà a tu! Ara marxa d'aquí, o pel sambar que vaig matar (jo no menjo bestiar famèlic), tornaràs a la teva mare, bèstia cremada de la jungla, més coixa que quan vas néixer! Fora!»",
-    "normal": "«I soc jo, la {Raksha|raksha}, la Diablessa, qui et respon. El cadell d'home és meu, Lungri; és meu i prou! No el mataran. Viurà per córrer amb la Llopada i caçar amb la Llopada; i al final, mira bé, caçador de cadells nus, menjaranes, matapeixos, serà ell qui et caçarà a tu! Ara marxa d'aquí, o pel sambar que vaig matar (jo no menjo bestiar famèlic), tornaràs a la teva mare, bèstia cremada de la jungla, més coixa que quan vas venir al món! Fora!»",
+    "facil": "«I soc jo, la {Raksha|raksha}, la Diablessa, qui et respon. El cadell d'home és meu, Lungri; és meu i prou! No el mataran. Viurà per córrer amb la Llopada i caçar amb la Llopada; i al final, mira bé, caçador de cadells nus, menjagranotes, matapeixos, serà ell qui et caçarà a tu! Ara marxa d'aquí, o pel sambar que vaig matar (jo no menjo bestiar famèlic), tornaràs a la teva mare, bèstia cremada de la jungla, més coixa que quan vas néixer! Fora!»",
+    "normal": "«I soc jo, la {Raksha|raksha}, la Diablessa, qui et respon. El cadell d'home és meu, Lungri; és meu i prou! No el mataran. Viurà per córrer amb la Llopada i caçar amb la Llopada; i al final, mira bé, caçador de cadells nus, menjagranotes, matapeixos, serà ell qui et caçarà a tu! Ara marxa d'aquí, o pel sambar que vaig matar (jo no menjo bestiar famèlic), tornaràs a la teva mare, bèstia cremada de la jungla, més coixa que quan vas venir al món! Fora!»",
     "ric": "«I soc jo, la {Raksha|raksha}, la Diablessa, qui et respon. El cadell d'home és meu, Lungri; meu i només meu! No el mataran. Viurà per córrer amb la Llopada i caçar amb la Llopada; i al final, escolta bé, caçador de cadells nus, devorador de granotes, matapeixos, serà ell qui et caçarà a tu! Ara fuig d'aquí, o pel sambar que vaig abatre (jo no menjo bestiar escanyolit), tornaràs cap a la teva mare, bèstia socarrimada de la jungla, més coixa que no pas quan vas venir al món! Fora!»"
    }
   },
@@ -580,7 +580,7 @@
    "lema": "llindar",
    "en": "threshold",
    "definicio": "part de baix d'una porta o d'una entrada, per on es passa",
-   "sinonim": "entrada",
+   "sinonim": "—",
    "exemple": "El gat es va aturar al llindar de la porta.",
    "carta": {
     "motiu": "porta"
@@ -606,7 +606,7 @@
    "lema": "desentumir",
    "en": "get rid of the sleepy feeling",
    "definicio": "treure la rigidesa o l'adormiment d'una part del cos movent-la",
-   "sinonim": "despertar",
+   "sinonim": "—",
    "exemple": "Es va estirar per desentumir els braços després de dormir.",
    "carta": {
     "motiu": "salt"
@@ -827,7 +827,7 @@
    "lema": "brunzit",
    "en": "humming purr",
    "definicio": "so greu i continuat, com el que fa un insecte gros quan vola",
-   "sinonim": "xiuxiueig",
+   "sinonim": "—",
    "exemple": "Se sentia el brunzit de les abelles al jardí.",
    "carta": {
     "motiu": "abella"
@@ -879,7 +879,7 @@
    "lema": "ajupir-se",
    "en": "dropped with his haunches under him",
    "definicio": "abaixar el cos doblegant les cames o la cintura",
-   "sinonim": "ajeure's",
+   "sinonim": "acotar-se",
    "exemple": "El gat es va ajupir abans de saltar.",
    "carta": {
     "motiu": "salt"
@@ -984,7 +984,7 @@
    "en": "Gidur-log",
    "definicio": "paraula de Kipling per dir «el poble dels xacals»; així es diuen a si mateixos",
    "sinonim": "—",
-   "exemple": "Els xacals es diuen Gidur-log, el poble de la gent petita.",
+   "exemple": "Els xacals es diuen Gidur-log, és a dir, el poble dels xacals.",
    "carta": {
     "motiu": "xacal"
    }

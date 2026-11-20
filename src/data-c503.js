@@ -99,8 +99,8 @@
    "en": "\"Is that all?\" said Mowgli. \"If a cub can do it, there is nothing to fear.\" So he strode round the corner and met the boy, took the pot from his hand, and disappeared into the mist while the boy howled with fear.",
    "ca": {
     "facil": "«És només això?», va dir en Mowgli. «Si ho pot fer un cadell, no hi ha res a témer.» Va girar la cantonada, va trobar el nen, li va prendre el pot de les mans i va desaparèixer entre la boira, mentre el nen cridava de por.",
-    "normal": "«És només això?», va dir en Mowgli. «Si ho pot fer un cadell, no hi ha res a témer.» Així que va girar la cantonada a grans gambades, va trobar el nen, li va prendre el pot de les mans i va desaparèixer entre la boira mentre el nen udolava de por.",
-    "ric": "«I això és tot?», va dir en Mowgli. «Si un cadell ho pot fer, no hi ha res a témer.» I així, a grans gambades, va girar la cantonada, va topar amb el nen, li va prendre el pot de les mans i es va esfumar entre la boira mentre el nen udolava d'esglai."
+    "normal": "«És només això?», va dir en Mowgli. «Si ho pot fer un cadell, no hi ha res a témer.» Així que va girar la cantonada {a grans gambades|a_grans_gambades}, va trobar el nen, li va prendre el pot de les mans i va desaparèixer entre la boira mentre el nen udolava de por.",
+    "ric": "«I això és tot?», va dir en Mowgli. «Si un cadell ho pot fer, no hi ha res a témer.» I així, {a grans gambades|a_grans_gambades}, va girar la cantonada, va topar amb el nen, li va prendre el pot de les mans i es va esfumar entre la boira mentre el nen udolava d'esglai."
    }
   },
   {
@@ -352,7 +352,7 @@
    "en": "\"He is our brother in all but blood,\" Akela went on, \"and ye would kill him here! In truth, I have lived too long. Some of ye are eaters of cattle, and of others I have heard that, under Shere Khan's teaching, ye go by dark night and snatch children from the villager's doorstep. Therefore I know ye to be cowards, and it is to cowards I speak. It is certain that I must die, and my life is of no worth, or I would offer that in the man-cub's place. But for the sake of the Honor of the Pack,--a little matter that by being without a leader ye have forgotten,--I promise that if ye let the man-cub go to his own place, I will not, when my time comes to die, bare one tooth against ye. I will die without fighting. That will at least save the Pack three lives. More I cannot do; but if ye will, I can save ye the shame that comes of killing a brother against whom there is no fault--a brother spoken for and bought into the Pack according to the Law of the Jungle.\"",
    "ca": {
     "facil": "«És el nostre germà en tot menys en la sang», va continuar l'Akela, «i vosaltres el voleu matar aquí! De debò que he viscut massa. Alguns de vosaltres menjeu bestiar, i d'altres he sentit dir que, ensenyats per en Shere Khan, aneu de nit tancada a prendre infants del llindar de les cases del poble. Per això sé que sou {covards|covard}, i és a covards que parlo. És segur que he de morir, i la meva vida no val res; si no, l'oferiria en lloc del cadell d'home. Però pel bé de l'{Honor de la Llopada|honor_de_la_llopada}, una cosa petita que heu oblidat des que no teniu cap, us ho prometo: si deixeu que el cadell d'home se'n vagi al seu lloc, quan em toqui morir no ensenyaré ni una dent contra vosaltres. Moriré sense lluitar. Això, almenys, estalviarà tres vides a la Llopada. Més no puc fer; però, si voleu, us puc estalviar la vergonya de matar un germà que no té cap culpa, un germà avalat i comprat per a la Llopada segons la Llei de la Jungla.»",
-    "normal": "«És el nostre germà en tot menys en la sang», va continuar l'Akela, «i vosaltres el voleu matar aquí! De debò que he viscut massa. Alguns de vosaltres sou menjadors de bestiar, i d'altres he sentit dir que, ensenyats per en Shere Khan, aneu de nit tancada a prendre els infants del llindar de les cases del poble. Per això sé que sou {covards|covard}, i és a covards que parlo. És segur que he de morir, i la meva vida {no val ni un ral|no_valer_ni_un_ral}; si no, l'oferiria en lloc del cadell d'home. Però pel bé de l'{Honor de la Llopada|honor_de_la_llopada}, una cosa petita que heu oblidat des que no teniu cap, prometo que si deixeu que el cadell d'home se'n vagi al seu lloc, quan em toqui morir no ensenyaré ni una dent contra vosaltres. Moriré sense lluitar. Això, almenys, estalviarà tres vides a la Llopada. Més no puc fer; però, si voleu, us puc estalviar la vergonya de matar un germà contra el qual no hi ha cap culpa, un germà avalat i comprat per a la Llopada segons la Llei de la Jungla.»",
+    "normal": "«És el nostre germà en tot menys en la sang», va continuar l'Akela, «i vosaltres el voleu matar aquí! De debò que he viscut massa. Alguns de vosaltres sou menjadors de bestiar, i d'altres he sentit dir que, ensenyats per en Shere Khan, aneu de nit tancada a prendre els infants del llindar de les cases del poble. Per això sé que sou {covards|covard}, i és a covards que parlo. És segur que he de morir, i la meva vida {no val ni un ral|no_valer_ni_un_ral}; si no, l'oferiria en lloc del cadell d'home. Però pel bé de l'{Honor de la Llopada|honor_de_la_llopada}, una cosa petita que heu oblidat des que no teniu cap, prometo que si deixeu que el cadell d'home se'n vagi al seu lloc, quan em toqui morir no ensenyaré ni una dent contra vosaltres. Moriré sense lluitar. Això, almenys, estalviarà tres vides a la Llopada. Més no puc fer; però, si voleu, us puc estalviar la vergonya de matar un germà sense cap culpa, un germà avalat i comprat per a la Llopada segons la Llei de la Jungla.»",
     "ric": "«És el nostre germà en tot excepte en la sang», va prosseguir l'Akela, «i vosaltres el voleu matar aquí mateix! De veritat que he viscut massa. Alguns de vosaltres sou devoradors de bestiar, i d'altres, segons he sentit dir, ensinistrats per en Shere Khan, aneu en plena nit a arrabassar infants del llindar de les cases del poble. Per això sé que sou {covards|covard}, i és a covards que parlo. És segur que he de morir, i la meva vida {no val ni un ral|no_valer_ni_un_ral}; si no, l'oferiria en lloc del cadell d'home. Però pel bé de l'{Honor de la Llopada|honor_de_la_llopada}, una cosa menuda que heu oblidat des que us falta un cap, us prometo que, si deixeu que el cadell d'home torni al seu lloc, quan m'arribi l'hora de morir no ensenyaré ni una dent contra vosaltres. Moriré sense combatre. Això, com a mínim, estalviarà tres vides a la Llopada. Més no puc fer; però, si ho voleu, us puc estalviar la vergonya d'haver matat un germà sense cap falta, un germà garantit i comprat per a la Llopada segons la Llei de la Jungla.»"
    }
   },
@@ -441,7 +441,7 @@
    "ca": {
     "facil": "«Bé!», va dir en Mowgli, mirant al voltant a poc a poc. «Ja veig que sou gossos. Me'n vaig amb la meva gent, si és la meva gent. La jungla se'm tanca, i he d'oblidar les vostres paraules i la vostra companyia. Però seré més bo que vosaltres. Com que gairebé vaig ser el vostre germà de sang, us prometo que quan sigui un home entre homes no us {trairé|trair} davant dels homes, com vosaltres m'heu traït a mi.» Va donar una puntada de peu al foc, i les {espurnes|espurna} van saltar amunt. «No hi haurà guerra entre nosaltres, els de la Llopada. Però abans de marxar tinc un deute per cobrar.» Va avançar fins on seia en Shere Khan, que mirava les flames amb cara d'ensopit, i el va agafar pel floc de pèl de la barbeta. En Bagheera el va seguir {per si les mosques|per_si_les_mosques}. «Dret, gos!», va cridar en Mowgli. «Dret, quan parla un home, o et calaré foc a la pell!»",
     "normal": "«Bé!», va dir en Mowgli, mirant al voltant a poc a poc. «Ja veig que sou gossos. Me'n vaig de vosaltres cap a la meva gent, si és la meva gent. La jungla se'm tanca, i he d'oblidar les vostres paraules i la vostra companyia. Però seré més clement que vosaltres. Com que gairebé vaig ser el vostre germà de sang, prometo que quan sigui un home entre homes no us {trairé|trair} davant dels homes, com vosaltres m'heu traït a mi.» Va donar una puntada de peu al foc, i les {espurnes|espurna} van saltar amunt. «No hi haurà guerra entre cap de nosaltres, els de la Llopada. Però abans de marxar tinc un deute per cobrar.» Va avançar a gambades fins on seia en Shere Khan, que mirava les flames, parpellejant sense entendre res, i el va agafar pel floc de pèl de la barbeta. En Bagheera el va seguir {per si les mosques|per_si_les_mosques}. «Dret, gos!», va cridar en Mowgli. «Dret, quan parla un home, o et calaré foc a la pell!»",
-    "ric": "«Bé!», va dir en Mowgli, fent una lenta ullada al seu entorn. «Ja veig que sou gossos. Me'n vaig de vosaltres cap a la meva gent, si és que és la meva gent. La jungla se'm tanca, i he d'oblidar les vostres paraules i la vostra companyia. Però seré més clement que vosaltres. Com que gairebé vaig ser el vostre germà de sang, prometo que, quan sigui un home entre homes, no us delataré als homes, tal com vosaltres m'heu {girat l'esquena|girar_lesquena} a mi.» Va donar una puntada de peu al foc, i les {espurnes|espurna} van volar amunt. «No hi haurà guerra entre cap de nosaltres, els de la Llopada. Però abans de marxar tinc un deute per saldar.» Va avançar a grans gambades fins on seia en Shere Khan, que mirava les flames, parpellejant, estúpid, i el va agafar pel floc de pèl de la barbeta. En Bagheera el va seguir {per si les mosques|per_si_les_mosques}. «Dret, gos!», va cridar en Mowgli. «Dret, quan parla un home, o et calaré foc a tot el pelatge!»"
+    "ric": "«Bé!», va dir en Mowgli, fent una lenta ullada al seu entorn. «Ja veig que sou gossos. Me'n vaig de vosaltres cap a la meva gent, si és que és la meva gent. La jungla se'm tanca, i he d'oblidar les vostres paraules i la vostra companyia. Però seré més clement que vosaltres. Com que gairebé vaig ser el vostre germà de sang, prometo que, quan sigui un home entre homes, no us delataré als homes, tal com vosaltres m'heu {girat l'esquena|girar_lesquena} a mi.» Va donar una puntada de peu al foc, i les {espurnes|espurna} van volar amunt. «No hi haurà guerra entre cap de nosaltres, els de la Llopada. Però abans de marxar tinc un deute per saldar.» Va avançar {a grans gambades|a_grans_gambades} fins on seia en Shere Khan, que mirava les flames, parpellejant, estúpid, i el va agafar pel floc de pèl de la barbeta. En Bagheera el va seguir {per si les mosques|per_si_les_mosques}. «Dret, gos!», va cridar en Mowgli. «Dret, quan parla un home, o et calaré foc a tot el pelatge!»"
    }
   },
   {
@@ -472,9 +472,9 @@
    "to": "tensio",
    "en": "\"Pah! Singed jungle cat--go now! But remember when next I come to the Council Rock, as a man should come, it will be with Shere Khan's hide on my head. For the rest, Akela goes free to live as he pleases. Ye will not kill him, because that is not my will. Nor do I think that ye will sit here any longer, lolling out your tongues as though ye were somebodies, instead of dogs whom I drive out--thus! Go!\" The fire was burning furiously at the end of the branch, and Mowgli struck right and left round the circle, and the wolves ran howling with the sparks burning their fur. At last there were only Akela, Bagheera, and perhaps ten wolves that had taken Mowgli's part. Then something began to hurt Mowgli inside him, as he had never been hurt in his life before, and he caught his breath and sobbed, and the tears ran down his face.",
    "ca": {
-    "facil": "«Puaf! {Gat de jungla|gat_de_jungla} {socarrat|socarrat}! Vés-te'n ara! Però recorda que, la propera vegada que vingui a la Roca del Consell, com hi ha de venir un home, serà amb la pell d'en Shere Khan al cap. Quant a la resta, l'Akela se'n va lliure i viurà com vulgui. No el matareu, perquè no és la meva voluntat. I no crec que us quedeu aquí més estona, traient la llengua com si fóssiu algú i no gossos que jo foragit... així! Fora!» El foc cremava amb força a l'extrem de la branca, i en Mowgli va picar a dreta i a esquerra pel cercle, i els llops van fugir udolant, amb les espurnes que els cremaven el pelatge. Al final només van quedar l'Akela, en Bagheera i potser deu llops que havien pres partit per en Mowgli. Llavors alguna cosa va començar a fer mal a en Mowgli per dins, com mai no n'havia fet en la seva vida, i va ofegar el crit, i va sanglotar, i les llàgrimes li van córrer per la cara.",
-    "normal": "«Puaf! {Gat de jungla|gat_de_jungla} {socarrat|socarrat}! Vés-te'n ara! Però recorda que, la propera vegada que vingui a la Roca del Consell, com hi ha de venir un home, serà amb la pell d'en Shere Khan al cap. Quant a la resta, l'Akela se'n va lliure a viure com vulgui. No el matareu, perquè no és la meva voluntat. Ni crec que us quedeu aquí més estona, traient la llengua com si fóssiu algú, en lloc de gossos que jo foragit... així! Fora!» El foc cremava amb fúria a l'extrem de la branca, i en Mowgli va picar a dreta i a esquerra pel cercle, i els llops van fugir udolant, {amb la cua entre les cames|cua_entre_les_cames}, amb les espurnes que els cremaven el pelatge. Al final només van quedar l'Akela, en Bagheera i potser deu llops que havien pres partit per en Mowgli. Llavors alguna cosa va començar a fer mal a en Mowgli per dins, com mai no n'havia fet en la seva vida, i va ofegar el crit, i va sanglotar, i les llàgrimes li van córrer per la cara.",
-    "ric": "«Puaf! {Gat de jungla|gat_de_jungla} {socarrat|socarrat}, vés-te'n d'una vegada! Però recorda que, la propera vegada que vingui a la Roca del Consell, com ha de venir un home, serà amb la pell d'en Shere Khan sobre el cap. Quant a la resta, l'Akela se'n va lliure i viurà com vulgui. No el matareu, perquè aquesta no és la meva voluntat. I tampoc no crec que us quedeu aquí més estona, penjant la llengua com si fóssiu algú, en lloc de gossos que jo foragit... així! Fora!» El foc cremava furiosament a l'extrem de la branca, i en Mowgli va fustigar a dreta i a esquerra tot al voltant del cercle, i els llops van fugir udolant, {amb la cua entre les cames|cua_entre_les_cames}, mentre les {espurnes|espurna} els socarraven el pelatge. Finalment només van quedar l'Akela, en Bagheera i potser deu llops que havien pres partit per en Mowgli. Aleshores alguna cosa va començar a fer mal a en Mowgli per dins, com mai en la seva vida no n'havia fet cap, i se li va tallar la respiració, i va sanglotar, i les llàgrimes li regalimaven per la cara."
+    "facil": "«Puaf! {Gat de jungla|gat_de_jungla} {socarrat|socarrat}! Ves-te'n ara! Però recorda que, la propera vegada que vingui a la Roca del Consell, com hi ha de venir un home, serà amb la pell d'en Shere Khan al cap. Quant a la resta, l'Akela se'n va lliure i viurà com vulgui. No el matareu, perquè no és la meva voluntat. I no crec que us quedeu aquí més estona, traient la llengua com si fóssiu algú i no gossos que jo foragito... així! Fora!» El foc cremava amb força a l'extrem de la branca, i en Mowgli va picar a dreta i a esquerra pel cercle, i els llops van fugir udolant, amb les espurnes que els cremaven el pelatge. Al final només van quedar l'Akela, en Bagheera i potser deu llops que havien pres partit per en Mowgli. Llavors alguna cosa va començar a fer mal a en Mowgli per dins, com mai no n'havia fet en la seva vida, i va ofegar el crit, i va sanglotar, i les llàgrimes li van córrer per la cara.",
+    "normal": "«Puaf! {Gat de jungla|gat_de_jungla} {socarrat|socarrat}! Ves-te'n ara! Però recorda que, la propera vegada que vingui a la Roca del Consell, com hi ha de venir un home, serà amb la pell d'en Shere Khan al cap. Quant a la resta, l'Akela se'n va lliure a viure com vulgui. No el matareu, perquè no és la meva voluntat. Ni crec que us quedeu aquí més estona, traient la llengua com si fóssiu algú, en lloc de gossos que jo foragito... així! Fora!» El foc cremava amb fúria a l'extrem de la branca, i en Mowgli va picar a dreta i a esquerra pel cercle, i els llops van fugir udolant, {amb la cua entre les cames|cua_entre_les_cames}, amb les espurnes que els cremaven el pelatge. Al final només van quedar l'Akela, en Bagheera i potser deu llops que havien pres partit per en Mowgli. Llavors alguna cosa va començar a fer mal a en Mowgli per dins, com mai no n'havia fet en la seva vida, i va ofegar el crit, i va sanglotar, i les llàgrimes li van córrer per la cara.",
+    "ric": "«Puaf! {Gat de jungla|gat_de_jungla} {socarrat|socarrat}, ves-te'n d'una vegada! Però recorda que, la propera vegada que vingui a la Roca del Consell, com ha de venir un home, serà amb la pell d'en Shere Khan sobre el cap. Quant a la resta, l'Akela se'n va lliure i viurà com vulgui. No el matareu, perquè aquesta no és la meva voluntat. I tampoc no crec que us quedeu aquí més estona, penjant la llengua com si fóssiu algú, en lloc de gossos que jo foragito... així! Fora!» El foc cremava furiosament a l'extrem de la branca, i en Mowgli va fustigar a dreta i a esquerra tot al voltant del cercle, i els llops van fugir udolant, {amb la cua entre les cames|cua_entre_les_cames}, mentre les {espurnes|espurna} els socarraven el pelatge. Finalment només van quedar l'Akela, en Bagheera i potser deu llops que havien pres partit per en Mowgli. Aleshores alguna cosa va començar a fer mal a en Mowgli per dins, com mai en la seva vida no n'havia fet cap, i se li va tallar la respiració, i va sanglotar, i les llàgrimes li regalimaven per la cara."
    }
   },
   {
@@ -741,7 +741,7 @@
    "lema": "establa",
    "en": "byre",
    "definicio": "lloc cobert on es guarden les vaques o els cavalls",
-   "sinonim": "corral",
+   "sinonim": "quadra",
    "exemple": "A l'establa hi feia calor.",
    "carta": {
     "motiu": "vaca"
@@ -790,7 +790,7 @@
    "tipus": "vocabulari",
    "categoria": "nom",
    "dificultat": 3,
-   "lema": "rosegons",
+   "lema": "rosegó",
    "en": "scrap",
    "definicio": "restes d'aliment que algú deixa",
    "sinonim": "restes",
@@ -962,7 +962,7 @@
    "lema": "trair",
    "en": "betray",
    "definicio": "fallar algú que confia en tu",
-   "sinonim": "enganyar",
+   "sinonim": "—",
    "exemple": "No vull trair mai un amic.",
    "carta": {
     "motiu": "ombra"
@@ -1149,6 +1149,19 @@
    "carta": {
     "motiu": "fulles"
    }
+  },
+  "a_grans_gambades": {
+   "tipus": "frase_feta",
+   "categoria": "frase_feta",
+   "dificultat": 2,
+   "lema": "a grans gambades",
+   "en": "with long strides",
+   "definicio": "caminant amb passes molt llargues i de pressa",
+   "sinonim": "a grans passes",
+   "exemple": "Va travessar la plaça a grans gambades per no fer tard.",
+   "carta": {
+    "motiu": "peu"
+   }
   }
  },
  "reptes": {
@@ -1241,7 +1254,7 @@
     "indici": "Ho diu a en Mowgli quan la Llopada ja s'aplega al voltant del tigre.",
     "pistes": [
      "Ho diu a en Mowgli quan la Llopada ja s'aplega al voltant del tigre.",
-     "És la Pantera Negra, que no pot fer res més sinó lluitar."
+     "Fa deu anys va pagar la vida del cadell amb un toro."
     ]
    }
   ],

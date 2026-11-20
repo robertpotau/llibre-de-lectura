@@ -2,6 +2,12 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.9.0 — 2026-11-20
+
+- ***Històries de la jungla* completes** (Rudyard Kipling, *The Jungle Book*, Gutenberg #236, domini públic): els tres relats d'en Mowgli i «Rikki-Tikki-Tavi» en 12 capítols en tres nivells (c501–c512; abans només c501–c504), 503 cartes (88 de frase feta), repte per capítol, **repte final de 12 preguntes** i carta especial. Sense àudio (veu de l'ordinador). Esborrany pendent de revisió humana.
+- Fet en mode autònom (rutina programada): 8 agents traductors, 2 voltes de revisió (llengua, fidelitat, cartes) amb ≈ 110 correccions verificades: detall a `CANVIS_2026-11-20_v1.9.md` i `data/jungla/REVISIO.md`.
+- Marca de versió dels CSS/JS a `?v=1.9.0`.
+
 ## v1.8.2 — 2026-11-19
 
 - Racó del mode lleuger **centrat** vertical i horitzontalment a l'espai lliure entre el títol i el peu (abans quedava enganxat a baix); al mòbil ja no toca els botons.
