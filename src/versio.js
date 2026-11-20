@@ -1,4 +1,4 @@
 // © 2026 Robert Potau Nuñez. Tots els drets reservats / All rights reserved. Vegeu LICENSE.
 // Constant única de la versió del joc (regles: claude-projects/GAMES-TEMPLATE/DRETS-I-VERSIONS.md, apartat B).
-window.JOC = { nom: "Llibre de lectura", versio: "1.9.0", data: "2026-11-20", text: "v1.9.0 — 2026-11-20" };
+window.JOC = { nom: "Llibre de lectura", versio: "1.10.0", data: "2026-11-20", text: "v1.10.0 — 2026-11-20" };
 document.addEventListener("DOMContentLoaded", () => document.querySelectorAll("[data-versio]").forEach((e) => { e.textContent = window.JOC.text; }));

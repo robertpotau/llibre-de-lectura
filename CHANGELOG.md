@@ -2,6 +2,13 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.10.0 — 2026-11-20
+
+- **Setè llibre: *Peter Pan i la Wendy*** (J. M. Barrie, *Peter and Wendy*, Gutenberg #16, domini públic): edició escolar en 14 capítols en tres nivells (c601–c614; s'ometen els capítols VII–X de l'original), 644 cartes, repte per capítol, repte final de 14 preguntes i carta especial. Estereotips d'època adaptats (la tribu, sense mots racistes). Dos dibuixos d'Oliver Herford (1907).
+- 14 agents traductors i 2 voltes de revisió (llengua, fidelitat, cartes) amb ≈ 150 correccions verificades: detall a `CANVIS_2026-11-20_v1.10.md` i `data/peterpan/REVISIO.md`.
+- `tools/desmarca_carta.py` esborra entrades de glossari de diverses línies; eina nova `tools/substitueix_aparellar.py`.
+- Marca de versió dels CSS/JS a `?v=1.10.0`.
+
 ## v1.9.0 — 2026-11-20
 
 - ***Històries de la jungla* completes** (Rudyard Kipling, *The Jungle Book*, Gutenberg #236, domini públic): els tres relats d'en Mowgli i «Rikki-Tikki-Tavi» en 12 capítols en tres nivells (c501–c512; abans només c501–c504), 503 cartes (88 de frase feta), repte per capítol, **repte final de 12 preguntes** i carta especial. Sense àudio (veu de l'ordinador). Esborrany pendent de revisió humana.

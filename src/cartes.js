@@ -61,6 +61,9 @@
     gorra: "🧢", ratoli: "🐭", palla: "🌾", rosella: "🌺", llop: "🐺", abella: "🐝", aranya: "🕷️", gerro: "🏺", tigre: "🐅", oliera: "🛢️",
     // Històries de la jungla (Kipling)
     pantera: "🐈‍⬛", ossbru: "🐻", mangosta: "🦡", bufal: "🐃", cervol: "🦌", senglar: "🐗", xacal: "🦊", cabana: "🛖", pago: "🦚", cobra: "🐍",
+    // Peter Pan i la Wendy (Barrie)
+    pirata: "🏴‍☠️", fada: "🧚", sirena: "🧜‍♀️", vaixell: "⛵", peto: "💋", finestra: "🪟", gall: "🐓", casa: "🏠",
+    medicina: "💊", tambor: "🥁", ancora: "⚓", moneda: "🪙", nuvol: "☁️",
   };
   const especialDe = (cap) => ({
     tipus: "especial", categoria: "especial", dificultat: 4, lema: cap.titol.ca, en: cap.titol.en,

@@ -78,4 +78,7 @@ window.GRAVATS = {
   c510: { f: "img/jungla/c510.jpg", w: 480, h: 298, alt: "L'Akela, el Germà Gris i en Mowgli al costat del tigre mort" },
   c511: { f: "img/jungla/c511.jpg", w: 217, h: 360, alt: "En Teddy amb en Rikki-tikki a l'espatlla" },
   c512: { f: "img/jungla/c512.jpg", w: 327, h: 360, alt: "En Rikki-tikki persegueix la Nagaina pel camí" },
+  // Peter Pan i la Wendy: dibuixos d'Oliver Herford (The Peter Pan Alphabet, 1907; Herford †1935), domini públic
+  c603: { f: "img/peterpan/c603.jpg", w: 248, h: 360, alt: "En Peter Pan, vestit de fulles, obre els braços" },
+  c608: { f: "img/peterpan/c608.jpg", w: 490, h: 360, alt: "La Wendy explica un conte als nois a la casa sota terra" },
 };

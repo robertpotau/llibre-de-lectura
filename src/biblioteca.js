@@ -16,7 +16,7 @@
     { id: "princep",  titol: "The Happy Prince and Other Tales",  curt: "Happy Prince",  autor: "Oscar Wilde",     color: "#8a6a1f", emoji: "🐦", disponible: true, cap1: { titol: "L'estàtua que plorava", ini: "M" } },
     { id: "justso",   titol: "Just So Stories",                   curt: "Just So",       autor: "Rudyard Kipling", color: "#9a4a2a", emoji: "🐘", disponible: true, cap1: { titol: "La gola de la Balena", ini: "A" } },
     { id: "mirall",   titol: "Through the Looking-Glass",         curt: "Looking-Glass", autor: "Lewis Carroll",   color: "#7a2a3a", emoji: "♟️", disponible: true, cap1: { titol: "La casa del mirall", ini: "U" } },
-    { id: "peterpan", titol: "Peter Pan",                         curt: "Peter Pan",     autor: "J. M. Barrie",    color: "#1c5a5a", emoji: "⭐" },
+    { id: "peterpan", titol: "Peter Pan",                         curt: "Peter Pan",     autor: "J. M. Barrie",    color: "#1c5a5a", emoji: "⭐", disponible: true, cap1: { titol: "Un noi a la finestra", ini: "T" } },
     { id: "oz",       titol: "The Wonderful Wizard of Oz",        curt: "Wizard of Oz",  autor: "L. Frank Baum",   color: "#1f6a45", emoji: "🌪️", disponible: true, cap1: { titol: "L'huracà i els munchkins", ini: "L" } },
     { id: "jungla",   titol: "The Jungle Book",                   curt: "Jungle Book",   autor: "Rudyard Kipling", color: "#7a4a1d", emoji: "🐯", disponible: true, cap1: { titol: "El cadell d'home", ini: "E" } },
     { id: "treasure", titol: "Treasure Island",                   curt: "Treasure Island", autor: "R. L. Stevenson", color: "#6b2326", emoji: "🗺️" },
@@ -892,7 +892,7 @@
 
   function avisAviat(def) {
     const a = $("bib-avis");
-    a.textContent = `«${def.titol}» arribarà aviat. De moment, pots llegir Alícia, A través del mirall, El Príncep Feliç, els Contes perquè sí, La Dorothy i el mag d'Oz o les Històries de la jungla!`;
+    a.textContent = `«${def.titol}» arribarà aviat. De moment, pots llegir Alícia, A través del mirall, El Príncep Feliç, els Contes perquè sí, La Dorothy i el mag d'Oz, les Històries de la jungla o Peter Pan i la Wendy!`;
     a.hidden = false;
     clearTimeout(avisAviat.t);
     avisAviat.t = setTimeout(() => { a.hidden = true; }, 3200);
