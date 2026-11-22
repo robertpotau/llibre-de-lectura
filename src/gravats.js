@@ -81,4 +81,19 @@ window.GRAVATS = {
   // Peter Pan i la Wendy: dibuixos d'Oliver Herford (The Peter Pan Alphabet, 1907; Herford †1935), domini públic
   c603: { f: "img/peterpan/c603.jpg", w: 248, h: 360, alt: "En Peter Pan, vestit de fulles, obre els braços" },
   c608: { f: "img/peterpan/c608.jpg", w: 490, h: 360, alt: "La Wendy explica un conte als nois a la casa sota terra" },
+  // L'illa del tresor: gravats de Georges Roux (1885-86, †1929) i, a c705, de Walter Paget (1899, †1935), domini públic
+  c701: { f: "img/tresor/c701.jpg", w: 480, h: 332, alt: "El vell capità, amb la ullera, mira el mar des del penya-segat" },
+  c702: { f: "img/tresor/c702.jpg", w: 242, h: 360, alt: "El cec Pew agafa el capità pel braç" },
+  c703: { f: "img/tresor/c703.jpg", w: 245, h: 360, alt: "En Jim i la seva mare al costat del capità mort" },
+  c704: { f: "img/tresor/c704.jpg", w: 243, h: 360, alt: "El doctor Livesey i el senyor Trelawney examinen els papers" },
+  c705: { f: "img/tresor/c705.jpg", w: 250, h: 360, alt: "En John Silver el Llarg i en Jim" },
+  c706: { f: "img/tresor/c706.jpg", w: 244, h: 360, alt: "De nit, a coberta, prop del barril de pomes" },
+  c707: { f: "img/tresor/c707.jpg", w: 243, h: 360, alt: "En Jim, sol a l'illa, davant d'una serp" },
+  c708: { f: "img/tresor/c708.jpg", w: 245, h: 360, alt: "En Ben Gunn s'agenolla davant d'en Jim" },
+  c709: { f: "img/tresor/c709.jpg", w: 245, h: 360, alt: "Dos homes descansen al costat de la casa de troncs" },
+  c710: { f: "img/tresor/c710.jpg", w: 245, h: 360, alt: "En Silver, amb la crossa, arriba a l'estacada" },
+  c712: { f: "img/tresor/c712.jpg", w: 249, h: 360, alt: "En Jim s'enfila al pal i l'Israel Hands el persegueix" },
+  c713: { f: "img/tresor/c713.jpg", w: 237, h: 360, alt: "Els pirates, a la llum d'una torxa, amb en Jim" },
+  c714: { f: "img/tresor/c714.jpg", w: 247, h: 360, alt: "Els pirates troben el clot buit" },
+  c715: { f: "img/tresor/c715.jpg", w: 246, h: 360, alt: "En Jim recull monedes d'or a la cova" },
 };

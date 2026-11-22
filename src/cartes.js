@@ -64,6 +64,8 @@
     // Peter Pan i la Wendy (Barrie)
     pirata: "🏴‍☠️", fada: "🧚", sirena: "🧜‍♀️", vaixell: "⛵", peto: "💋", finestra: "🪟", gall: "🐓", casa: "🏠",
     medicina: "💊", tambor: "🥁", ancora: "⚓", moneda: "🪙", nuvol: "☁️",
+    // L'illa del tresor (Stevenson)
+    lloro: "🦜", cofre: "🧰", poma: "🍎", barril: "🛢️", crossa: "🦯", bandera: "🏴", ganivet: "🔪", rom: "🍶", posada: "🏚️",
   };
   const especialDe = (cap) => ({
     tipus: "especial", categoria: "especial", dificultat: 4, lema: cap.titol.ca, en: cap.titol.en,

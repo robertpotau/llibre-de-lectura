@@ -2,6 +2,12 @@
 
 Format: `vMAJOR.MINOR.PATCH`. Cada canvi publicat puja la versió.
 
+## v1.11.0 — 2026-11-22
+
+- **Vuitè llibre: *L'illa del tresor*** (R. L. Stevenson, *Treasure Island*, Gutenberg #120, domini públic): edició escolar en 15 capítols en tres nivells (c701–c715; 15 dels 34 capítols de l'original, sencers), 598 cartes (113 de frase feta), repte per capítol, repte final de 15 preguntes i carta especial. Il·lustracions de Georges Roux (1885) i Walter Paget (1899); c711 sense il·lustració. Sense àudio (veu de l'ordinador).
+- 15 agents traductors, Temerari enriquit i 3 voltes de revisió (llengua, fidelitat, cartes) amb ≈ 120 correccions verificades: detall a `CANVIS_2026-11-22_v1.11.md` i `data/tresor/REVISIO.md`.
+- Marca de versió dels CSS/JS a `?v=1.11.0`.
+
 ## v1.10.0 — 2026-11-20
 
 - **Setè llibre: *Peter Pan i la Wendy*** (J. M. Barrie, *Peter and Wendy*, Gutenberg #16, domini públic): edició escolar en 14 capítols en tres nivells (c601–c614; s'ometen els capítols VII–X de l'original), 644 cartes, repte per capítol, repte final de 14 preguntes i carta especial. Estereotips d'època adaptats (la tribu, sense mots racistes). Dos dibuixos d'Oliver Herford (1907).
